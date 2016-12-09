@@ -1,4 +1,4 @@
-# Front-End Developer Handbook
+# Front-End Developer Handbook 2017
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
