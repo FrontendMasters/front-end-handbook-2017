@@ -3,7 +3,8 @@
 ##### Uptime:
 
 * [Pingdom](https://www.pingdom.com/) [free to $]
-* [Uptime Robot](https://uptimerobot.com/)
+* [Monitority](http://monitority.com/) [free]
+* [Uptime Robot](https://uptimerobot.com/) [free to $]
 * [Uptrends](https://www.uptrends.com/) [$]
 
 ##### General:
