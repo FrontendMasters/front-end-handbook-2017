@@ -1,36 +1,42 @@
-# UI Widgets & Components Tools 
+# UI Widgets & Components Toolkits
 
-##### Desktop & Mobile:
+##### On Web Platform:
 
-* [Ant Design](https://ant.design/)
 * [Bootstrap 3](http://getbootstrap.com/components/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 * [Kendo UI](http://www.telerik.com/kendo-ui) [free to $]
-* [Material ui](http://material-ui.com/)
 * [Materialize](http://materializecss.com/)
 * [Office UI Fabric](http://dev.office.com/fabric)
-* [Polymer Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 * [Semantic UI](http://semantic-ui.com/)
 * [UiKit](https://getuikit.com/index.html)
 * [Webix](http://webix.com/) [$]
 
-##### Desktop (NW.js and Electron):
+###### NOTES/ADVICE
+
+* If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/).
+
+##### React Specific, On Web Platform:
+
+* [Ant Design](https://ant.design/)
+* [Material ui](http://material-ui.com/)
+* [Semantic-UI-React](http://react.semantic-ui.com/introduction)
+
+###### NOTES/ADVICE
+
+* If I was going to build a React app and needed a toolkit of widgets/components off the shelf I'd combine [Semantic-UI-React](http://react.semantic-ui.com/introduction) and [Ant Design](https://ant.design/)
+
+##### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. NW.js and Electron):
 
 * [Photon](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
-##### Mobile Focused:
+##### Mobile/Tablet Specific On Web Platform:
 
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
-* [Mobile Angular UI](http://mobileangularui.com/)
 * [Ratchet](http://goratchet.com/)
 
 
-***
-### Advice
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
 
