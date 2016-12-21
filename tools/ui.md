@@ -1,6 +1,6 @@
 # UI Widgets & Components Toolkits
 
-##### On Web Platform:[^1]
+##### On Web Platform: [[^1]]
 
 * [Bootstrap 3](http://getbootstrap.com/components/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
@@ -11,7 +11,7 @@
 * [UiKit](https://getuikit.com/index.html)
 * [Webix](http://webix.com/) [$]
 
-##### React Specific, On Web Platform:[^2]
+##### React Specific, On Web Platform: [[^2]]
 
 * [Ant Design](https://ant.design/)
 * [Material ui](http://material-ui.com/)
