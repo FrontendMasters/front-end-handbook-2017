@@ -8,3 +8,7 @@ cite{
 .page-inner ul, .page-inner ol {
 	margin-bottom:15px !important;
 }
+
+small{
+	font-size:10px;
+}
