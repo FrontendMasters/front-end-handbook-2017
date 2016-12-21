@@ -11,11 +11,13 @@
 * [UiKit](https://getuikit.com/index.html)
 * [Webix](http://webix.com/) [$]
 
-<small>
+<div class="notes-advice">
+
 **NOTES/ADVICE**
 
 If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/).
-</small>
+
+</div>
 
 ##### React Specific, On Web Platform:
 
