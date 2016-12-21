@@ -1,6 +1,6 @@
 # UI Widgets & Components Toolkits
 
-##### On Web Platform:
+##### On Web Platform:[^1]
 
 * [Bootstrap 3](http://getbootstrap.com/components/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
@@ -11,23 +11,11 @@
 * [UiKit](https://getuikit.com/index.html)
 * [Webix](http://webix.com/) [$]
 
-<div class="notes-advice">
-
-**NOTES/ADVICE**
-
-If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/).
-
-</div>
-
-##### React Specific, On Web Platform:
+##### React Specific, On Web Platform:[^2]
 
 * [Ant Design](https://ant.design/)
 * [Material ui](http://material-ui.com/)
 * [Semantic-UI-React](http://react.semantic-ui.com/introduction)
-
-###### NOTES/ADVICE
-
-If I was going to build a React app and needed a toolkit of widgets/components off the shelf I'd combine [Semantic-UI-React](http://react.semantic-ui.com/introduction) and [Ant Design](https://ant.design/)
 
 ##### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. NW.js and Electron):
 
@@ -39,6 +27,14 @@ If I was going to build a React app and needed a toolkit of widgets/components o
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
 * [Ratchet](http://goratchet.com/)
+
+***
+
+**NOTES/ADVICE**
+
+[^1]: If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/).
+
+[^2]: If I was going to build a React app and needed a toolkit of widgets/components off the shelf I'd combine [Semantic-UI-React](http://react.semantic-ui.com/introduction) and [Ant Design](https://ant.design/)
 
 
 
