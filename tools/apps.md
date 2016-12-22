@@ -56,15 +56,15 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 
 ***
 
-###### NOTES:
-
-If you are building a simple website that has minimal interactions with data (i.e. mostly a static content web site), you should avoid a front-end framework. A lot of work can be done with a task runner like [Gulp and jQuery](https://github.com/vigetlabs/gulp-starter), while avoiding the unnecessary complexity of learning and use an app framework tool.
-
-***
-
 ###### ADVICE:
 
 [^1]: If you are new to front-end/JavaScript application development I'd start with [Riot](http://riotjs.com/) or [Vue.js](http://vuejs.org/). Then I'd work my way to [React](http://facebook.github.io/react/). Then I'd look at [Angular 2](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/).
+
+If you are building a simple website that has minimal interactions with data (i.e. mostly a static content web site), you should avoid a front-end framework. A lot of work can be done with a task runner like [Gulp and jQuery](https://github.com/vigetlabs/gulp-starter), while avoiding the unnecessary complexity of learning and use an app framework tool.
+
+Want something smaller than React, consider [Preact](https://preactjs.com/). Preact is an attempt to recreate the core value proposition of React (or similar libraries like Mithril) using as little code as possible, with first-class support for ES2015. Currently the library is around 3kb (minified & gzipped).
+
+Can't decide between React or Angluar 2, read, ["Angular 2 vs React: The Ultimate Dance Off"](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c#.j0r1xdvzl)
 
 
 
