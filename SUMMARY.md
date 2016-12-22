@@ -66,7 +66,7 @@
     * [DOM Tools](tools/dom.md)
 	* [JavaScript Tools](tools/js.md)
     * [Static Site Generators Tools](tools/static.md)
-    * [App Framework (Desktop, Mobile etc.) Tools](tools/apps.md)
+    * [App Frameworks (Desktop, Mobile etc.) Tools](tools/apps.md)
     * [Scaffolding Tools](tools/scaffolding.md)
     * [Templating/Data Binding Tools](tools/templates.md)
     * [UI Widget & Component ToolKits](tools/ui.md)

@@ -1,13 +1,13 @@
-# App Framework (Desktop, Mobile, Tablet, etc.) Tools
+# App Frameworks (Desktop, Mobile, Tablet, etc.) Tools
 
 ##### Front-End App Frameworks: [^1]
 
-* [AngularJS](https://angularjs.org/) & [angular-cli](https://github.com/angular/angular-cli) & [Batarang](https://github.com/angular/angularjs-batarang)
+* [AngularJS](https://angularjs.org/) + [angular-cli](https://github.com/angular/angular-cli) + [Batarang](https://github.com/angular/angularjs-batarang)
 * [Aurelia](http://aurelia.io/)
-* [Ember](http://emberjs.com/) & [embercli](https://ember-cli.com/) & [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
+* [Ember](http://emberjs.com/) + [embercli](https://ember-cli.com/) + [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Polymer](https://www.polymer-project.org/1.0/)
-* [React](http://facebook.github.io/react/) & [create-react-app](https://github.com/facebookincubator/create-react-app) & [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Vue.js](http://vuejs.org/) & [vue-cli](https://github.com/vuejs/vue-cli) & [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+* [React](http://facebook.github.io/react/) + [create-react-app](https://github.com/facebookincubator/create-react-app) + [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Vue.js](http://vuejs.org/) + [vue-cli](https://github.com/vuejs/vue-cli) & [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 * [Riot](http://riotjs.com/)
 
 ##### Native Hybrid Mobile WebView (i.e., Browser Engine Driven) Frameworks:
@@ -54,9 +54,13 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [todomvc.com](http://todomvc.com/)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
+***
+
 ###### NOTES:
 
 If you are building a simple website that has minimal interactions with data (i.e. mostly a static content web site), you should avoid a front-end framework. A lot of work can be done with a task runner like [Gulp and jQuery](https://github.com/vigetlabs/gulp-starter), while avoiding the unnecessary complexity of learning and use an app framework tool.
+
+***
 
 ###### ADVICE:
 
