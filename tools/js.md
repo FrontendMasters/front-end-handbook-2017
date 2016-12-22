@@ -33,10 +33,10 @@
 
 ##### Unit Testing:
 
+* [AVA](https://github.com/avajs/ava)
 * [Jasmine](http://jasmine.github.io/)
-    - [Jest](http://facebook.github.io/jest/)
 * [Mocha](http://mochajs.org/)
-* [QUnit](http://qunitjs.com/)
+* [Tape](https://github.com/substack/tape)
 
 ##### Testing Assertions for Unit Testing:
 
