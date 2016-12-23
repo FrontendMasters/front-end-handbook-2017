@@ -52,6 +52,10 @@
 
 * [Emmet](http://emmet.io/)
 
+##### HTML Outliner:
+
+* [HTML 5 Outliner](https://gsnedders.html5.org)
+
 ##### Trending HTML Repositories on GitHub This Month:
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)

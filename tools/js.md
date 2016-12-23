@@ -3,16 +3,21 @@
 ##### JS Utilities:
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
-* [async](https://github.com/caolan/async)
+* [async](http://caolan.github.io/async/)
+* [azios](https://github.com/mzabriskie/axios)
 * [Chance](http://chancejs.com/)
+* [date-fns](https://date-fns.org/)
 * [format.js](http://formatjs.io/)
 * [is.js](http://arasatasaygin.github.io/is.js/)
 * [lodash](https://lodash.com/)
+  * [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [Math.js](http://mathjs.org/)
 * [Moment.js](http://momentjs.com/)
 * [Numeral.js](http://numeraljs.com/)
 * [string.js](http://stringjs.com/)
 * [underscore.js](http://underscorejs.org/)
+  * [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* [voca](https://vocajs.com/)
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
@@ -26,7 +31,7 @@
 
 ##### Linting/Hinting:
 
-* [eshint](http://eslint.org/)
+* [eslint](http://eslint.org/)
 * [jshint](http://jshint.com/)
 * [JSLint](http://www.jslint.com/)
     - [jslinterrors.com](http://jslinterrors.com/)
@@ -47,6 +52,7 @@
 ##### Test Spies, Stubs, and Mocks for Unit Testing:
 
 * [sinon.js](http://sinonjs.org/)
+* [Kakapo.js](kakapo-js)
 
 ##### Code Style Linter:
 
@@ -61,7 +67,7 @@
 ##### Performance Testing:
 
 * [benchmark.js](http://benchmarkjs.com/)
-* [jsperf](http://jsperf.com/)
+* [jsperf.co](https://jsperf.co/)
 
 ##### Visualization, Static Analysis, Complexity, Coverage Tools:
 

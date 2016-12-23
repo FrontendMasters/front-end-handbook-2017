@@ -6,6 +6,7 @@
 * [Firebase](https://www.firebase.com/index.html) [free to $]
 * [Kinvey](http://www.kinvey.com/) [free'ish to $]
 * [Pusher](https://pusher.com/) [free to $]
+* [restdb.io](https://restdb.io/) [free to $]
 
 ##### User Management as a Service:
 

@@ -39,7 +39,10 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 ##### References/Docs:
 
 * [CSS Triggers...a Game of Layout, Paint, and Composite](http://csstriggers.com/)
+* [cssreference.io](http://cssreference.io/)
 * [cssvalues.com](http://cssvalues.com/)
+* [Default CSS for Chrome Browser](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)
+* [Head - A list of everything that could go in the <head> of your document](http://gethead.info/)
 * [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [htmlelement.info](http://htmlelement.info/)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
@@ -55,25 +58,28 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
 * [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
+* [CSS Indexes - A listing of every term defined by CSS specs](https://drafts.csswg.org/indexes/)
 * [The Elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 * [Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 * [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 * [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 
-##### Architecting CSS:
+##### CSS Architecture Frameworks:
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 * [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
 * [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
 
-##### Authoring Conventions:
+##### Authoring/Architecting Conventions:
 
+* [css-architecture](https://github.com/jareware/css-architecture)
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
+* [MaintainableCSS](http://maintainablecss.com/) [read]
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 
 ##### HTML/CSS Newsletters:

@@ -54,6 +54,10 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [todomvc.com](http://todomvc.com/)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
+##### Performance:
+
+* [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
+
 ***
 
 ###### ADVICE:

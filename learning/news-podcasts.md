@@ -5,6 +5,7 @@
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 * [Front-End Dev Weekly](http://frontenddevweekly.com/)
+* [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [frontendfront.com](http://frontendfront.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
@@ -28,6 +29,7 @@
 
 * [Echo JS](http://www.echojs.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
+* [JavaScript Air](https://javascriptair.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)

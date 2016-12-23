@@ -49,6 +49,7 @@
 
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+* [fetch](https://github.com/github/fetch)
 * [socket.io](http://socket.io/)
 * [SockJS](https://github.com/sockjs/sockjs-client)
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)

@@ -33,6 +33,7 @@
 * [Fast CSS: How Browsers Lay Out Web Pages](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [read]
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 * [So How Does the Browser Actually Render a Website](https://www.youtube.com/watch?v=SmE4OwHztCc) [watch]
+* [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [read]
 * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/) [read]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")

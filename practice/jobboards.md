@@ -12,6 +12,12 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 * [jobs.github.com](https://jobs.github.com/)
 * [weworkremotely.com](https://weworkremotely.com/)
 
+***
+
+###### NOTES:
+
+Looking for a remote front-end Job, check out these [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
+
 
 
 

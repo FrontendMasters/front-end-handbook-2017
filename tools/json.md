@@ -4,6 +4,10 @@
 
 * [JSONmate](http://jsonmate.com/)
 
+##### Online Editors:
+
+* [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+
 ##### Query Tools:
 
 * [DefiantJS](http://www.defiantjs.com/)
@@ -21,6 +25,8 @@
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [mockable.io](https://www.mockable.io/)
 * [Mocky](http://www.mocky.io/)
+* [RANDOM USER GENERATOR](https://randomuser.me/)
+* [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
 
 ##### Local JSON Mocking API Tools:
 

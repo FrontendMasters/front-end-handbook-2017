@@ -21,6 +21,10 @@
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) [read]
 * [HTTP Succinctly](http://code.tutsplus.com/series/http-succinctly--net-33683) [read]
 
+##### HTTP Status Codes
+
+* [HTTP Status Codes](https://httpstatuses.com/)
+
 ##### CORS
 
 * [CORS in Action](https://www.manning.com/books/cors-in-action) [read][$]

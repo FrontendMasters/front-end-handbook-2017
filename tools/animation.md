@@ -10,6 +10,10 @@
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
+##### Animation References:
+
+* [canianimate.com](http://canianimate.com/)
+
 
 
 

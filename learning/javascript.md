@@ -35,6 +35,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
+* [JS MythBusters](https://mythbusters.js.org/index.html) [read]
 * [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
