@@ -40,11 +40,11 @@ The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan
 
 <cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
 
-![](../images/task1.png "http://stateofjs.com/")
+![](../images/test1.png "http://stateofjs.com/")
 
 <cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
 
-![](../images/tasks2.png "http://stateofjs.com/")
+![](../images/test2.png "http://stateofjs.com/")
 
 <cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
 
