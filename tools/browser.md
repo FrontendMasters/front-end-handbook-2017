@@ -55,7 +55,7 @@
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
 
-##### Browser Hosted Testing/Automation:
+##### Hosted Testing/Automation for Browsers:
 
 * [Browserling](https://www.browserling.com/) [$]
 * [BrowserStack](https://www.browserstack.com) [$]
@@ -67,8 +67,10 @@
 ##### Headless Browsers:
 
 * [PhantomJS](http://phantomjs.org/)
+  * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 * [slimerjs](http://slimerjs.org/)
 * [TrifleJS](http://triflejs.org/)
+* [Zombie.js](http://zombie.js.org/)
 
 ##### Headless Browser Automation:
 

@@ -4,11 +4,12 @@
 
 * [doT.js](http://olado.github.io/doT/)
 * [Handlebars](http://handlebarsjs.com/)
-    - [htmlbars](https://github.com/tildeio/htmlbars)
+  * [htmlbars](https://github.com/tildeio/htmlbars)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 
 ##### Templating and Reactive Data Binding:
 
+* [Deku](https://github.com/anthonyshort/deku)
 * [jquerymy.js](http://jquerymy.com/)
 * [ractive.js](http://www.ractivejs.org/)
 * [react.js](https://facebook.github.io/react/index.html)

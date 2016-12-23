@@ -3,7 +3,7 @@
 ##### Front-End App Frameworks: [^1]
 
 * [AngularJS](https://angularjs.org/) + [angular-cli](https://github.com/angular/angular-cli) + [Batarang](https://github.com/angular/angularjs-batarang)
-* [Aurelia](http://aurelia.io/)
+* [Aurelia](http://aurelia.io/) + [Aurelia CLI](https://github.com/aurelia/cli)
 * [Ember](http://emberjs.com/) + [embercli](https://ember-cli.com/) + [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Polymer](https://www.polymer-project.org/1.0/)
 * [React](http://facebook.github.io/react/) + [create-react-app](https://github.com/facebookincubator/create-react-app) + [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -57,6 +57,12 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 ##### Performance:
 
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
+
+***
+
+###### NOTES:
+
+Keep an eye on [inferno](https://github.com/trueadm/inferno) and [Svelte](https://svelte.technology/guide) in 2017 for building component based UI applications.
 
 ***
 

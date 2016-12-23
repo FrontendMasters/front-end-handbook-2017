@@ -8,6 +8,10 @@
 * [Tether](http://tether.io/docs/welcome/)
 * [Zepto](http://zeptojs.com/)
 
+##### DOM Event Tools:
+
+* [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
+
 ##### DOM Performance Tools:
 
 * [DOM Monster](http://mir.aculo.us/dom-monster/)

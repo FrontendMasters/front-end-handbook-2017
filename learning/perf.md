@@ -11,6 +11,7 @@
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/ref=sr_1_3) [read][$]
 * [JavaScript Performance Rocks](http://javascriptrocks.com/) [read]
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) [read]
+* [perf-tooling.today](http://www.perf-tooling.today/)
 * [Performance Calendar](http://calendar.perfplanet.com/2014/) [read]
 * [perf.rocks](http://perf.rocks/)
 * [Using WebPageTest](http://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1) [read][$]
@@ -18,7 +19,6 @@
 * [Web Performance: The Definitive Guide](http://shop.oreilly.com/product/0636920032427.do) [read]
 * [Website Performance](https://frontendmasters.com/courses/website-performance/) [watch][$]
 * [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
-
 
 
 
