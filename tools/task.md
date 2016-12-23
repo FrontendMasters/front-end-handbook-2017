@@ -19,13 +19,11 @@
 
 ###### SURVEY RESULTS:
 
-4,715 developers:
+The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
 
 ![](../images/q11.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
 
 <cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
-
-9307 developers:
 
 ![](../images/task1.png "http://stateofjs.com/")
 
