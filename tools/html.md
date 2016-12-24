@@ -7,7 +7,6 @@
 * [HTML5 Boilerplate](https://html5boilerplate.com/)
 * [HTML5 Bones](http://html5bones.com/)
 * [Mobile boilerplate](https://html5boilerplate.com/mobile/)
-* [Pears](http://pea.rs/)
 * [Web Starter Kit Boilerplate & Tooling for Multi-Device Development](https://developers.google.com/web/tools/starter-kit)
 
 ##### HTML Polyfill:
@@ -17,7 +16,6 @@
 ##### Transpiling:
 
 * [HAML](http://haml.info/)
-* [jade](http://jade-lang.com/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
 ##### References:
@@ -27,11 +25,9 @@
 * [HTML Arrows](http://htmlarrows.com/)
 * [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
 * [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
-* [HTMLelement.info](http://htmlelement.info/)
 
 ##### Linting/Hinting:
 
-* [html5-lint](https://github.com/mozilla/html5-lint)
 * [HTMLHint](http://htmlhint.com/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 
@@ -54,7 +50,7 @@
 
 ##### HTML Outliner:
 
-* [HTML 5 Outliner](https://gsnedders.html5.org)
+* [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 
 ##### Trending HTML Repositories on GitHub This Month:
 

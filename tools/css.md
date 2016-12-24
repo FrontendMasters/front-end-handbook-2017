@@ -8,10 +8,10 @@
 * [Concise](http://concisecss.com/)
 * [Foundation](http://foundation.zurb.com/)
 * [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
-* [Materialize](http://materializecss.com/)
 * [Metro UI](http://metroui.org.ua/)
 * [Pure.css](http://purecss.io/)
 * [Semantic UI](http://semantic-ui.com/)
+* [Skeleton](http://getskeleton.com/)
 
 ##### Mobile Only CSS Frameworks:
 
@@ -45,7 +45,6 @@
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
 * [cssvalues.com](http://cssvalues.com/)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [OverAPI CSS cheatsheet](http://overapi.com/css/)
 
 ##### Linting/Hinting:
 
@@ -84,7 +83,6 @@
 
 * [CSS code guide](http://codeguide.co/#css) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
-* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
 * [MaintainableCSS](http://maintainablecss.com/) [read]
 
