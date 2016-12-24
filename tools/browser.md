@@ -25,10 +25,10 @@
 ##### Browser Development/Debug Tools:
 
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
-    - [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-    - [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
-    - [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-    - [Settings](https://developer.chrome.com/devtools/docs/settings)
+  * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  * [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+  * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+  * [Settings](https://developer.chrome.com/devtools/docs/settings)
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
