@@ -1,21 +1,13 @@
 # Static Site Generators Tools
 
-##### JS Site Generators:
-
-* [Harp](http://harpjs.com/)
-* [Metalsmith](http://www.metalsmith.io/)
-
-##### JS Blog Site Generators:
-
-* [Hexo](https://hexo.io/)
-* [HubPress](http://hubpress.io/)
-
-##### Site Generator Listings:
+##### Site Generator Listings: [^1]
 
 * [staticgen.com](https://www.staticgen.com/)
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
 
+###### ADVICE:
 
+[^1] Before using a static site generator consider using [Gulp](http://gulpjs.com/) to setup a custom solution or use a tool that makes use of Gulp for static site generation. e.g. [Gulp Starter](https://github.com/vigetlabs/gulp-starter)
 
 
 

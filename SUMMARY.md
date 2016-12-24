@@ -75,7 +75,7 @@
     * [Graphics (e.g., SVG, canvas, webgl) Tools](tools/graphics.md)
     * [Animation Tools](tools/animation.md)
     * [JSON Tools](tools/json.md)
-    * [Software Testing Tools](tools/testing.md)
+    * [Testing Tools](tools/testing.md)
     * [Data Storage Tools](tools/db.md)
     * [Module/Package Loading Tools](tools/loaders.md)
     * [Module/Package Repo. Tools](tools/repo.md)

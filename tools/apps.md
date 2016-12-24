@@ -76,6 +76,22 @@ Want something smaller than React, consider [Preact](https://preactjs.com/). Pre
 
 Can't decide between React or Angluar 2, read, ["Angular 2 vs React: The Ultimate Dance Off"](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c#.j0r1xdvzl)
 
+###### SURVEY RESULTS:
+
+The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
+
+![](../images/q13.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
+
+<cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
+
+![](../images/frameworks1.png "http://stateofjs.com/")
+
+<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+
+![](../images/frameworks2.png "http://stateofjs.com/")
+
+<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+
 
 
 

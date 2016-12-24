@@ -4,6 +4,7 @@
 
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 * [jQuery](http://jquery.com/)
+  * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 * [Keypress](http://dmauro.github.io/Keypress/)
 * [Tether](http://tether.io/docs/welcome/)
 * [Zepto](http://zeptojs.com/)

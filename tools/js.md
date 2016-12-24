@@ -52,7 +52,7 @@
 ##### Test Spies, Stubs, and Mocks for Unit Testing:
 
 * [sinon.js](http://sinonjs.org/)
-* [Kakapo.js](kakapo-js)
+* [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
 ##### Code Style Linter:
 

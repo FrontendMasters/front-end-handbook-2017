@@ -1,10 +1,28 @@
-# Software Testing Tools
+# Testing Tools
 
 ##### Software Testing Frameworks:
 
 * [Intern](https://theintern.github.io/)
 * [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
+
+##### Unit Testing:
+
+* [AVA](https://github.com/avajs/ava)
+* [Jasmine](http://jasmine.github.io/)
+* [Mocha](http://mochajs.org/)
+* [Tape](https://github.com/substack/tape)
+
+##### Testing Assertions for Unit Testing:
+
+* [Chai](http://chaijs.com/)
+* [expect.js](https://github.com/Automattic/expect.js)
+* [should.js](http://shouldjs.github.io/)
+
+##### Test Spies, Stubs, and Mocks for Unit Testing:
+
+* [sinon.js](http://sinonjs.org/)
+* [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
 ##### Hosted Testing/Automation for Browsers:
 

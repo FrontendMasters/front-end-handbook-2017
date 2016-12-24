@@ -12,13 +12,15 @@
 * [Unsplash](https://unsplash.it/)
 * [Wraith](http://bbc-news.github.io/wraith/index.html)
 
-##### Online Code Editors:
+##### Share Runnable Code Editors:
 
-* [CodePen](http://codepen.io/)
+Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
+
+* [CodePen](http://codepen.io/) [free to $]
 * [es6fiddle.net](http://www.es6fiddle.net/)
-* [JS Bin](http://jsbin.com/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Liveweave](http://liveweave.com/)
+* [jsbin.com](http://jsbin.com/) [free to $]
+* [jsfiddle.net](http://jsfiddle.net/)
+* [liveweave.com](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
 
 ##### Tools for Finding Tools:

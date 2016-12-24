@@ -1,6 +1,6 @@
-# Back-end as a service (aka BAAS) tools for front-end developers
+# Back-end/API tools
 
-##### Data/back-end management as a service:
+##### Data/back-end as a service aka BAAS:
 
 * [Back&](https://www.backand.com/) [free to $]
 * [Firebase](https://www.firebase.com/index.html) [free to $]
@@ -8,11 +8,20 @@
 * [Pusher](https://pusher.com/) [free to $]
 * [restdb.io](https://restdb.io/) [free to $]
 
+##### Data/back-end
+
+* [Horizon](http://horizon.io/)
+* [GraphQL](http://graphql.org/)
+  * [http://www.apollodata.com/](http://www.apollodata.com/)
+* [Falcor](https://netflix.github.io/falcor/)
+
 ##### User Management as a Service:
 
 * [Auth0](https://auth0.com) [$]
 * [Hull](http://www.hull.io/) [$]
 * [UserApp](https://www.userapp.io/) [free to $]
+
+
 
 
 

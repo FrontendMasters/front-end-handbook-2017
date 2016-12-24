@@ -18,30 +18,6 @@ However, I do strongly believe, minimally, a code editor should have the followi
 6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
 7. Be small, simple, and not coupled to the code (i.e., not required to edit the code)
 
-I personally use and recommend [Sublime Text](http://www.sublimetext.com/) with the following plug-ins.
-
-* [Auto​File​Name](https://packagecontrol.io/packages/AutoFileName)
-* [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
-* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
-* [CSS3](https://packagecontrol.io/packages/CSS3)
-* [HTMLAttributes](https://packagecontrol.io/packages/HTMLAttributes)
-* [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
-* [Package Control](https://packagecontrol.io/packages/Package%20Control)
-* [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
-* [String​Encode](https://packagecontrol.io/packages/StringEncode)
-* [Sublime​Linter](https://packagecontrol.io/packages/SublimeLinter)
-    * [Sublime​Linter-json](https://packagecontrol.io/packages/SublimeLinter-json)
-    * [Sublime​Linter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
-    * [Sublime​Linter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
-* [Terminal](https://packagecontrol.io/packages/Terminal)
-
-Here are some resources for learning Sublime:
-
-* [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
-* [Sublime Productivity](https://leanpub.com/sublime-productivity) [read][$]
-* [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
-* [Sublime Text Power User Book](https://sublimetextbook.com/) [read + watch][$]
-
 ##### Code Editors:
 
 * [Atom](https://atom.io/)
@@ -56,7 +32,7 @@ Here are some resources for learning Sublime:
 * [Codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
 
-##### Sharable/Runnable Code Editors:
+##### Share Runnable Code Editors:
 
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 

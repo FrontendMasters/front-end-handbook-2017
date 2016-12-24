@@ -23,6 +23,11 @@
 * [Jank Free](http://jankfree.org/)
 * [Performance of ES6 features relative to the ES5](https://kpdecker.github.io/six-speed/)
 
+##### Checklist:
+
+* [Front-End Performance Checklist 2017 (PDF, Apple Pages)](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
+]
+
 
 
 
