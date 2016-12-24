@@ -1,4 +1,4 @@
-# Learn Code Editors
+# Code Editing Tools
 
 > A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
 
@@ -32,7 +32,7 @@ However, I do strongly believe, minimally, a code editor should have the followi
 * [Codeanywhere](https://codeanywhere.com) [free to $]
 * [Koding](https://koding.com) [free to $]
 
-##### Share Runnable Code Editors:
+##### Shareable & Runnable Code Editors:
 
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 

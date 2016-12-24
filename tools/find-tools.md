@@ -5,7 +5,6 @@
 * [js.coach](https://js.coach/)
 * [microjs.com](http://microjs.com)
 * [stackshare.io](http://stackshare.io/)
-* [stylesheets.co](https://stylesheets.co/)
 * [The Toolbox](http://thetoolbox.cc/)
 * [Unheap](http://www.unheap.com/)
 

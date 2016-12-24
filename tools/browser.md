@@ -9,7 +9,6 @@
 
 ##### General Reference Tools to Determine If X Browser Supports X:
 
-* [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
@@ -19,7 +18,6 @@
 * [iwanttouse.com/](http://www.iwanttouse.com/)
 * [jscc.info](http://jscc.info/)
 * [Platform Status](https://dev.modern.ie/platform/status/)
-* [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
 ##### Browser Development/Debug Tools:
@@ -31,17 +29,11 @@
   * [Settings](https://developer.chrome.com/devtools/docs/settings)
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
-* [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
-##### Synchronized Browser Tools:
-
-* [Browsersync](http://www.browsersync.io/)
-
 ##### Browser Coding Tools to Determine If X Browser Supports X:
 
-* [ES Feature Tests](https://featuretests.io/)
 * [Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
 
