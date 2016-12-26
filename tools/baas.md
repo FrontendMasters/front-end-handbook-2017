@@ -18,7 +18,8 @@
 ##### User Management as a Service:
 
 * [Auth0](https://auth0.com) [$]
-* [Hull](http://www.hull.io/) [$]
+* [AuthRocket](https://authrocket.com)
+* [Stormpath](https://stormpath.com/)
 * [UserApp](https://www.userapp.io/) [free to $]
 
 

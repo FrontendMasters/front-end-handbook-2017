@@ -16,12 +16,12 @@
 * [Material ui](http://material-ui.com/)
 * [Semantic-UI-React](http://react.semantic-ui.com/introduction)
 
-##### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. NW.js and Electron):
+##### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. used with NW.js and Electron):
 
 * [Photon](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
-##### Mobile/Tablet Specific On Web Platform (i.e. touch focused):
+##### Mobile/Tablet Specific On Web Platform (i.e. used with touch focused UI's):
 
 * [Framework7](http://www.idangero.us/framework7)
 * [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)

@@ -1,9 +1,9 @@
-# Front-End Data Storage Tools
+# Front-End Data Storage Tools (i.e. Data storage solution in the client)
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)
 * [ForerunnerDB](http://forerunnerdb.com/)
-* [localForage](http://mozilla.github.io/localForage/)
+* [LocalForage](https://localforage.github.io/localForage/)
 * [LokiJS](http://lokijs.org/#/)
 * [Lovefield](https://google.github.io/lovefield)
 * [lowdb](https://github.com/typicode/lowdb)

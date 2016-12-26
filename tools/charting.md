@@ -12,13 +12,13 @@
 * [C3.js](http://c3js.org/)
 * [Chartist-jsj](https://github.com/gionkunz/chartist-js)
 * [Chart.js](http://www.chartjs.org/)
-* [Epoch](https://github.com/epochjs/epoch)
+* [Epoch](http://epochjs.github.io/epoch/)
 * [FusionCharts](http://www.fusioncharts.com/) [$]
 * [Google Charts](https://developers.google.com/chart/interactive/docs/)
 * [Highcharts](http://www.highcharts.com/) [Non-commercial free to $]
 * [ZingChart](http://www.zingchart.com/) [free to $]
 
-##### Services:
+##### Services (i.e. hosted data visualization services for embedding and sharing):
 
 * [ChartBlocks](http://www.chartblocks.com/) [free to $]
 * [Datawrapper](https://datawrapper.de/)

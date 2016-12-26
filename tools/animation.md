@@ -1,8 +1,10 @@
 # Animation Tools
 
-* [Dynamics.js](https://github.com/michaelvillar/dynamics.js)
-* [GreenSock-JS](https://github.com/greensock/GreenSock-JS)
-* [snabbt.js](http://daniel-lundin.github.io/snabbt.js/)
+* [Animate](https://github.com/daneden/animate.css)
+* [Anime](https://github.com/juliangarnier/anime)
+* [Dynamics.js](http://dynamicsjs.com/)
+* [GreenSock-JS](http://greensock.com/)
+* [Magic](https://github.com/miniMAC/magic)
 * [TweenJS](https://github.com/CreateJS/TweenJS)
 * [Velocity.js](http://julian.com/research/velocity/)
 

@@ -4,8 +4,8 @@
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 * [async](http://caolan.github.io/async/)
-* [azios](https://github.com/mzabriskie/axios)
-* [Chance](http://chancejs.com/)
+* [axios](https://github.com/mzabriskie/axios)
+* [chance](http://chancejs.com/)
 * [date-fns](https://date-fns.org/)
 * [format.js](http://formatjs.io/)
 * [is.js](http://arasatasaygin.github.io/is.js/)
@@ -24,17 +24,16 @@
 ##### Transpiling (ESX to ESX):
 
 * [Babel](https://babeljs.io/)
+* [TypeScript](https://www.typescriptlang.org/)
 
 ##### JavaScript Compatibility Checker:
 
 * [jscc.info/](http://jscc.info/)
 
-##### Linting/Hinting:
+##### Linting/Hinting & Style Linter:
 
 * [eslint](http://eslint.org/)
 * [jshint](http://jshint.com/)
-* [JSLint](http://www.jslint.com/)
-    - [jslinterrors.com](http://jslinterrors.com/)
 
 ##### Unit Testing:
 
@@ -54,10 +53,6 @@
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-##### Code Style Linter:
-
-* [JSCS](http://jscs.info/)
-
 ##### Code Formater/Beautifier:
 
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
@@ -71,13 +66,9 @@
 
 ##### Visualization, Static Analysis, Complexity, Coverage Tools:
 
-* [Blanket.js](http://blanketjs.org/)
 * [Coveralls](https://coveralls.io/) [$]
-* [escomplex](https://github.com/jared-stilwell/escomplex)
 * [Esprima](http://esprima.org/)
-* [jscomplexity.org](http://jscomplexity.org/)
 * [istanbul](https://github.com/gotwarlost/istanbul)
-* [Plato](https://github.com/es-analysis/plato)
 
 ##### Optimizer:
 
