@@ -76,8 +76,11 @@
 ##### Architecting CSS:
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
+* [BEM](http://getbem.com/introduction/)
+* [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
+* [SUIT CSS](http://suitcss.github.io)
 
 ##### Authoring Conventions:
 

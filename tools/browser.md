@@ -15,7 +15,7 @@
 * [Firefox Platform Status - Implementation & standardization roadmap for web platform features](https://platform-status.mozilla.org/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Test](https://html5test.com/)
-* [iwanttouse.com/](http://www.iwanttouse.com/)
+* [iwanttouse.com](http://www.iwanttouse.com/)
 * [jscc.info](http://jscc.info/)
 * [Platform Status](https://dev.modern.ie/platform/status/)
 * [whatwebcando.today](https://whatwebcando.today/)

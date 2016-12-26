@@ -18,7 +18,7 @@ However, I do strongly believe, minimally, a code editor should have the followi
 6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
 7. Be small, simple, and not coupled to the code (i.e., not required to edit the code)
 
-##### Code Editors:
+##### Code Editors: [^1]
 
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
@@ -30,7 +30,6 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 * [Cloud9](https://c9.io) [free to $]
 * [Codeanywhere](https://codeanywhere.com) [free to $]
-* [Koding](https://koding.com) [free to $]
 
 ##### Shareable & Runnable Code Editors:
 
@@ -43,7 +42,11 @@ Used to share limited amounts of immediately runnable code. Not a true code edit
 * [liveweave.com](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
 
+***
 
+###### ADVICE:
+
+[^1] I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool.
 
 
 
