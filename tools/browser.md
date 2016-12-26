@@ -55,6 +55,7 @@
 * [NightwatchJS](http://nightwatchjs.org/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
+* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### Headless Browsers:
 
