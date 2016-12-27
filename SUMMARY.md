@@ -8,7 +8,7 @@
     * [Front-End Devs Develop For...](practice/fd-dev-for.md)
 	* [Front-End on a Team](practice/team.md)
 	<!--- * [Front-End Terms](template.md) -->
-    * [Generalist Myth](practice/myth.md)
+    * [Generalist/Full-Stack Myth](practice/myth.md)
 	* [Front-End interview questions](practice/interview-q.md)
 	* [Front-End Job Boards](practice/jobboards.md)
 	* [Front-End Salaries](practice/salaries.md)

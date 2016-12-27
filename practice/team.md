@@ -15,15 +15,11 @@ It is assumed that the team mentioned above is being directed by a project lead 
 
 A larger web team might include the following roles not shown above:
 
-* Visual Designers
-* Interface Design/Interaction Designer/Information Design
-* **SEO Strategist**
-* Front-End Developer
-* **DevOps Engineers**
-* Back-End Developer
-* **API Developer**
-* **Database Administrator**
-* **QA Engineer / Testers**
+* SEO Strategist
+* DevOps Engineers
+* API Developer
+* Database Administrator
+* QA Engineer / Testers
 
 
 

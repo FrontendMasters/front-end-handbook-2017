@@ -4,21 +4,21 @@ Below is a list and description of various front-end job titles. The common, or 
 
 ***
 
-**Front-End Developer/Engineer** (aka Front-End Web Developer/Engineer, Client-Side Developer/Engineer, Front-End Software Developer/Engineer or UI Engineer)
+**Front-End Developer**
 
 The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+
+***
+
+**Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer)**
+
+The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires a computer science degree and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end applications).
 
 ***
 
 **CSS/HTML Developer**
 
 The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
-
-***
-
-**Front-End JavaScript (optionally...Application) Developer**
-
-When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e will have solid experience building front-end applications).
 
 ***
 
@@ -30,7 +30,7 @@ When the word "Designer" is included in the job title, this will denote that the
 
 **Web/Front-End User Interface (aka UI) Developer/Engineer**
 
-When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end skills.
+When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
 
 ***
 
