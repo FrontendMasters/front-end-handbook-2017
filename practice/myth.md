@@ -6,9 +6,9 @@
 
 The roles required to design and develop a web solution require a deep skill set and vast experience in the area of visual design, UI/interaction design, front-end development, and back-end development. Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
 
-Pragmatically, you should seek to be, or seek to hire, an expert in one of these roles (i.e. Visual Design, Interaction Design/IA, Front-end Dev, Back-end Dev). Those who claim to operate at an expert level at one or more of these roles are exceptionally rare and more than likely mythical
+Pragmatically, you should seek to be, or seek to hire, an expert in one of these roles (i.e. Visual Design, Interaction Design/IA, Front-end Dev, Back-end Dev). Those who claim to operate at an expert level at one or more of these roles are exceptionally rare and more than likely mythical.
 
-However, given that JavaScript has infiltrated all layers of a technology stack (e.g. React, node.js, couchDB, gulp.js etc...) finding a full-stack JS developer who can code the front-end and back-end is becoming less mythical. But, still mythical! In other words, a developer who can code the front-end, back-end, API, and database (excluding visual design & interaction design) isn't as absurd as it once was. I believe this is due mostly to the fact that the stack, both front-end and back-end, has centralized on JavaScript. Thus, I would never recommend that a developer set out to become a "full stack" developer. Even a "JavaScript full-stack" developer!
+However, given that JavaScript has infiltrated all layers of a technology stack (e.g. React, node.js, couchDB, gulp.js etc...) finding a full-stack JS developer who can code the front-end and back-end is becoming less mythical. But, still mythical! In other words, a developer who can code the front-end, back-end, API, and database (excluding visual design & interaction design) isn't as absurd as it once was. Thus, I would never recommend that a developer set out to become a "full stack" developer. Or, even a "JavaScript full-stack" developer! In rare situations it can work, but as a general concept for building a career I believe it is an un-obtainable level of skill for most developers.
 
 ***
 
