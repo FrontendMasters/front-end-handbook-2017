@@ -53,7 +53,6 @@
     * [Front-End Devs to Learn From](learning/learn-from.md)
     * [Newsletters, News, & Podcasts](learning/news-podcasts.md)
 * [Part III: Front-End Dev Tools](tools.md)
-    * [Tools for Finding Tools](tools/find-tools.md)
     * [Doc/API Browsing Tools](tools/browsedocs.md)
     * [SEO Tools](tools/seo.md)
     * [Prototyping & Wireframing Tools](tools/proto.md)
@@ -81,7 +80,7 @@
     * [Data Storage Tools](tools/db.md)
     * [Module/Package Loading Tools](tools/loaders.md)
     * [Module/Package Repo. Tools](tools/repo.md)
-    * [Web/Cloud/Static Hosting Tools](tools/hosting.md)
+    * [Hosting Tools](tools/hosting.md)
     * [Project Management & Code Hosting](tools/project-hosting.md)
     * [Collaboration & Communication Tools](tools/comm.md)
     * [CMS Hosted/API Tools](tools/cms.md)
@@ -93,6 +92,7 @@
 	* [Site/App Monitoring Tools](tools/uptime.md)
     * [JS Error Monitoring Tools](tools/error.md)
     * [Performance Tools](tools/perf.md)
+    * [Tools for Finding Tools](tools/find-tools.md)
 
 
 

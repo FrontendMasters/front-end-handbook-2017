@@ -1,4 +1,4 @@
-# Part III: Tools
+# Part III: Front-end Developer Tools
 
 Part three briefly explains and identifies tools of the trade.
 

@@ -36,7 +36,6 @@ However, I do strongly believe, minimally, a code editor should have the followi
 Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
 
 * [CodePen](http://codepen.io/) [free to $]
-* [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [liveweave.com](http://liveweave.com/)
