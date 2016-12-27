@@ -4,12 +4,12 @@
 
 <cite>Image source: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
 
-The following web technologies are employed by front-end developers:
+The following core web technologies are employed by front-end developers:
 
 * Hyper Text Markup Language (aka HTML)
 * Cascading Style Sheets (aka CSS)
 * Document Object Model (aka DOM)
-* JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
+* JavaScript Programming Language (aka: ECMAScript 262)
 * Web APIs (aka HTML5 and friends or Browser APIs)
 * Hypertext Transfer Protocol (aka HTTP)
 * Uniform Resource Locators (aka URLs)
@@ -27,9 +27,9 @@ These technologies are defined below with the relevant documentation and specifi
 Most relevant specifications / documentation:
 
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage)
 * [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-* [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
+* [HTML 5.2 from W3C](http://w3c.github.io/html/)
 * [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
@@ -55,11 +55,11 @@ Most relevant specifications / documentation:
 
 Most relevant specifications / documentation:
 
-* [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
+* [Document Object Model (DOM) Level 3 Events Specification](https://www.w3.org/TR/DOM-Level-3-Events/)
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
-* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
+* [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
-##### JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
+##### JavaScript Programming Language (aka: ECMAScript 262)
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
 
@@ -67,7 +67,7 @@ Most relevant specifications / documentation:
 
 Most relevant specifications / documentation:
 
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
+* [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
 
 ##### Web APIs (aka HTML5 and friends)
 
