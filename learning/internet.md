@@ -4,6 +4,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Internet)</cite>
 
+* [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M) [watch]
 * [How Does the Internet work](http://www.w3.org/wiki/How_does_the_Internet_work) - W3C [read]
 * [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) - Stanford Paper [read]
 * [How the Internet Works](https://www.khanacademy.org/partner-content/code-org/internet-works) [watch]

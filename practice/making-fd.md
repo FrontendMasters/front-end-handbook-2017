@@ -6,7 +6,7 @@
 
 How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. From my perspective, most of the people working on the front-end today, generally seem to be self taught or come from a non accredited program, course, bootcamp, or class. 
 
-If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below. The process assumes you are your own best teacher.
+If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below (Part two dives into more details on learning resources).
 
 1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URLs, HTTP, networks, browsers, servers/hosting, databases, JSON, data APIs, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [front-end applications (aka SPAs)](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/).
 2. Learn HTML, CSS, Accessibility, and SEO.
