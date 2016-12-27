@@ -8,22 +8,28 @@ A front-end developer architects and develops websites and applications using we
 
 Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JS code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. The four run times scenarios are explained below.
 
-A web browser is software used to retrieve, present, and traverse information on the WWW. Typically, browsers run on a desktop, laptop, tablet, or phone, but as of late a browser can be found on just about anything (i.e, on a fridge, in cars, etc.). 
+##### Web Browsers
 
-The most common web browsers are: 
+A web browser is software used to retrieve, present, and traverse information on the [WWW](https://en.wikipedia.org/wiki/World_Wide_Web). Typically, browsers run on a desktop or laptop computer, tablet, or phone, but as of late a browser can be found on just about anything (i.e, on a fridge, in cars, etc.). 
+
+The most common web browsers are (shown in order of most used first):
 
 * [Chrome](http://www.google.com/chrome/)
-* [Internet Explorer](http://dev.modern.ie/)
-* [Firefox](https://www.mozilla.org/firefox/) 
+* [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer) (Note: Note [Edge](http://dev.modern.ie/), IE 9 to IE 11)
+* [Firefox](https://www.mozilla.org/firefox/)
 * [Safari](http://www.apple.com/safari/)
 
-Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface for the purpose of web page automation (e.g., functional testing, scraping, unit testing, etc.). Think of headless browsers as a browser that you can run from the command line that can retrieve and traverse web pages.
+##### Headless Browsers
+
+Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface programmatically for the purpose of web page automation (e.g., functional testing, scraping, unit testing, etc.). Think of headless browsers as a browser that you can run from the command line that can retrieve and traverse web pages.
 
 The most common headless browsers are:
 
 * [PhantomJS](http://phantomjs.org/)
 * [slimerjs](http://slimerjs.org/)
 * [trifleJS](http://triflejs.org/)
+
+##### Webviews
 
 [Webviews](http://developer.telerik.com/featured/what-is-a-webview/) are used by a native OS, in a native application, to run web pages. Think of a [webview](http://developer.telerik.com/featured/what-is-a-webview/) like an iframe or a single tab from a web browser that is embedded in a native application running on a device (e.g., [iOS](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/), [android](http://developer.android.com/reference/android/webkit/WebView.html), [windows](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.controls.webview.aspx)).
 
@@ -33,7 +39,9 @@ The most common solutions for [webview](http://developer.telerik.com/featured/wh
 * [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
 * [Electron](http://electron.atom.io/) (typically used for desktop apps)
 
-Eventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine. As of late, development environments are being dreamed up that use web technologies (e.g., CSS and JavaScript), without web engines, to create truly native applications.
+##### Native from Web Tech
+
+Eventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine. As of late, development environments are being dreamed up that use web technologies (e.g., CSS and JavaScript), without web engines, to create native applications.
 
 Some examples of these environments are: 
 
