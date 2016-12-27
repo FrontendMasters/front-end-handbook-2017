@@ -10,16 +10,15 @@ Pragmatically, you should seek to be, or seek to hire, an expert in one of these
 
 ![](../images/stacks-change.jpg "http://andyshora.com/full-stack-developers.html")
 
-However, given that JavaScript has infiltrated all layers of a technology stack (e.g. React, node.js, couchDB, gulp.js etc...) finding a JS developer who can code everything is becoming less mythical (i.e. can cod the front-end, back-end, API, and Database but excluding Visual Design & Interaction Design).
-
 <cite>Image source: <a href="http://andyshora.com/full-stack-developers.html">http://andyshora.com/full-stack-developers.html</a></cite>
 
+However, given that JavaScript has infiltrated all layers of a technology stack (e.g. React, node.js, couchDB, gulp.js etc...) finding a JS developer who can code everything is becoming less mythical. In other words, a developer who can code the front-end, back-end, API, and Database but excluding Visual Design & Interaction Design. Finding a developer that can do everything at a professional level isn't, generality, realistic.
 
 ***
 
 ###### NOTES:
 
-The term "Full-Stack" developer has come to take on several meanings. So many, that not one meaning is clear when the term is used. Just consider the results from these two surveys.
+The term "Full-Stack" developer has come to take on several meanings. So many, that not one meaning is clear when the term is used. Just consider the results from these two surveys done in 2016.
 
 
 ![](../images/fullstack1.png "https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz")
