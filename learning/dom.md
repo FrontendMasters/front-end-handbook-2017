@@ -12,7 +12,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JQuery)</cite>
 
-The ideal path, but certainly the most difficult, would be to first learn JavaScript, then the DOM, then jQuery. However, do what makes sense to your brain. Most front-end developers learn about JavaScript and then DOM by way of first learning jQuery. Whatever path you take, just make sure JavaScript, then DOM, or jQuery don't become a black box.
+The ideal path, but certainly the most difficult, would be to first learn JavaScript, then the DOM, then jQuery. However, do what makes sense to your brain. Most front-end developers learn about JavaScript and then DOM by way of first learning jQuery. Whatever path you take, just make sure JavaScript, the DOM, and jQuery don't become a black box.
 
 ##### General Learning:
 
@@ -35,6 +35,11 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 ##### References/Docs:
 
 * [jQuery Docs](http://api.jquery.com/)
+* [Events](https://html.spec.whatwg.org/#events-2)
+* [DOM Browser Support](http://www.webbrowsercompatibility.com/dom/desktop/)
+* [DOM Events Browser Support](http://www.webbrowsercompatibility.com/dom-events/desktop/)
+* [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [MDN Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 * [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
@@ -42,10 +47,10 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 
 ##### Standards/Specifications:
 
-* [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
+* [Document Object Model (DOM) Level 3 Events Specification](https://www.w3.org/TR/DOM-Level-3-Events/)
 * [Document Object Model (DOM) Technical Reports](http://www.w3.org/DOM/DOMTR)
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
-* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
+* [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
 
 
