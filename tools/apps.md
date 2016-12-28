@@ -63,7 +63,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 
 ###### NOTES:
 
-Keep an eye on [inferno](https://github.com/trueadm/inferno) and [Svelte](https://svelte.technology/guide) in 2017 for building component based UI applications.
+Keep an eye on [inferno](https://github.com/trueadm/inferno), [Svelte](https://svelte.technology/guide), and [NX](https://github.com/RisingStack/nx-framework) in 2017 for building component based UI applications.
 
 ***
 

@@ -47,7 +47,7 @@
         * [Learn Headless Browsers](learning/headless-browsers.md)
         * [Learn Offline Dev](learning/offline.md)
         * [Learn Web/Browser/App Security](learning/security.md)
-        * [Learn Multi-Thing Dev (e.g., RWD)](learning/multi-thing-dev.md)
+        * [Learn Multi-Device Dev (e.g., RWD)](learning/multi-device-dev.md)
     * [Directed Learning](learning/direct-learning.md)
     	* [Front-End Schools, Courses, & Bootcamps](learning/courses.md)
     * [Front-End Devs to Learn From](learning/learn-from.md)
