@@ -1,12 +1,15 @@
-# Learn Security
+# Learn Web/Browser/App Security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
 * [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
 * [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) [read]
+* [Identity and Data Security for Web Development: Best Practices](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017/) [read]($)
 * [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/ref=sr_1_11) [read][$]
 * [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) [read]
+* [The Internet: Encryption & Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6)
+* [The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7)
 * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) [read][$]
 * [Web Security Basics](https://github.com/vasanthk/web-security-basics) [read]
 

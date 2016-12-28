@@ -46,7 +46,7 @@
     	* [Learn JS Testing](learning/test.md)
         * [Learn Headless Browsers](learning/headless-browsers.md)
         * [Learn Offline Dev](learning/offline.md)
-        * [Learn Security](learning/security.md)
+        * [Learn Web/Browser/App Security](learning/security.md)
         * [Learn Multi-Thing Dev (e.g., RWD)](learning/multi-thing-dev.md)
     * [Directed Learning](learning/direct-learning.md)
     	* [Front-End Schools, Courses, & Bootcamps](learning/courses.md)

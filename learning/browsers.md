@@ -5,7 +5,7 @@
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_browser)</cite>
 
 
-##### The [most commonly used browsers](http://www.sitepoint.com/browser-trends-april-2015-statcounter-vs-netmarketshare/) (on any device) are:
+##### The [most commonly used browsers](https://www.sitepoint.com/browser-trends-september-2016-browser-wars/) (on any device) are:
 
 1. [Chrome](http://www.google.com/chrome/) (engine: [Blink](https://en.wikipedia.org/wiki/Blink_%28layout_engine%29) + [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29))
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
@@ -45,33 +45,32 @@
 * [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
 * [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
 
-##### Browser Security
-
-* [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) [read]
-* [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [watch]
-* [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
-* [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/) [read][$]
-* [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) [read]($)
-
 ##### Comparing Browsers
 
 * [Comparison of Web Browsers](https://en.wikipedia.org/wiki/Comparison_of_web_browsers) [read]
 
-##### Developing for Browsers
-
-In the past, a front-end developer spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today, unless you have to write code for older browsers (i.e., <IE8). This still remains an issue today, just not one that demands so much of the front-end developers time and brain cycles. The fact of the matter is modern abstractions (e.g., jQuery, pre-processors, transpilers) have done away with a lot of browser inconsistency issues.
-
-##### Evergreen Browsers
-
-The latest versions of browsers are considered evergreen browsers. That is, in theory they are suppose to automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers. Older browsers  are complicated to develop for given their deviations from the commonalities between modern browsers (i.e., new specifications and this rate of change).
-
-##### Picking a Browser
-
-As of today, most front-end developers use Chrome and the tools available to a developer, "Chrome Dev Tools". However, all of the browsers offer a flavor of developer tools. Picking one to use for development is a subjective matter. The more important issue is knowing which browsers you have to support and testing in each as you develop. Select whichever browser makes sense to your brain and gets the job done. I suggest using Chrome simply because the developer tools are consistently improving and at this time contain the most robust features.
-
 ##### Browser Hacks
 
 * [browserhacks.com](http://browserhacks.com/) [read]
+
+##### Developing for Browsers
+
+In the past, front-end developers spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today. Today, abstractions (e.g., jQuery, React, Post-CSS, Babel etc...) combined with modern browsers make browser development fairly easy. The new challenge is not which browser the user will use, but on which device they will run the browser.
+
+##### Evergreen Browsers
+
+The latest versions of most modern browsers are considered evergreen browsers. That is, in theory they are suppose to automatically update themselves silently without prompting the user. This move towards self updating browsers has been in reaction to the slow process of eliminating older browsers that do not auto-update.
+
+##### Picking a Browser [^1]
+
+As of today, most front-end developers use Chrome and "Chrome Dev Tools" to develop front-end code. However, the most used modern browsers all offer a flavor of developer tools. Picking one to use for development is a subjective choice. The more important issue is knowing which browsers, on which devices, you have to support and then testing appropriately.
+
+***
+
+###### ADVICE:
+
+[^1] I suggest using Chrome because the developer tools are consistently improving and at this time contain the most robust features.
+
 
 
 
