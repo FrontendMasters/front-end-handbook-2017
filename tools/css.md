@@ -82,12 +82,14 @@
 * [SMACSS](https://smacss.com/) [read][$]
 * [SUIT CSS](http://suitcss.github.io)
 
-##### Authoring Conventions:
+##### Authoring/Architecting Conventions:
 
 * [CSS code guide](http://codeguide.co/#css) [read]
+* [css-architecture](https://github.com/jareware/css-architecture) [read]
 * [cssguidelin.es](http://cssguidelin.es/) [read]
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
 * [MaintainableCSS](http://maintainablecss.com/) [read]
+* [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 
 ##### Trending CSS Repositories on GitHub This Month:
 

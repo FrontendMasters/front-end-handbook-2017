@@ -17,9 +17,9 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Positioning](http://www.pluralsight.com/courses/css-positioning-1834) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
 * [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
-* [HTML and CSS: Design and Build Websites](http://www.amazon.com/gp/product/1118008189/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118008189&linkCode=as2&tag=fronenddevejo-20&linkId=V4CUOSZZARJURWZD) [read][$]
+* [HTML and CSS: Design and Build Websites](https://www.amazon.com/gp/product/1118008189/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b1c45ab715f267f7dfed8c981c14eceb&camp=1789&creative=9325) [read][$]
 * [HTML Document Flow](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
-* [HTML Mastery: Semantics, Standards, and Styling](http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597656&linkCode=as2&tag=fronenddevejo-20&linkId=VFZVICLZO6GUZQI2) [read][$]
+* [HTML Mastery: Semantics, Standards, and Styling](https://www.amazon.com/gp/product/1590597656/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a5c4eb997239ea9e57a86456cef7763c&camp=1789&creative=9325) [read][$]
 * [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [watch]
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) [read]
 * [Learn CSS Layout](http://learnlayout.com/) [read]
@@ -27,12 +27,12 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Solid HTML Form Structure](https://webdesign.tutsplus.com/courses/solid-html-form-structure) [watch]
 * [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) [watch]
 
-##### Mastering:
+##### Mastering CSS:
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
-* [atozcss.com](http://www.atozcss.com/) [watch]
 * [CSS Diner](http://flukeout.github.io/) [interact]
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) [read]
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) [read]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [What the Flexbox?! A Simple, Free 20 Video Course That Will Help You Master CSS Flexbox](http://flexbox.io/) [watch]
 
@@ -44,7 +44,6 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Default CSS for Chrome Browser](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)
 * [Head - A list of everything that could go in the <head> of your document](http://gethead.info/)
 * [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-* [htmlelement.info](http://htmlelement.info/)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
@@ -62,22 +61,24 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [The Elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
 * [Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 * [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
-* [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
+* [HTML 5.2 from W3C](http://w3c.github.io/html/)
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 
-##### CSS Architecture Frameworks:
+##### Architecting CSS:
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
+* [BEM](http://getbem.com/introduction/)
+* [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
-* [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
+  * [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) [watch][$]
+* [SUIT CSS](http://suitcss.github.io)
 
 ##### Authoring/Architecting Conventions:
 
+* [CSS code guide](http://codeguide.co/#css) [read]
 * [css-architecture](https://github.com/jareware/css-architecture)
 * [cssguidelin.es](http://cssguidelin.es/) [read]
-* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
-* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
 * [MaintainableCSS](http://maintainablecss.com/) [read]
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
@@ -85,7 +86,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 ##### HTML/CSS Newsletters:
 
 * [CSS Weekly](http://css-weekly.com/archives/)
-* [HTML 5 Weekly](http://html5weekly.com/)
+* [http://frontendfocus.co/](http://frontendfocus.co/)
 
 
 

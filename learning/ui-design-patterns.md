@@ -16,7 +16,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)</cite>
 
-Minimally I'd suggest reading the following canonical texts on the matter so one can build proper user interfaces.
+Minimally I'd suggest reading the following canonical texts on the matter so one can support and potential build usable user interfaces.
 
 * [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) [read][$]
 * [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) [read][$]
