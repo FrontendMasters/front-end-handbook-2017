@@ -97,6 +97,7 @@
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 * [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
+* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 ##### Trending JS Repositories on GitHub This Month:

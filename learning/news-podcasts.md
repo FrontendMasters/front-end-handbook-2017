@@ -3,22 +3,19 @@
 ##### General Front-End Newsletters, News, &amp; Podcasts:
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
-* [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 * [Front-End Dev Weekly](http://frontenddevweekly.com/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [frontendfront.com](http://frontendfront.com/)
+* [FrontEnd Focus](http://frontendfocus.co/)
+* [Front End Newsletter](http://frontendnewsletter.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
-* [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
 * [shoptalkshow.com](http://shoptalkshow.com/)
-* [TTL](http://ttlpodcast.com/)
-* [Viewsources](https://viewsourc.es/)
 * [The Web Ahead](http://thewebahead.net/)
-* [Web Components Weekly](http://webcomponentsweekly.me/)
-* [Web Design Weekly](https://web-design-weekly.com/)
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
+
 
 ##### HTML/CSS Newsletters:
 
@@ -28,6 +25,8 @@
 ##### JavaScript Newsletters, News, &amp; Podcasts:
 
 * [Echo JS](http://www.echojs.com/)
+* [ECMAScript Daily](https://ecmascript-daily.github.io/)
+* [ES.next News](http://esnextnews.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
 * [JavaScript Air](https://javascriptair.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)

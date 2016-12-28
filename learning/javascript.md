@@ -27,7 +27,6 @@
 ##### Mastering:
 
 * [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
-* [ECMA-262 by Dmitry Soshnikov](http://dmitrysoshnikov.com/) [read]
 * [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
 * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
@@ -53,7 +52,7 @@
 
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
-* [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
+* [Simplified JavaScript Jargon](http://jargon.js.org/)
 
 ##### Standards/Specifications:
 
@@ -63,13 +62,17 @@
 ##### Style:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
+* [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 ##### JavaScript Newsletters, News, &amp; Podcasts:
 
 * [Echo JS](http://www.echojs.com/)
+* [ECMAScript Daily](https://ecmascript-daily.github.io/)
+* [ES.next News](http://esnextnews.com/)
 * [FiveJS](https://fivejs.codeschool.com/)
+* [JavaScript Air](https://javascriptair.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
