@@ -88,7 +88,7 @@ Most relevant documentation:
 Most relevant specifications:
 
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
-* [Hypertext Transfer Protocol version 2 draft-ietf-httpbis-http2-16](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
+* [HTTP/2](https://http2.github.io/)
 
 ##### Uniform Resource Locators (aka URL)
 

@@ -13,7 +13,7 @@
 
 * [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) [read]
 * [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) [read]
-* [Web Hosting for Dummies](http://www.dummies.com/store/product/Web-Hosting-For-Dummies.productCd-1118540573.html) [read][$]
+* [Web Hosting for Dummies](https://www.amazon.com/Web-Hosting-Dummies-Peter-Pollock/dp/1118540573/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=d8b16eea88eeb2d332f7f8508dce1df0&camp=1789&creative=9325) [read][$]
 
 
 

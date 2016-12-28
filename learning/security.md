@@ -5,7 +5,7 @@
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [HTML5 Security Cheatsheet](https://html5sec.org/#javascript) [read]
 * [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) [read]
-* [Identity and Data Security for Web Development: Best Practices](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017/) [read]($)
+* [Identity and Data Security for Web Development: Best Practices](https://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=df49be399d7d1a12acebe5a85637a7a8&camp=1789&creative=9325) [read]($)
 * [Security for Web Developers: Using JavaScript, HTML, and CSS](http://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/ref=sr_1_11) [read][$]
 * [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) [read]
 * [The Internet: Encryption & Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6)
