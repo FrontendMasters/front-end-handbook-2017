@@ -1,18 +1,21 @@
-# Learn Module Loading and Dependency Management
+# Learn Modules
 
 ##### General Learning:
 
-* [browserify-handbook](https://github.com/substack/browserify-handbook) [read]
-* [Choose ES6 modules Today!](http://developer.telerik.com/featured/choose-es6-modules-today/) [read]
-* [Creating JavaScript Modules with Browserify](http://www.pluralsight.com/courses/creating-javascript-modules-browserify) [watch][$]
-* [Start your own JavaScript library using webpack and ES6](http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6)
-* [Webpack Fundamentals](http://www.pluralsight.com/courses/webpack-fundamentals) [watch][$]
+* [jsmodules.io](http://jsmodules.io/)
+* [ES6 Modules in Depth](https://ponyfoo.com/articles/es6-modules-in-depth) [read]
+* [Exploring JS - Modules](http://exploringjs.com/es6/ch_modules.html#ch_modules) [read]
 
 ##### References/Docs:
 
-* [browserify](http://browserify.org/)
-* [system.js](https://github.com/systemjs/systemjs)
-* [webpack](http://webpack.github.io/)
+* [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+* [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
+***
+
+###### NOTES
+
+We are still waiting on a support in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader) and ["JavaScript Loader Standard"](https://whatwg.github.io/loader/).
 
 
 

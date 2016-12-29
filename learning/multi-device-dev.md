@@ -4,7 +4,7 @@
 
 <cite>Image source: <a href="http://bradfrost.com/blog/post/this-is-the-web/">http://bradfrost.com/blog/post/this-is-the-web/</a></cite>
 
-A site or application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of new devices (watches, thermostats, fridges, etc.). How you determine what devices you'll support and how you will develop to support those devices is called, "multi-device development strategy". Below, I list the most common multi-device development strategies.
+A website or web application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of new devices (watches, thermostats, fridges, etc.). How you determine what devices you'll support and how you will develop to support those devices is called, "multi-device development strategy". Below, I list the most common multi-device development strategies.
 
 * Build a [responsive (RWD)](https://en.wikipedia.org/wiki/Responsive_web_design) web site/app for all devices.
 * Build an [adaptive/progressively](https://en.wikipedia.org/wiki/Adaptive_web_design) enhanced web site/app for all devices.
@@ -13,7 +13,7 @@ A site or application can run on a wide range of computers, laptops, tablets and
 
 ##### General Learning:
 
-* [A book Apart Pack - RWD](https://abookapart.com/collections/responsive-design) [read][$]
+* [A book Apart Pack - Responsive Web Design](https://abookapart.com/collections/responsive-design) [read][$]
 * [A Book Apart Pack - Design For Any Device](https://abookapart.com/collections/design-for-any-device) [read][$]
 * [Adaptive Web Design](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) [read][$]
 * [Designing with Progressive Enhancement](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [read][$]
