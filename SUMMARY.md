@@ -34,7 +34,7 @@
         * [Learn JS Templates](learning/templates.md)
         * [Learn Static Site Generators](learning/static.md)
         * [Learn Front-End App Architecture](learning/front-end-apps.md)
-        * [Learn Data API (i.e. JSON/REST) Design](learning/date-api.md)
+        * [Learn Data API (i.e. JSON/REST) Design](learning/data-api.md)
         * [Learn JS API Design](learning/js-api.md)
     	* [Learn Web Dev Tools](learning/browser-dev-tools.md)
     	* [Learn Command Line](learning/cli.md)
