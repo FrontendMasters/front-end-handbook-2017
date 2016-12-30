@@ -1,7 +1,7 @@
 # Front-End Developers Develop For...
 
-A front-end developer crafts HTML, CSS, and JS that typically runs on the web platform 
-(e.g. a web browser) on one of the following operating systems (aka OSs):
+A front-end developer crafts HTML, CSS, and JS that typically runs on the [web platform](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)
+(e.g. a web browser) delivered from one of the following operating systems (aka OSs):
 
 * Android
 * Chromium
@@ -14,7 +14,7 @@ A front-end developer crafts HTML, CSS, and JS that typically runs on the web pl
 These operating systems typically run on one or more of the following devices:
 
 * Desktop computer
-* Laptop / Netbook computer
+* Laptop / netbook computer
 * Mobile phone
 * Tablet
 * TV
