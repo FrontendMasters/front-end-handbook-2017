@@ -78,7 +78,7 @@
     * [JSON Tools](tools/json.md)
     * [Placeholder Images/Text Tools](tools/placeholder.md)
     * [Testing Tools](tools/testing.md)
-    * [Data Storage Tools](tools/db.md)
+    * [Front-end Data Storage Tools](tools/db.md)
     * [Module/Package Loading Tools](tools/loaders.md)
     * [Module/Package Repo. Tools](tools/repo.md)
     * [Hosting Tools](tools/hosting.md)
