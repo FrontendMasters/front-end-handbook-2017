@@ -16,13 +16,6 @@ If you can't afford a directed education, a self directed education using screen
     </thead>
     <tbody>
         <tr>
-            <td>Austin Coding Academy</td>
-            <td><a target="_blank" href="https://austincodingacademy.com/course/">The Front End Track</a></td>
-            <td>2,490 per session</td>
-            <td>Austin, TX</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Betamore</td>
             <td><a target="_blank" href="http://betamore.com/academy/front-end-web-development/">Front-end Web Development</a></td>
             <td>8,500</td>
@@ -35,20 +28,6 @@ If you can't afford a directed education, a self directed education using screen
             <td>4,999</td>
             <td></td>
             <td>yes</td>
-        </tr>
-        <tr>
-            <td>Codeup</td>
-            <td><a target="_blank" href="http://codeup.com/night-bootcamp/">Night Front-End Bootcamp</a></td>
-            <td>8,500</td>
-            <td>San Antonio, Texas</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Codify Academy</td>
-            <td><a target="_blank" href="http://codifyacademy.com/thecourse.php">Front-end Web Development</a></td>
-            <td>4,000</td>
-            <td>multiple locations</td>
-            <td></td>
         </tr>
         <tr>
             <td>DecodeMTL</td>
@@ -86,13 +65,6 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>LearningFuze</td>
-            <td><a target="_blank" href="http://learningfuze.com/frontend-development/">Part-Time Front-End Development Course</a></td>
-            <td>2,500</td>
-            <td>Irvine, CA</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>The New York Code + Design Academy</td>
             <td><a target="_blank" href="http://nycda.com/classes/front-end-101/">Front End 101</a></td>
             <td>2,000</td>
@@ -100,16 +72,16 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>Portland Code School</td>
-            <td><a target="_blank" href="http://www.portlandcodeschool.com/advancedfe/">Advanced Front-end Developer Tools</a></td>
-            <td>2,000</td>
-            <td>Portland, OR</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Thinkful</td>
             <td><a target="_blank" href="http://www.thinkful.com/courses/learn-web-development-online">Frontend Web Development</a></td>
             <td>300 per month</td>
+            <td></td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Turing School of Software & Design</td>
+            <td><a target="_blank" href="https://www.turing.io/programs/front-end-engineering">Front-End Engineering</a></td>
+            <td>20,000</td>
             <td></td>
             <td>yes</td>
         </tr>
