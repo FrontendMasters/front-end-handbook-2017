@@ -16,14 +16,15 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 
 * [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+* [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
 * [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
 
 ##### Chrome Web Developer Tools Docs:
 
-* [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-* [Settings](https://developer.chrome.com/devtools/docs/settings)
+* [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
 
 ##### News/Newsletters/Podcasts/Tips:
 
