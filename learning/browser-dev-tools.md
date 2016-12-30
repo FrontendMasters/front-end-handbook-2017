@@ -12,7 +12,7 @@ While most browsers come equipped with web developer tools, the [Chrome develope
 
 I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
 
-##### Learn Chrome Web Developer Tools
+##### Learn Chrome Web Developer Tools:
 
 * [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
