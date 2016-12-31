@@ -18,7 +18,6 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [lynda.com](http://www.lynda.com/) [careful, quality varies]
 * [mijingo.com](https://mijingo.com/)
 * [pluralsight.com](http://www.pluralsight.com/) [careful, quality varies]
-* [Tagtree](http://tagtree.tv/library)
 * [Treehouse](https://teamtreehouse.com/)
 * [tutsplus.com](https://tutsplus.com/courses)
 * [Udacity](https://www.udacity.com/courses/web-development) [careful, quality varies]

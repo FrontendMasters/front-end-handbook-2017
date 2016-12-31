@@ -25,7 +25,7 @@ These operating systems typically run on one or more of the following devices:
 
 <cite>Image source: <a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
 
-Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time scenarios:
+Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time web platform scenarios:
 
 * A web browser (examples: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)) running on an OS.
 * A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples [phantomJS](http://phantomjs.org/)) driven from a CLI running on an OS.
