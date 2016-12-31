@@ -16,6 +16,7 @@
 ##### Transpiling:
 
 * [HAML](http://haml.info/)
+* [Pug](https://pugjs.org/api/getting-started.html)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
 ##### References:
