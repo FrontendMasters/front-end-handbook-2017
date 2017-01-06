@@ -28,7 +28,7 @@ The remaining parts of this book will point the reader to potential resources th
 
 Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor (i.e., syllabus, test, quizzes, projects, team projects, grades, etc.). Keep in mind, if you are considering an expensive training program, this is the web! Everything you need to learn is on the web for the taking, costing little to nothing. However, if you need someone to tell you how to take and learn what is actually free, and hold you accountable for learning it, you might consider an organized course. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection, a hundred dollars a month for screencasting memberships, and a burning desire for knowledge.
 
-If you want to getting rolling today, you might consider one more more of the following self-driven learning resources:
+If you want to get going today, you might consider one or more of the following self-driven learning resources:
 
 * [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) [watch]
 * [A Beginner's Guide to Front-End Programming](https://www.springboard.com/learning-paths/beginners-guide-front-end-programming/learn/) [read & watch][free to $]
