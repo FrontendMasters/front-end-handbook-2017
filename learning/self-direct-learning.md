@@ -4,7 +4,7 @@ This section focuses on free and paid resources (video training, books, etc.) th
 
 The resources include free material and paid material. Paid material will be indicated with [$].
 
-The author believes that anyone with the right determination and dedication can teach themselves how to be a front-end developer. All that is required is a computer connected to the web and some cash for books and video training. 
+The author believes that anyone with the right determination and dedication can teach themselves how to be a front-end developer. All that is required is a computer connected to the web and some cash for books and online video training. 
 
 Below are a few video learning outlets (tech focused) I generally recommend pulling content from:
 
