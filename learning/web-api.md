@@ -23,7 +23,7 @@ You should be aware of and learn, where appropriate, web/browser APIs. A good to
 
 ***
 
-###### NOTES
+###### NOTES:
 
 MDN has a great deal of information about web/browser APIs.
 

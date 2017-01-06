@@ -6,7 +6,7 @@
 
 Basic to advanced HTML, CSS, DOM, JavaScript, HTTP/URL, and browser skills are assumed for any type of front-end developer. 
 
-Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-end developer could be skilled in one or more of the following:
+Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development know-how, a front-end developer could be skilled in one or more of the following:
 
 * Content Management Systems (aka CMS)
 * Node.js

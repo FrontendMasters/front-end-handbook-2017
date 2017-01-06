@@ -25,6 +25,7 @@
 * [FillText.com](http://www.filltext.com/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [mockable.io](https://www.mockable.io/)
+* [mockapi.io](http://www.mockapi.io/)
 * [Mocky](http://www.mocky.io/)
 * [RANDOM USER GENERATOR](https://randomuser.me/)
 

@@ -13,7 +13,7 @@
 
 ***
 
-###### NOTES
+###### NOTES:
 
 We are still waiting on a support in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader) and ["JavaScript Loader Standard"](https://whatwg.github.io/loader/).
 

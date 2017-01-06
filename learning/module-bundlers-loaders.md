@@ -17,7 +17,7 @@
 
 ***
 
-###### NOTES
+###### NOTES:
 
 It is not uncommon for developers to use a tool like Gulp for bundling JS modules. However, many of the Gulp plugins simply use Webpack, Rollup, or SystemJS under the hood.
 

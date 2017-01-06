@@ -16,7 +16,7 @@
 
 ***
 
-###### ADVICE
+###### ADVICE:
 
 Gulp is great. However, you might only need `npm run`. Before turning to additional complexity in your application stack ask yourself if `npm run` can do the job. If you need more, use Gulp. 
 

@@ -23,13 +23,13 @@
 
 ***
 
-###### NOTES
+###### NOTES:
 
 Not a lot of general content is being created on this topic as of late. Most of the content offered for learning how to build front-end/SPA/JavaScript applications presupposes you've decided up a tool like Angular, Ember, React, or Aurelia.
 
 ***
 
-###### ADVICE
+###### ADVICE:
 
 [^1] In 2017 learn [Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), and [Redux](http://redux.js.org/). Start with, ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) and ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents).
 

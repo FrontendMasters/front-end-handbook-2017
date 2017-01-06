@@ -4,17 +4,17 @@
 
 <cite>Image source: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
 
-The following core web technologies are employed by front-end developers:
+The following core web technologies are employed by front-end developers (consider learning them in this order):
 
-* Hyper Text Markup Language (aka HTML)
-* Cascading Style Sheets (aka CSS)
-* Document Object Model (aka DOM)
-* JavaScript Programming Language (aka: ECMAScript 262)
-* Web APIs (aka HTML5 and friends or Browser APIs)
-* Hypertext Transfer Protocol (aka HTTP)
-* Uniform Resource Locators (aka URLs)
-* JavaScript Object Notation (aka JSON)
-* Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
+1. Uniform Resource Locators (aka URLs)
+2. Hypertext Transfer Protocol (aka HTTP)
+3. Hyper Text Markup Language (aka HTML)
+4. Cascading Style Sheets (aka CSS)
+6. JavaScript Programming Language (aka: ECMAScript 262)
+7. JavaScript Object Notation (aka JSON)
+8. Document Object Model (aka DOM)
+9. Web APIs (aka HTML5 and friends or Browser APIs)
+10. Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
 These technologies are defined below with the relevant documentation and specifications. For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
 

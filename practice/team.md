@@ -2,7 +2,7 @@
 
 A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running from web technologies.
 
-A bare bones develpment team for building professional web sites or software application for the web platform will minimally contain the following roles.
+A bare bones development team for building ***professional*** web sites or software application for the web platform will typically, minimally, contain the following roles.
 
 * Visual Designer (i.e., fonts, colors, spacing, emotion, visuals concepts & themes)
 * UI/Interaction Designer/Information Architect (i.e., wireframes, specifying all user interactions and UI functionality, structuring information)
@@ -23,9 +23,9 @@ A larger web team might include the following roles not shown above:
 
 ***
 
-###### NOTES
+###### NOTES:
 
-A developer who builds everything was once called a "web master" but as of late these rare and mythical developers are called "full-stack developers". A small trend seems to be occurring where a, "full-stack developer" takes on the responsibilities of both a front-end and back-end developer.
+A small trend seems to be occurring where a, "full-stack developer" takes on the responsibilities of both a front-end and back-end developer.
 
 
 

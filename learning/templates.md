@@ -11,12 +11,12 @@ A JavaScript template is typically used, but not always with a [MV*](http://todo
 
 ***
 
-###### NOTES
+###### NOTES:
 
 Note that JavaScript 2015 (aka ES6) has a native templating mechanism called ["Templates strings"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings). Additionally, templating as of late has been replaced by things like [JSX](https://facebook.github.io/jsx/), [a template element](http://aurelia.io/hub.html#/doc/article/aurelia/templating/latest/templating-basics), or [HTML strings](https://angular.io/docs/ts/latest/guide/template-syntax.html#).
 
 ***
 
-###### ADVICE
+###### ADVICE:
 
 If I was not using React & JSX I'd first reach for JavaScript ["Templates strings"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings) and when that was lacking move to [nunjucks](http://mozilla.github.io/nunjucks/getting-started.html).
