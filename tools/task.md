@@ -3,11 +3,13 @@
 ##### Tasking/Build Tools: [^1]
 
 * [Gulp](http://gulpjs.com/)
+* [Broccoli.js](http://broccolijs.com/)
 
-##### Tasking/Build and More Tools:
+##### Opinionated Tasking/Build pipeline tools:
 
 * [Brunch](http://brunch.io/)
 * [Mimosa](http://mimosa.io/)
+* [Lineman](http://linemanjs.com/)
 
 ***
 

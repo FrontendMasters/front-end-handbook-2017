@@ -70,7 +70,7 @@
     * [Accessibility Dev Tools](tools/accessibility.md)
     * [App Frameworks (Desktop, Mobile etc.) Tools](tools/apps.md)
     * [Scaffolding Tools](tools/scaffolding.md)
-    * [Development Tools](tools/dev-tools.md)
+    * [General FE Development Tools](tools/dev-tools.md)
     * [Templating/Data Binding Tools](tools/templates.md)
     * [UI Widget & Component Toolkits](tools/ui.md)
     * [Data Visualization (e.g., Charts) Tools](tools/charting.md)

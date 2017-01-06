@@ -8,6 +8,8 @@
 
 ##### Static
 
+* [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 * [netlify](https://www.netlify.com) [free to $]
+  * [Bitballoon](https://www.bitballoon.com/)
 * [Surge](https://surge.sh/) [free to $]
 * [Forge](https://getforge.com/) [$]
