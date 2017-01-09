@@ -60,5 +60,5 @@ Some examples of these environments are:
 
 ###### NOTES:
 
-Make sure you are clear what what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"](Open Web Platform) Wikipedia page. Test.
+Make sure you are clear what what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"](Open Web Platform) Wikipedia page.
 
