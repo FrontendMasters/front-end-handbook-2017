@@ -4,49 +4,47 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
-##### General Learning:
+##### Getting Started:
 
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) [watch]
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) [watch]
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) [watch]
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) [watch]
+* [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
+* [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) [read]
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
-* [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
-* [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) [read][$]
-* [JS.Next: ES6](https://frontendmasters.com/courses/jsnext-es6/) [watch][$]
-* [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) [read][$]
-* [Professional JavaScript for Web Developers](http://www.amazon.com/gp/product/1118026691/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118026691&linkCode=as2&tag=fronenddevejo-20&linkId=3ECZAIHNX6Z4FTME) [read][$]
-* [Setting up ES6](https://leanpub.com/setting-up-es6)
+* [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) [read]
+* [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
+
+##### General Learning:
+
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
-* [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) [read]
 * [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
+* [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
+* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
+* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
+* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
 
 ##### Mastering:
 
-* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
-* [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
-* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
-* [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
-* [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
+* [Setting up ES6](https://leanpub.com/setting-up-es6) [read]
+* [ES6 FOR EVERYONE!](https://es6.io/) [watch][$]
+* [Exploring ES6](http://exploringjs.com/es6.html) [read]
+* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
+* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read]
+* [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
+* [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
+* [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
+* [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
-* [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
-* [JS MythBusters](https://mythbusters.js.org/index.html) [read]
-* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
-* [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
 * [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
-* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
-* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
-* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
-* [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
+* [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
+* [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
+* [JS MythBusters](https://mythbusters.js.org/index.html) [read]
 
 ##### References/Docs:
 
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MSDN JavaScrip Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 
 ##### Glossary/Encyclopedia/Jargon:
 
@@ -56,14 +54,14 @@
 
 ##### Standards/Specifications:
 
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
+* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+* [ECMAScript® 2016 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+* [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
 * [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
 
 ##### Style:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 ##### JavaScript Newsletters, News, &amp; Podcasts:
@@ -78,6 +76,23 @@
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
+
+##### Deprecated JS Learning Resources:
+
+* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
+* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
+* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) [watch]
+* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) [watch]
+* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) [watch]
+* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) [watch]
+* [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) [read][$]
+* [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) [read][$]
+* [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
+* [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
+* [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
+* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
+* [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
+* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
 
 
 

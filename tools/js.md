@@ -21,7 +21,7 @@
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
-##### Transpiling (ESX to ESX):
+##### Transpiling (ES* to ES*):
 
 * [Babel](https://babeljs.io/)
 * [TypeScript](https://www.typescriptlang.org/)
@@ -33,7 +33,6 @@
 ##### Linting/Hinting & Style Linter:
 
 * [eslint](http://eslint.org/)
-* [jshint](http://jshint.com/)
 
 ##### Unit Testing:
 
@@ -96,8 +95,6 @@
 ##### Authoring Conventions:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 ##### Trending JS Repositories on GitHub This Month:
