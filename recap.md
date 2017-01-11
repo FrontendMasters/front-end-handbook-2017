@@ -7,7 +7,7 @@
 * React Native and NativeScript start to replace hybrid webview development.
 * Many abandon Gulp for NPM scripts, but Gulp remains popular.
 * SASS remains a popular tool, while PostCSS (+ CSSNext) gains ground.
-* HTML, CSS, and JavaScript all require linting.
+* Linting HTML, CSS, and JavaScript (eslint replaces jshint) is a thing most developers do.
 * A trend of developers abandon Sublime and Atom for Visual Studio Code begins.
 * jQuery remains popular, but usage is declining.
 * Vue.js continues to gain converts. Deservingly so!
@@ -29,3 +29,5 @@
 * Most every realized they will have to have a multi-device strategy plan when development for the web
 * More developer, from other languages, continue to flood the JavaScript space brining with them things like type checking and an obsession with class syntax and OOP concepts
 * Front-end devs are introduced to Hot Module replacement techniques and time travel debugging
+* More waiting for a native JavaScript browser module loader
+* Enforcing CSS and JavaScript style conventions becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations) 

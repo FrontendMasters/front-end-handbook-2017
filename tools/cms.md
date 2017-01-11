@@ -5,6 +5,7 @@
 * [Contentful](https://www.contentful.com/) [$]
 * [Cosmic JS](https://cosmicjs.com/) [free to $]
 * [prismic.io](https://prismic.io/) [free to $]
+* [elemeno](https://elemeno.io) [free to $]
 
 ##### Hosted CMS Tools:
 
