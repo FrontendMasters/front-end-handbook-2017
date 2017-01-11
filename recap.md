@@ -1,4 +1,4 @@
-# Front-end in 2016, Recap
+# Recap of Front-end Development in 2016
 
 * React, Redux, Webpack, ECMAScript 2015 (aka ES6), and Babel gain massive adoption. These solution rise to the top of all the polls as the most used tech.
 * Developers realized, in most cases, hybrid mobile development via webviews doesn't provide enough wins.
