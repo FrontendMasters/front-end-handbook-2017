@@ -14,7 +14,7 @@
 * Microsoft shows up and contributes.
 * Developing native applications for windows, OSX, and linux using things like NW.js and Electron via web technologies becomes a thing.
 * Angular 2 gets off the pot and most realize it will never be as mainstream as Angular 1.
-* JavaScript broadly remains at the of software technologies.
+* JavaScript broadly remains at the top of software technologies.
 * More developers start caring about tooling (e.g. automation) and testing.
 * Static Site Generators are taken seriously.
 * CSS Grids hit big.
