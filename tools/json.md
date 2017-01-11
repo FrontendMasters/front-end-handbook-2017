@@ -23,6 +23,7 @@
 ##### Online JSON Mocking API Tools:
 
 * [FillText.com](http://www.filltext.com/)
+* [Jam API](https://www.jamapi.xyz/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [mockable.io](https://www.mockable.io/)
 * [mockapi.io](http://www.mockapi.io/)

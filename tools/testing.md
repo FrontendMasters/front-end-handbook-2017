@@ -5,6 +5,7 @@
 * [Intern](https://theintern.github.io/)
 * [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
+* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### Unit Testing:
 
@@ -32,15 +33,20 @@
 * [NightwatchJS](http://nightwatchjs.org/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 * [Selenium](http://www.seleniumhq.org/)
-* [Testbot](https://testingbot.com/)
 
-##### Headless Browser Automation:
-
-Used for functional testing and monkey testing.
+##### Browser Automation:
 
 * [CasperJS](http://casperjs.org/)
-* [gremlins.js](https://github.com/marmelab/gremlins.js)
 * [Nightmare](https://github.com/segmentio/nightmare)
+
+##### UI Testing Tools:
+
+* [gremlins.js](https://github.com/marmelab/gremlins.js)
+* [Percy](https://percy.io)
+* [BackstopJS](https://github.com/garris/BackstopJS)
+* [PhantomCSS](https://github.com/Huddle/PhantomCSS)
+* [Ghost Inspector](https://ghostinspector.com/)
+* [diff.io](https://diff.io/)
 
 ***
 
