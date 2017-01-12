@@ -7,9 +7,9 @@
 * React Native and NativeScript start to replace mobile HTML5 hybrid webview development.
 * Many abandon Gulp for NPM scripts, but Gulp remains popular.
 * SASS remains a popular tool, while PostCSS (+ CSSNext) gains ground.
-* Linting HTML, CSS, and JavaScript (eslint replaces jshint) is a thing most developers do.
+* Linting HTML, CSS, and JavaScript is a thing most developers do (ESlint replaces JShint & JSCS merges into ESLint).
 * A trend of developers abandon Sublime and Atom for Visual Studio Code begins.
-* jQuery remains popular, but usage is declining.
+* jQuery remains popular, but usage is declining. jQuery 3 was released, much like a tree falling in a forest that nobody hears.
 * Vue.js continues to gain converts. Deservingly so!
 * JavaScript functional programming & patterns get a lot of attention.
 * Offline development & Progressive Web Apps go mainstream.
@@ -33,5 +33,10 @@
 * Enforcing CSS and JavaScript style conventions becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations)
 * A small but noticeable number of developers are starting to chose elm over JavaScript.
 * TypeScript gets some serious use and fanboys.
-* Aurelia becomes the smart choice for enterprise developers
+* Aurelia becomes the smart choice for enterprise developers.
 * Webpack gets its act together and solidifies is position over the superior JSPM solution.
+* HTTPS, yeah, we're serious about that.
+* Firebug officially dead.
+* BASH on windows happen.
+* The notifications API gets used and abused, but only after you give it permission.
+* Firebug officially dead.
