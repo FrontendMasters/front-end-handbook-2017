@@ -43,6 +43,7 @@
 * [css4-selectors.com](http://css4-selectors.com/)
 * [css4 Rocks](http://css4.rocks/)
 * [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
+* [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 * [cssvalues.com](http://cssvalues.com/)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
