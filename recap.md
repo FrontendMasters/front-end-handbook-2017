@@ -15,7 +15,7 @@
 * Offline development & Progressive Web Apps go mainstream.
 * Microsoft shows up and contributes.
 * Developing native applications for windows, OSX, and linux using things like NW.js and Electron via web technologies becomes a thing.
-* Angular 2 gets off the pot and most realize it will never be as mainstream as Angular 1.
+* Angular 2 (in the future aka "Angular") gets off the pot and most realize it will never be as mainstream as Angular 1.
 * JavaScript broadly remains at the center of software technologies.
 * More developers start caring about tooling (e.g. automation) and testing.
 * Static site generators are taken seriously.
@@ -36,7 +36,6 @@
 * Aurelia becomes the smart choice for enterprise developers.
 * Webpack gets its act together and solidifies is position over the superior JSPM solution.
 * HTTPS, yeah, we're serious about that.
-* Firebug officially dead.
 * BASH on windows happen.
 * The notifications API gets used and abused, but only after you give it permission.
 * Firebug officially dead.
