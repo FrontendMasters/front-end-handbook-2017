@@ -24,6 +24,8 @@
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) [read]
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) [watch][$]
 * [Building a Progressive Web App](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) [watch][$]
+* [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) [read]
+* [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) [read]
 
 
 
