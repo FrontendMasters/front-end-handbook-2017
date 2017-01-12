@@ -2,7 +2,9 @@
 
 >Unlike traditional applications, progressive web apps are a hybrid of regular web pages (or websites) and a mobile application. This new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience.
 >
->In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "Progressive Web Apps" [3] to describe apps taking advantage of new features supported by modern browsers, including Service Workers and Web App Manifests, that let users upgrade web apps to be first-class applications in their native OS. According to Google Developers,[3][4][5] these characteristics are:
+>In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "Progressive Web Apps" to describe apps taking advantage of new features supported by modern browsers, including Service Workers and Web App Manifests, that let users upgrade web apps to be first-class applications in their native OS. 
+>
+>According to Google Developers, these characteristics are:
 >
 > * Progressive - Work for every user, regardless of browser choice because they’re built with progressive enhancement as a core tenet.
 > * Responsive - Fit any form factor: desktop, mobile, tablet, or forms yet to emerge.
