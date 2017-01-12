@@ -8,6 +8,7 @@
 * [Keypress](http://dmauro.github.io/Keypress/)
 * [Tether](http://tether.io/docs/welcome/)
 * [Zepto](http://zeptojs.com/)
+* [cash](https://github.com/kenwheeler/cash/)
 
 ##### DOM Event Tools:
 

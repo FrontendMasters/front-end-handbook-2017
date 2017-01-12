@@ -3,8 +3,8 @@
 * The year of the UI component, and tree of UI components, for building complex UI's. 
 * Components being constructed from a single file, potentially contain HTML, CSS, and JS, IN ONE FILE! No longer mainstream development blasphemy.
 * React, Redux, Webpack, ECMAScript 2015 (aka ES6), and Babel gain massive adoption. These solutions rise to the top of all the polls as the most used tech.
-* Developers realized, in most cases, hybrid mobile development via webviews doesn't provide enough wins.
-* React Native and NativeScript start to replace hybrid webview development.
+* Developers realized, in most cases, HTML 5 hybrid mobile development via webviews doesn't provide enough wins when building native apps.
+* React Native and NativeScript start to replace mobile HTML5 hybrid webview development.
 * Many abandon Gulp for NPM scripts, but Gulp remains popular.
 * SASS remains a popular tool, while PostCSS (+ CSSNext) gains ground.
 * Linting HTML, CSS, and JavaScript (eslint replaces jshint) is a thing most developers do.
@@ -30,4 +30,8 @@
 * More developer, from other languages, continue to flood the JavaScript space brining with them things like type checking and an obsession with class syntax and OOP concepts
 * Front-end devs are introduced to Hot Module replacement techniques and time travel debugging
 * More waiting for a native JavaScript browser module loader
-* Enforcing CSS and JavaScript style conventions becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations) 
+* Enforcing CSS and JavaScript style conventions becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations)
+* A small but noticeable number of developers are starting to chose elm over JavaScript.
+* TypeScript gets some serious use and fanboys.
+* Aurelia becomes the smart choice for enterprise developers
+* Webpack gets its act together and solidifies is position over the superior JSPM solution.

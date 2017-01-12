@@ -13,6 +13,7 @@
 
 ##### Redux:
 
+* [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.eaeglfaed)
 * [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.mudzrmx8p) [read]
 * [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) [watch]
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) [watch]

@@ -8,6 +8,7 @@
 * [chance](http://chancejs.com/)
 * [date-fns](https://date-fns.org/)
 * [format.js](http://formatjs.io/)
+* [immutable](https://facebook.github.io/immutable-js/)
 * [is.js](http://arasatasaygin.github.io/is.js/)
 * [lodash](https://lodash.com/)
   * [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
@@ -57,6 +58,7 @@
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 * [js-beautify](http://jsbeautifier.org/)
 * [jsfmt](http://rdio.github.io/jsfmt/)
+* [prettier](https://github.com/jlongster/prettier)
 
 ##### Performance Testing:
 

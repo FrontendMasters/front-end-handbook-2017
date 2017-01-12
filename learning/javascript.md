@@ -33,6 +33,7 @@
 * [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
 * [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
 * [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
+* [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
 * [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]

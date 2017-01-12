@@ -13,6 +13,7 @@
 * [Horizon](http://horizon.io/)
 * [GraphQL](http://graphql.org/)
   * [http://www.apollodata.com/](http://www.apollodata.com/)
+  * [Relay](https://facebook.github.io/relay/)
 * [Falcor](https://netflix.github.io/falcor/)
 
 ##### User Management as a Service:
