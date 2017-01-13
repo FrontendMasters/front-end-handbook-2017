@@ -22,10 +22,15 @@
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
-##### Transpiling (ES* to ES*):
+##### Transpiling / Type Checking (ES* to ES*):
 
 * [Babel](https://babeljs.io/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [Flow](https://flowtype.org/)
+
+##### Code-analysis Engine:
+
+* [Tern](https://ternjs.net/)
 
 ##### JavaScript Compatibility Checker:
 
@@ -94,10 +99,10 @@
 * [regexper](http://regexper.com/)
 * [RegExr](http://regexr.com/)
 
-##### Authoring Conventions:
+##### Authoring Convention Tools:
 
-* [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
+* [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
 ##### Trending JS Repositories on GitHub This Month:
 

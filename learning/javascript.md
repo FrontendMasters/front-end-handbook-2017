@@ -63,7 +63,8 @@
 ##### Style:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [JavaScript Standard Style](http://standardjs.com/rules.html)
+* [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard)
 
 ##### JavaScript Newsletters, News, &amp; Podcasts:
 
