@@ -21,7 +21,7 @@
 * Static site generators are taken seriously.
 * CSS Grid excitement grows and the future looks bright.
 * NPM gets some competition from YARN.
-* The next evolution of React-like solutions shows up via Preact and inferno showcasing evolution without API change.
+* The next evolution of React-like solutions shows up via Preact, Deku, and inferno showcasing evolution without API change.
 * Mostly people learn to not only accept JSX they can't imagine not using it.
 * A workable CSS module pattern (CSS encapsulation) is actualized and used, thus CSS in JS becomes a viable solution for many.
 * More people turning to UI functional/integration testing including concepts like visual CSS & RWD regression testing.
@@ -39,3 +39,4 @@
 * BASH on windows happen.
 * The notifications API gets used and abused, but only after you give it permission.
 * Firebug officially dead.
+* CSS [20 years young](https://www.w3.org/Style/CSS20/) in 2016.
