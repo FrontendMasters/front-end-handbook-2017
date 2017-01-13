@@ -19,6 +19,7 @@
 * [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [read][$]
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]
+* [Web Accessibility](https://frontendmasters.com/workshops/accessibility/) [watch][$]
 
 ##### Standards/Specifications:
 

@@ -9,7 +9,7 @@
 * SASS remains a popular tool, while [PostCSS (+ CSSNext) gains ground](https://tylergaw.com/articles/sass-to-postcss).
 * Linting/Hinting [HTML](http://htmlhint.com/), [CSS](http://stylelint.io/), and [JavaScript](http://eslint.org/) is a thing most developers do (ESlint replaces [JShint](http://jshint.com/) & [JSCS](http://jscs.info/) merges into ESLint).
 * A trend of developers abandon Sublime and Atom for [Visual Studio Code](https://code.visualstudio.com/) begins.
-* [jQuery remains](https://trends.builtwith.com/javascript), but usage is declining. [jQuery 3 was released](https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/), much like a tree falling in a forest that nobody hears.
+* [jQuery remains](https://trends.builtwith.com/javascript), but usage/interest is [declining](https://www.google.com/trends/explore?q=jQuery). [jQuery 3 was released](https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/), much like a tree falling in a forest that nobody hears.
 * [Vue.js](https://vuejs.org/) continues to gain converts. Deservingly so!
 * JavaScript functional programming & patterns [get](https://www.manning.com/books/functional-programming-in-javascript) [a](https://github.com/MostlyAdequate/mostly-adequate-guide) [lot](https://github.com/getify/Functional-Light-JS) [of](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) attention.
 * [Offline development](https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/) & [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) go mainstream.
