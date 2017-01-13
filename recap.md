@@ -21,7 +21,7 @@
 * [Static site generators](https://www.staticgen.com/) are [taken](https://github.com/vigetlabs/gulp-starter/tree/blendid) [seriously](https://phenomic.io/).
 * [CSS Grid excitement grows](http://meyerweb.com/eric/thoughts/2016/12/05/css-grid/) and the future looks bright.
 * [NPM](https://www.nasdaqprivatemarket.com/) gets some competition from [YARN](https://yarnpkg.com/).
-* The next evolution of React-like solutions shows up via [Preact](https://preactjs.com/), [Deku](https://github.com/anthonyshort/deku), and [inferno](https://infernojs.org/) showcasing evolution without API change.
+* The next evolution of React-like solutions shows up via [Preact](https://preactjs.com/), [Deku](https://github.com/anthonyshort/deku), [Rax](https://github.com/alibaba/rax), and [inferno](https://infernojs.org/) showcasing evolution without much API change.
 * Mostly people learn to not only accept [JSX](https://facebook.github.io/jsx/) they can't imagine not using it.
 * A workable CSS module pattern (CSS encapsulation) is actualized and used, thus [CSS in JS](https://github.com/MicheleBertoli/css-in-js) becomes a viable solution for many.
 * More people turning to UI functional/integration testing including concepts like visual [CSS](https://css-tricks.com/automating-css-regression-testing/) & RWD regression testing.

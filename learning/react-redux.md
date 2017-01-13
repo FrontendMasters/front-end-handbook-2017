@@ -11,6 +11,7 @@
 * [REACT FOR BEGINNERS](https://reactforbeginners.com/) [watch]
 * [Complete Introduction to React (feat. Redux and React Router)](https://frontendmasters.com/courses/react-intro/) [watch]
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details) [read]
+* [Complete Intro to React v2 (feat. Router v4 and Redux)](https://frontendmasters.com/courses/complete-intro-react/) [watch][$]
 
 ##### Redux:
 

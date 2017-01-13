@@ -6,6 +6,7 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
 * [careers.stackoverflow.com](http://careers.stackoverflow.com/jobs?searchTerm=front-end)
 * [css-tricks.com/jobs](https://css-tricks.com/jobs/)
+* [codepen.io/jobs/](http://codepen.io/jobs/)
 * [frontenddeveloperjob.com](http://frontenddeveloperjob.com/)
 * [glassdoor.com](http://www.glassdoor.com/Job/front-end-developer-jobs-SRCH_KO0,19.htm?jobType=all)
 * [jobs.emberjs.com](http://jobs.emberjs.com/)
