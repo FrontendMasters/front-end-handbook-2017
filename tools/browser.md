@@ -49,13 +49,11 @@
 
 ##### Hosted Testing/Automation for Browsers:
 
-* [Browserling](https://www.browserling.com/) [$]
+* [Browserling](https://www.browserling.com/) [free to $]
 * [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
-* [NightwatchJS](http://nightwatchjs.org/)
+* [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
-* [Selenium](http://www.seleniumhq.org/)
-* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### Headless Browsers:
 
@@ -65,13 +63,13 @@
 * [TrifleJS](http://triflejs.org/)
 * [Zombie.js](http://zombie.js.org/)
 
-##### Headless Browser Automation:
+##### Browser Automation:
 
 Used for functional testing and monkey testing.
 
 * [CasperJS](http://casperjs.org/)
-* [gremlins.js](https://github.com/marmelab/gremlins.js)
 * [Nightmare](https://github.com/segmentio/nightmare)
+* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### Browser Hacks:
 

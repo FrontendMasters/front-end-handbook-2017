@@ -5,7 +5,6 @@
 * [Intern](https://theintern.github.io/)
 * [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
-* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### Unit Testing:
 
@@ -30,14 +29,14 @@
 * [Browserling](https://www.browserling.com/) [$]
 * [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
-* [NightwatchJS](http://nightwatchjs.org/)
+* [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
-* [Selenium](http://www.seleniumhq.org/)
 
 ##### Browser Automation:
 
 * [CasperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
+* [TestCafe](https://github.com/DevExpress/testcafe)
 
 ##### UI Testing Tools:
 
