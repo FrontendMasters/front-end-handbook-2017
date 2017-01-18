@@ -3,6 +3,7 @@
 ##### Desktop & Mobile CSS Frameworks:
 
 * [Base](http://getbase.org/)
+* [Basscss](http://basscss.com/)
 * [Bulma](http://bulma.io/)
 * [Bootstrap 3](http://getbootstrap.com/components/) or [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 * [Concise](http://concisecss.com/)
@@ -91,7 +92,7 @@
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) [read]
 * [MaintainableCSS](http://maintainablecss.com/) [read]
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
-* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) [read]
 
 ##### Trending CSS Repositories on GitHub This Month:
 
