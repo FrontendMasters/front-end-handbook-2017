@@ -47,6 +47,7 @@
 * [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
+* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
 
 ##### References/Docs:
 

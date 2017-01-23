@@ -20,6 +20,7 @@
 * [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.mudzrmx8p) [read]
 * [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) [watch]
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) [watch]
+  * https://github.com/dwyl/learn-redux/blob/master/egghead.io_video_tutorial_notes.md
 * [Learn Redux](https://learnredux.com/) [watch]
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.9s67j3efq) [watch]
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [watch][$]
