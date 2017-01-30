@@ -10,8 +10,6 @@ meta : |
 environment_variables:
   plaintext:
     PHASE: "build"
-    GOROOT: "/usr/local/go"
-    GOBIN: "/go/bin"
     PROJECT: "feh-2017"
     AWS_DEFAULT_REGION: "us-west-2"
 
@@ -21,16 +19,16 @@ phases:
       - apt-get update -y
       - curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
       - apt-get install -y nodejs
+      - npm install -g gitbook-cli --save
   build:
     commands:
       - echo Build started on `date`
-      - npm init
-      - npm install -g gitbook-cli --save
+      - gitbook install
+      - gitbook build
 
   post_build:
     commands:
-      - gitbok install
-      - gitbook build
+      - echo build completed started on `date`
 
 artifacts:
   type: zip
