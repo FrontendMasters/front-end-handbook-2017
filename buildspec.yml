@@ -33,6 +33,6 @@ phases:
 artifacts:
   type: zip
   files:
-    - ./_book
+    - _book/**/*
     - appspec.yml
   discard-paths: no
