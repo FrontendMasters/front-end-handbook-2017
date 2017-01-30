@@ -15,6 +15,7 @@
   * [http://www.apollodata.com/](http://www.apollodata.com/)
   * [Relay](https://facebook.github.io/relay/)
 * [Falcor](https://netflix.github.io/falcor/)
+* [RxDB](https://github.com/pubkey/rxdb)
 
 ##### User Management as a Service:
 
