@@ -34,7 +34,7 @@ Part three briefly explains and identifies tools of the trade.
 
 **Contribute Content, Suggestions, and Fixes on GitHub**: 
 
-* [https://github.com/FrontendMasters/front-end-handbook-2017k](https://github.com/FrontendMasters/front-end-handbook-2017k)
+* [https://github.com/FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 
 ***
 
