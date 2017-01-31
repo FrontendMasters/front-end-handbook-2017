@@ -2,6 +2,7 @@
 
 * [Animate](https://github.com/daneden/animate.css)
 * [Anime](https://github.com/juliangarnier/anime)
+* [Bodymovin](https://github.com/bodymovin/bodymovin)
 * [Dynamics.js](http://dynamicsjs.com/)
 * [GreenSock-JS](http://greensock.com/)
 * [Magic](https://github.com/miniMAC/magic)
