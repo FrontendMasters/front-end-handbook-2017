@@ -16,6 +16,7 @@
 * [The Web Ahead](http://thewebahead.net/)
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
+* [Dev Tips](https://umaar.com/dev-tips/)
 
 
 ##### HTML/CSS Newsletters:
