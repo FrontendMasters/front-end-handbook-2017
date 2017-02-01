@@ -30,7 +30,7 @@
 
 ###### NOTES:
 
-Once you have a good handle on React you might consider looking at [Preact](https://preactjs.com/) and [Inferno](https://infernojs.org/). When you have Redux mastered, take a look [MobX](https://mobx.js.org/).
+Once you have a good handle on React you might consider looking at [Preact](https://preactjs.com/) or [Inferno](https://infernojs.org/), or both. When you have Redux mastered, take a look [MobX](https://mobx.js.org/) or consider creating your own small custom Redux like implementation from scratch.
 
 
 
