@@ -13,6 +13,7 @@
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details) [read]
 * [Complete Intro to React v2 (feat. Router v4 and Redux)](https://frontendmasters.com/courses/complete-intro-react/) [watch][$]
   * [Welcome to A Complete Intro to React](https://btholt.github.io/complete-intro-to-react/all.html) [read]
+* [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app) [watch][$]
 
 ##### Redux:
 
@@ -24,6 +25,12 @@
 * [Learn Redux](https://learnredux.com/) [watch]
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.9s67j3efq) [watch]
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [watch][$]
+
+***
+
+###### NOTES:
+
+Once you have a good handle on React you might consider looking at [Preact](https://preactjs.com/) or [Inferno](https://infernojs.org/), or both. When you have Redux mastered, take a look [MobX](https://mobx.js.org/) or consider creating your own small custom Redux like implementation from scratch.
 
 
 

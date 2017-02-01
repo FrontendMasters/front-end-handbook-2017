@@ -23,7 +23,7 @@ A web browser is software used to retrieve, present, and traverse information on
 The most common web browsers are (shown in order of most used first):
 
 * [Chrome](http://www.google.com/chrome/)
-* [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer) (Note: Note [Edge](http://dev.modern.ie/), IE 9 to IE 11)
+* [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer) (Note: not [Edge](http://dev.modern.ie/), referring to IE 9 to IE 11)
 * [Firefox](https://www.mozilla.org/firefox/)
 * [Safari](http://www.apple.com/safari/)
 

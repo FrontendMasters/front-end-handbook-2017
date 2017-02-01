@@ -7,7 +7,7 @@
 
 ##### Widgets & Components:
 
-* [amCharts](http://www.amcharts.com/) [$]
+* [amCharts](http://www.amcharts.com/) [free to $]
 * [AnyChart](http://www.anychart.com/) [Non-commercial free to $]
 * [C3.js](http://c3js.org/)
 * [Chartist-jsj](https://github.com/gionkunz/chartist-js)

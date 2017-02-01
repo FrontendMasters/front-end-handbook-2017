@@ -33,6 +33,7 @@
 * [Front End Newsletter](http://frontendnewsletter.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Pony Foo Weekly](https://ponyfoo.com/weekly)
 * [shoptalkshow.com](http://shoptalkshow.com/)
 * [The Web Ahead](http://thewebahead.net/)
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)

@@ -83,7 +83,9 @@
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [OOCSS](http://oocss.org/) [read]
 * [SMACSS](https://smacss.com/) [read][$]
+  * [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) [watch][$]
 * [SUIT CSS](http://suitcss.github.io)
+* [rscss](http://rscss.io/)
 
 ##### Authoring/Architecting Conventions:
 

@@ -2,7 +2,8 @@
 
 ##### Front-End App Frameworks: [^1]
 
-* [AngularJS](https://angularjs.org/) + [angular-cli](https://github.com/angular/angular-cli) + [Batarang](https://github.com/angular/angularjs-batarang)
+* [AngularJS](https://github.com/angular/angular.js) (i.e Angular 1.x.x) + [Batarang](https://github.com/angular/angularjs-batarang)
+* [Angular](https://github.com/angular/angular) (i.e. Angular 2.0.0 +) + [angular-cli](https://github.com/angular/angular-cli) 
 * [Aurelia](http://aurelia.io/) + [Aurelia CLI](https://github.com/aurelia/cli)
 * [Ember](http://emberjs.com/) + [embercli](https://ember-cli.com/) + [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Polymer](https://www.polymer-project.org/1.0/)

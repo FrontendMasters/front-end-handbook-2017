@@ -17,7 +17,7 @@ If you were to set out today to become a front-end developer I would loosely str
 7. Learn the fundamentals of user interface design (i.e. UI patterns, interaction design, user experience design, and usability).
 8. Learn CLI/command line
 9. Learn the practice of software engineering (i.e., Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
-10. Get opinionated and customize your tool box with whatever makes sense to your brain (e.g. Wepback, React, and Redux).
+10. Get opinionated and customize your tool box with whatever makes sense to your brain (e.g. Webpack, React, and Redux).
 11. Learn Node.js
 
 A short word of advice on learning. [Learn the actual underlying technologies, before learning abstractions.](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL) Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn CoffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. 
