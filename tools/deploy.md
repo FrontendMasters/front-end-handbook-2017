@@ -9,6 +9,7 @@
 * [FTPLOY](http://ftploy.com/) [free to $]
 * [Now](https://zeit.co/now) [free to $]
 * [Travis CI](http://docs.travis-ci.com/) [free to $]
+* [Semaphore](https://semaphoreci.com/) [free to $]
 * [Springloops](http://www.springloops.io/) [free to $]
 
 
