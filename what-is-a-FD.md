@@ -8,7 +8,7 @@
 
 ##### HTML, CSS, & JavaScript:
 
-A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform](https://en.wikipedia.org/wiki/Open_Web_Platform) or act as compilation input for non-web platform environments (i.e., [NativeScript](https://www.nativescript.org/)).
+A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform][Open Web Platform] or act as compilation input for non-web platform environments (i.e., [NativeScript](https://www.nativescript.org/)).
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
 
@@ -56,9 +56,10 @@ Some examples of these environments are:
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
 
-***
+* * *
 
 ###### NOTES:
 
-Make sure you are clear what what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"](Open Web Platform) Wikipedia page.
+Make sure you are clear what what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"][Open Web Platform] Wikipedia page.
 
+[Open Web Platform]: https://en.wikipedia.org/wiki/Open_Web_Platform
