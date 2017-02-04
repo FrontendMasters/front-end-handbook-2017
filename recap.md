@@ -36,7 +36,7 @@
 * http://aurelia.io/ becomes the [smart choice for enterprise developers](https://www.youtube.com/watch?v=6I_GwgoGm1w&t=3315s) (i.e. support!).
 * [Webpack](https://webpack.js.org/configuration/) gets its act [together](https://opencollective.com/webpack) and solidifies is position over the superior [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm) solution.
 * [HTTPS, yeah, we're serious about that.](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
-* [BASH](https://msdn.microsoft.com/en-us/commandline/wsl/about) on windows happen.
+* [BASH](https://msdn.microsoft.com/en-us/commandline/wsl/about) on windows happens.
 * The [notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API) gets used and abused for chrome users, but only after you give it permission.
 * [Firebug officially dead](https://github.com/firebug/firebug).
 * CSS [20 years young](https://www.w3.org/Style/CSS20/) in 2016.
