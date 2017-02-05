@@ -10,7 +10,7 @@ The following core web technologies are employed by front-end developers (consid
 2. Hypertext Transfer Protocol (aka HTTP)
 3. Hyper Text Markup Language (aka HTML)
 4. Cascading Style Sheets (aka CSS)
-6. JavaScript Programming Language (aka: ECMAScript 262)
+6. JavaScript Programming Language (aka ECMAScript 262)
 7. JavaScript Object Notation (aka JSON)
 8. Document Object Model (aka DOM)
 9. Web APIs (aka HTML5 and friends or Browser APIs)
@@ -59,7 +59,7 @@ Most relevant specifications / documentation:
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
 * [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
-##### JavaScript Programming Language (aka: ECMAScript 262)
+##### JavaScript Programming Language (aka ECMAScript 262)
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
 
