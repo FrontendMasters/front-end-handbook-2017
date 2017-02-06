@@ -6,6 +6,9 @@
 * [Cosmic JS](https://cosmicjs.com/) [free to $]
 * [prismic.io](https://prismic.io/) [free to $]
 * [elemeno](https://elemeno.io) [free to $]
+* [Craft](https://craftcms.com) [free to $]
+* [Drupal](https://drupal.org) [free]
+* [Statamic](https://statamic.com) [$]
 
 ##### Hosted CMS Tools:
 
@@ -20,6 +23,7 @@
 * [Dato CMS](https://www.datocms.com/)
 * [siteleaf](https://www.siteleaf.com/)
 * [forestry.io](https://forestry.io/)
+* [Statamic](https://statamic.com)
 
 
 
