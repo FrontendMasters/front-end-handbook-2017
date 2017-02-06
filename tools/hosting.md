@@ -1,8 +1,9 @@
 # Hosting Tools
 
-##### General
+##### Cloud Hosting
 
 * [AWS](https://aws.amazon.com/websites/) [$]
+* [GCP](https://cloud.google.com) [$]
 * [DigitalOcean](https://digitalocean.com) [$]
 * [Heroku](https://heroku.com) [free to $]
 
