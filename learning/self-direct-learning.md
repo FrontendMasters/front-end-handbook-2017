@@ -13,6 +13,7 @@ Below are a few video learning outlets (tech focused) I generally recommend pull
 * [egghead.io](https://egghead.io/)
 * [eventedmind.com](https://www.eventedmind.com/)
 * [Frontend Masters](https://frontendmasters.com/)
+* [Freecodecamp](https://www.freecodecamp.com)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [laracasts.com](https://laracasts.com/)
 * [lynda.com](http://www.lynda.com/) [careful, quality varies]
