@@ -18,6 +18,7 @@
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [Dev Tips](https://umaar.com/dev-tips/)
+* [UX Design Newsletter](http://uxdesignnewsletter.com/)
 
 
 ##### HTML/CSS Newsletters:
