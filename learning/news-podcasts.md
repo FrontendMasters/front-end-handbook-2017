@@ -11,6 +11,7 @@
 * [Front End Newsletter](http://frontendnewsletter.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Non Breaking Space Show](http://nonbreakingspace.tv)
 * [shoptalkshow.com](http://shoptalkshow.com/)
 * [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/)
 * [The Web Ahead](http://thewebahead.net/)
