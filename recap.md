@@ -27,7 +27,7 @@
 * More people turning to UI functional/integration testing including concepts like visual [CSS](https://css-tricks.com/automating-css-regression-testing/) & RWD regression testing.
 * The days of [battling](https://kangax.github.io/compat-table/es6/) [inconsistent browser API's](https://html5test.com/results/desktop.html) are almost behind us due to a massive decline in usage and development for [older versions of IE](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0).
 * Most everyone realized they will have to have a [multi-device strategy](http://www.intel.com/content/dam/www/public/us/en/images/iot/guide-to-iot-infographic.png) plan when development for the web
-* More developer, from other languages, continue to flood the JavaScript space bringing with them things like [type checking](https://flowtype.org/) and an [obsession with class syntax and OOP concepts](https://www.typescriptlang.org/).
+* More developers, from other languages, continue to flood the JavaScript space bringing with them things like [type checking](https://flowtype.org/) and an [obsession with class syntax and OOP concepts](https://www.typescriptlang.org/).
 * Front-end devs are introduced to [Hot Module replacement techniques and time travel debugging](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i).
 * More waiting for a native [JavaScript browser module loader](https://whatwg.github.io/loader/).
 * [Enforcing CSS](https://css-tricks.com/stylelint/) and [JavaScript style conventions](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations)
