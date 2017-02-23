@@ -63,7 +63,7 @@
 ##### Standards/Specifications:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-* [ECMAScript® 2016 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/)
 * [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
 * [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
 

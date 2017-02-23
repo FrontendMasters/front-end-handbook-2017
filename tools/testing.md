@@ -47,6 +47,9 @@
 * [Ghost Inspector](https://ghostinspector.com/)
 * [diff.io](https://diff.io/)
 
+##### Automated dead link and error detectors:
+* [Monkey Test It](https://monkeytest.it/)
+
 ***
 
 ###### NOTES:

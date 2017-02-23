@@ -2,13 +2,18 @@
 
 ##### DOM Libraries/Frameworks:
 
-* [clipboard.js](http://zenorocha.github.io/clipboard.js/)
+* [Bliss](http://blissfuljs.com/docs.html)
 * [jQuery](http://jquery.com/)
   * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
-* [Keypress](http://dmauro.github.io/Keypress/)
-* [Tether](http://tether.io/docs/welcome/)
 * [Zepto](http://zeptojs.com/)
 * [cash](https://github.com/kenwheeler/cash/)
+* [Umbrella JS](http://umbrellajs.com/)
+
+##### DOM Utilities:
+
+* [Keypress](http://dmauro.github.io/Keypress/)
+* [Tether](http://tether.io/docs/welcome/)
+* [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 
 ##### DOM Event Tools:
 

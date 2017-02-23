@@ -26,6 +26,7 @@
 * [HTML Arrows](http://htmlarrows.com/)
 * [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
 * [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [htmlreference.io](http://htmlreference.io/)
 
 ##### Linting/Hinting:
 

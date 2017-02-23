@@ -4,6 +4,7 @@
 
 * [staticgen.com](https://www.staticgen.com/)
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
+* [Metalsmith](http://www.metalsmith.io/)
 
 ***
 
