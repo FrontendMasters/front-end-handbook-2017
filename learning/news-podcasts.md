@@ -11,12 +11,14 @@
 * [Front End Newsletter](http://frontendnewsletter.com/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Non Breaking Space Show](http://nonbreakingspace.tv)
 * [shoptalkshow.com](http://shoptalkshow.com/)
 * [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/)
 * [The Web Ahead](http://thewebahead.net/)
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [webtoolsweekly.com](http://webtoolsweekly.com/)
 * [Dev Tips](https://umaar.com/dev-tips/)
+* [UX Design Newsletter](http://uxdesignnewsletter.com/)
 
 
 ##### HTML/CSS Newsletters:
