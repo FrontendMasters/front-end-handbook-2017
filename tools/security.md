@@ -9,6 +9,7 @@
 
 * [Netsparker](https://www.netsparker.com)
 * [Websecurify](http://www.websecurify.com/)
+* [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 ##### References:
 
