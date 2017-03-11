@@ -48,7 +48,7 @@ When the word "SEO" is included in the job title, this will denote that the deve
 
 **Front-End Accessibility Expert**
 
-When the word "Acessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
+When the word "Accessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
 
 ***
 
