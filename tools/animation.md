@@ -2,6 +2,7 @@
 
 * [Animate](https://github.com/daneden/animate.css)
 * [Anime](https://github.com/juliangarnier/anime)
+* [Animista.net](http://animista.net/)
 * [Dynamics.js](http://dynamicsjs.com/)
 * [GreenSock-JS](http://greensock.com/)
 * [Magic](https://github.com/miniMAC/magic)
