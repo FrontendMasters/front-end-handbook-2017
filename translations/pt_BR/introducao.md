@@ -1,4 +1,4 @@
-Este é um guia que qualquer pessoa pode usar para aprender sobre desenvolvimento front-end. Também discute de forma geral sobre a parte de engenharia front-end: como aprender e quais ferramentas usar ao trabalhar com frontend em 2017.
+Este é um guia que qualquer pessoa pode usar para aprender sobre desenvolvimento front-end. Também discute de forma geral sobre a parte de engenharia front-end: como aprender e quais ferramentas usar ao trabalhar com front-end em 2017.
 
 Este livro foi escrito com a intenção de ser um guia para futuros front-ends e para quem já atua na área, para que ganhem mais conhecimento com materias de aprendizado e ferramentas de desenvolvimento. De forma secundária, pode ser usado por gerentes, CTOs, instrutores e recrutadores para adquirir conhecimento sobre como é o trabalho de um front-end.
 
@@ -12,7 +12,7 @@ Este guia é dividido em três partes.
 
 ## Parte 1 - Front-End na Prática
 
-- Aborda a prática do Desenvolvimento Front-End
+- Aborda a prática do esenvolvimento Front-End
 
 ## Parte 2 - Aprendendo Desenvolvimento Front-End
 
