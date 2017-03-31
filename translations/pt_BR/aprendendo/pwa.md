@@ -8,14 +8,14 @@
 >
 > * Progressiva - Funciona para todos os usuários, indepedente do navegador escolhido, elas operam de forma progressiva como príncipio básico.
 > * Responsiva - Se adapta a qualquer dispositivo: desktop, mobile, tablet ou outros dispositivos que podem surgir.
-> * Independente de conexão - Permite você trabalhar offline, ou com internets de baixa qualidade.
+> * Independente de conexão - Permite você trabalhar offline ou com internets de baixa qualidade.
 > * São como aplicativos - Devem possuir a sensação, o estilo e a nevegação de um aplicativo, para o usuário sentir que está utilizando um aplicativo nativo.
 > * Atualizada - Sempre atualizada graças aos processos de atualização do service worker.
 > * Segura - Alimentada via HTTPS para evitar bisbilhoteiros e garantir que o conteúdo não seja alterado.
 > * Vísivel - São identificadas como "Aplicativos" graças ao W3C manifests[6] e registro de service worker que permite que os mecanismos de busca as encontrem.
-> * Re-engajáveis - São facilmente re-engajáveis graças a features como push notifications.
-> * Instaláveis - Permitem aos usuários "manter" os aplicativos mais úteis para encontrá-los na sua página inicial sem precisar se aborecer em alguma app store.
-> * Linkaveis - Facilmente compartilhadas via URL e não requerem nenhuma forma complexa de instalação.
+> * Re-engajáveis - São facilmente re-engajáveis graças as features como _push notifications_.
+> * Instaláveis - Permitem aos usuários "manter" os aplicativos mais úteis para encontrá-los na sua página inicial sem precisar se aborrecer em alguma app store.
+> * Linkáveis - Facilmente compartilhadas via URL e não requerem nenhuma forma complexa de instalação.
 
 >
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)</cite>
