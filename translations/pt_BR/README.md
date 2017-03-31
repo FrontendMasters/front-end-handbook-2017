@@ -2,29 +2,30 @@
 
 Escrito por [Cody Lindley](http://codylindley.com/), patrocinado por [Frontend Masters](https://frontendmasters.com/) e traduzido pela [comunidade](https://github.com/frontendbr/).
 
-Este é um guia que qualquer um pode usar para consultar aprender sobre as práticas do desenvolvimento front-end. Em linhas gerais, passa sobre os assuntos e discute as práticas do desenvolvimento front-end: como aprender e quais ferramentas usar para pratica-lo em 2017.
+Este é um guia que qualquer pessoa pode usar para aprender sobre desenvolvimento front-end. Também discute de forma geral sobre a parte de engenharia front-end: como aprender e quais ferramentas usar ao trabalhar com front-end em 2017.
 
-Este guia é especificamente escrito com a intenção de ser um potencial recurso para o profissional e atualmente praticar desenvolvedores front-end com materiais de estudo e ferramentas de desenvolvimento. Secundariamente, ele pode ser utilizado por gestores, CTOs, instrutores e caça talentos para ter noções dentro da prática do desenvolvimento front-end.
+Este livro foi escrito com a intenção de ser um guia para futuros front-ends e para quem já atua na área, para que ganhem mais conhecimento com materias de aprendizado e ferramentas de desenvolvimento. De forma secundária, pode ser usado por gerentes, CTOs, instrutores e recrutadores para adquirir conhecimento sobre como é o trabalho de um front-end.
 
-O conteúdo deste guia de bolso favorece as tecnologias web (HTML, CSS, DOM e JavaScript) e essas soluções que são diretamente construídas no topo dessas tecnologias abertas. Os materiais que foram referenciados e discutidos no livro são os melhores na classe ou são contribuições para a solução de um problema.
+O conteúdo deste livro foca em tecnologias web (HTML, CSS, DOM e Javascript) e soluções que são construídas através destas tecnologias. Os materiais referenciados e discutidos no livro são os mais recomendados e usados atualmente.
 
-O livro não pode ser considerado uma linha geral sobre os recursos disponíveis para o desenvolvedor front-end. O valor do livro é amarrado de forma concisa, focada e oportuna de apenas informações categóricas suficientes para não sobrecarregar ninguém em qualquer assunto específico.
+Este livro não deve ser considerado uma enciclopédia com todos os recursos disponíveis para um front-end. O conteúdo deste livro é abordado de forma a não sobrecarregar o leitor com algum assunto específico.
 
-A intenção é liberar uma atualização anual do conteúdo.
+A intenção é atualizar este livro anualmente.
 
-O guia de bolso é dividido entre três partes.
+Este guia é dividido em três partes.
 
-Parte 1: A prática do front-end
----
-A primeira parte descreve amplamente a prática do desenvolvimento front-end.
+## Parte 1 - Front-End na Prática
 
-Parte 2: Aprendendo desenvovimento front-end
----
-A segunda parte indentifica os direcionamentos e os recursos diretos para aprender a ser um desenvolvedor front-end.
+- Aborda a prática do Desenvolvimento Front-End
 
-Parte 3: Ferramentas para o desenvolvimento front-end
----
-A terceira parte explana e identifica as ferramentas do mercado.
+## Parte 2 - Aprendendo Desenvolvimento Front-End
+
+- Mostra recursos de aprendizado para se tornar um Desenvolvedor Front-End
+
+## Parte 3 - Ferramentas de Desenvolvimento
+
+- Explica brevemente sobre ferramentas para desenvolvimento
+
 
 ***
  
