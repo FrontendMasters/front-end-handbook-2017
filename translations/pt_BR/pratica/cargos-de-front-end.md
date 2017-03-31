@@ -30,7 +30,7 @@ Quando o termo "designer" é incluido no cargo, indica-se que o designer deve po
 
 **Desenvolvedor/Engenheiro de Interfaces de Usuário (UI) Web/Front-End**
 
-Quando o termo "interface" ou "UI" é incluido no cargo, indica-se que este desenvolvedor deva possuir habilidades com design de interação somadas as habilidades de desenvolvedores ou engenheiros front-end.
+Quando o termo "interface" ou "UI" é incluido no cargo, indica-se que este desenvolvedor deva possuir habilidades com design de interação somadas às habilidades de desenvolvedores ou engenheiros front-end.
 
 ***
 
@@ -42,7 +42,7 @@ Quando o termo "mobile" ou "tablet" é incluido no cargo, indica-se que este des
 
 **Especialista em SEO Front-End**
 
-Quando o termo "acessibilidade" é incluido no cargo, indica-se que este desenvolvedor possui experiência extensiva produzindo tecnologias front-end que suportam requisitos e padrões de acessibilidde.
+Quando o termo "acessibilidade" ou "SEO" é incluido no cargo, indica-se que este desenvolvedor possui experiência extensiva produzindo tecnologias front-end que suportam requisitos e padrões de acessibilide e otimização para mecanismos de busca (Google, Yahoo e Bing).
 
 ***
 
