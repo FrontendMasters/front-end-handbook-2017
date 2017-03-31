@@ -1,6 +1,6 @@
 # Aprendendo sobre Internet/Web
 
-> A Internet é um sistema global de redes de computadores interligadas que utilizam um conjunto próprio de protocolos (Internet Protocol Suite ou TCP/IP) com o propósito de servir progressivamente usuários no mundo inteiro. É uma rede de várias outras redes, que consiste de milhões de empresas privadas, públicas, acadêmicas e de governo, com alcance local e global e que está ligada por uma ampla variedade de tecnologias de rede eletrônica, sem fio e ópticas. A internet traz uma extensa gama de recursos de informação e serviços, tais como os documentos inter-relacionados de hipertextos da World Wide Web (WWW), redes ponto-a-ponto (peer-to-peer) e infraestrutura de apoio a correio eletrônico (e-mails).
+> A Internet é um sistema global de redes de computadores interligadas que utilizam um conjunto próprio de protocolos (Internet Protocol Suite ou TCP/IP) com o propósito de servir progressivamente usuários no mundo inteiro. É uma rede de várias outras redes, que consiste de milhões de empresas privadas, públicas, acadêmicas e de governo com alcance local e global e que está ligada por uma ampla variedade de tecnologias de rede eletrônica, sem fio e ópticas. A internet traz uma extensa gama de recursos de informação e serviços, tais como os documentos inter-relacionados de hipertextos da World Wide Web (WWW), redes ponto-a-ponto (peer-to-peer) e infraestrutura de apoio a correio eletrônico (e-mails).
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Internet)</cite>
 
