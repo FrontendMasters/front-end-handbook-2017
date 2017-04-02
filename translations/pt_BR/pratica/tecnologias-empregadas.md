@@ -2,7 +2,7 @@
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 
-<cite>Image source: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
+<cite>Fonte: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
 
 As seguintes tecnologias web são as principais utilizadas pelos desenvolvedores front-end (considere aprendê-las nessa ordem):
 
@@ -20,107 +20,107 @@ Estas tecnologias são definidas abaixo com a documentação relevante e especif
 
 ##### Hyper Text Markup Language (aka HTML)
 
-> HyperText Markup Language, geralmente chamada de HTML, é a linguagem de marcação padrão utilizada para criar páginas web. Navegadores web podem ler arquivos HTML e renderizá-los em páginas web visíveis ou audíveis. HTML descreve a estrutura de um site semanticamente, juntamente com dicas para apresentação, fazendo dela uma linguagem de marcação, em vez de uma linguagem de programação.
+> HyperText Markup Language (Linguagem de Marcação de Hipertexto), geralmente chamada de HTML, é a linguagem de marcação padrão utilizada para criar páginas web. Navegadores web podem ler arquivos HTML e renderizá-los em páginas web visíveis ou audíveis. HTML descreve a estrutura de um site semanticamente, juntamente com dicas para apresentação, fazendo dela uma linguagem de marcação, em vez de uma linguagem de programação.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/HTML)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/HTML)</cite>
 
 Especificações mais relevantes / documentação:
 
-* [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage)
-* [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-* [HTML 5.2 from W3C](http://w3c.github.io/html/)
-* [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
+* [Todas especificações HTML da W3C (Inglês)](http://www.w3.org/standards/techs/html#w3c_all)
+* [Os elementos do HTML no Padrão Atualizado (Living Standard) (Inglês)](https://html.spec.whatwg.org/multipage)
+* [Atributos Globais](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes)
+* [HTML 5.2 from W3C (Offline)](http://w3c.github.io/html/)
+* [Atributos](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [Elementos HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [A sintaxe HTML (Inglês)](https://html.spec.whatwg.org/multipage/syntax.html#syntax) no Padrão Atualizado
 
 ##### Cascading Style Sheets (aka CSS)
 
-> Cascading Style Sheets (CSS) é uma linguagem de folhas de estilo usada para descrever a aparência e formatação de um documento escrito em uma linguagem de marcação. Embora mais frequentemente utilizada para modificar o estilo de páginas web e interfaces de usuário escritas em HTML e XHTML, a linguagem pode ser aplicada à qualquer tipo de documento XML, inclusive XML simples, SVG e XUL. Junto com HTML e JavaScript, CSS é uma tecnologia pilar usada na maioria dos sites para criar páginas visualmente imersivas, interfaces de usuário para aplicações web, e interfaces de usuário para muitas aplicações móveis.
+> Cascading Style Sheets (CSS) é uma linguagem de folhas de estilo usada para descrever a aparência e formatação de um documento escrito em uma linguagem de marcação. Embora mais frequentemente utilizada para modificar o estilo de páginas web e interfaces de usuário escritas em HTML e XHTML, a linguagem pode ser aplicada à qualquer tipo de documento XML, inclusive XML simples, SVG e XUL. Junto com HTML e JavaScript, CSS é uma tecnologia base usada na maioria dos sites para criar páginas visualmente atraentes, interfaces de usuário para aplicações web, e interfaces de usuário para muitas aplicações móveis.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
 
 Especificações mais relevantes / documentação:
 
-* [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
-* [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
-* [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
+* [Todas especificações CSS da W3C (Inglês)](http://www.w3.org/Style/CSS/current-work#roadmap)
+* [Especificação de Cascading Style Sheets Nível 2 Revisão 2 (CSS 2.2) (Inglês)](https://drafts.csswg.org/css2/)
+* [Referência CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
+* [Seletores Nível 3 (Inglês)](http://www.w3.org/TR/css3-selectors/)
 
 ##### Document Object Model (aka DOM)
 
-> The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface (API).
+> O Document Object Model (DOM) é uma convenção multiplataforma e independente de linguagem para representar e interagir com objetos em HTML, XHTML, e documentos XML. Os nós de todo documento são organizados em uma estrutura em árvore, chamada árvore DOM. Objetos na árvore DOM podem ser endereçados e manipulados utilizando métodos nos objetos. A interface pública de um DOM é especificada em sua interface de programação de aplicativo (API).
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Modelo_de_Objeto_de_Documentos)</cite>
 
-Most relevant specifications / documentation:
+Especificações mais relevantes / documentação:
 
-* [Document Object Model (DOM) Level 3 Events Specification](https://www.w3.org/TR/DOM-Level-3-Events/)
-* [DOM Living Standard](https://dom.spec.whatwg.org/)
-* [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
+* [Especificação dos eventos de Document Object Model (DOM) Nível 3 (Inglês)](https://www.w3.org/TR/DOM-Level-3-Events/)
+* [Padrão Atualizado de DOM (Inglês)](https://dom.spec.whatwg.org/)
+* [W3C DOM4 (Inglês)](https://www.w3.org/TR/2015/REC-dom-20151119/)
 
-##### JavaScript Programming Language (aka ECMAScript 262)
+##### Linguagem de Programação JavaScript (aka ECMAScript 262)
 
-> JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
+> JavaScript é uma linguagem de programação de alto-nível, dinâmica, não tipada e interpretada. Ela foi padronizada na especificação de linguagem ECMAScript. Ao lado de HTML e CSS, é uma das três tecnologias essencials para a produção de conteúdo na Internet; A maioria dos sites utiliza-a e é suportada por todos os navegadores web modernos sem plug-ins. Javascript é baseada em protótipos com funções de primeira classe, tornando-se uma linguagem multi-paradigma, suportando estilo de programação orientado a objeto, imperativo e funcional. Ela possui uma API para trabalhar com texto, matrizes, datas e expressões regulares, mas não inclui qualquer E/S, como recurso de rede, armazenamento e gráficos, dependendo para estes do ambiente do host no qual ela está incorporada.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/JavaScript)</cite>
 
-Most relevant specifications / documentation:
+Especificações mais relevantes / documentação:
 
-* [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
+* [Especificação da Linguagem ECMAScript® 2017 (Inglês)](https://tc39.github.io/ecma262/)
 
-##### Web APIs (aka HTML5 and friends)
+##### APIs Web (aka HTML5 e amigos)
 
-> When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.
+> Ao escrever código para a Web usando Javascript, há um grande número de APIs disponíveis. Abaixo está uma lista de todas as interfaces (isto é, tipos de objetos) que você pode ser capaz usar ao desenvolver sua aplicação Web ou site.
 
-><cite>&#8212; [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API)</cite>
+><cite>&#8212; [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/API)</cite>
 
-Most relevant documentation:
+Documentação mais relevante:
 
-* [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Referência da API Web](https://developer.mozilla.org/pt-BR/docs/Web/API)
 
 ##### Hypertext Transfer Protocol (aka HTTP)
 
-> The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+> O Hypertext Transfer Protocol (HTTP) é um protocolo de aplicação para sistemas de informação distribuídos, colaborativos e hipermídia. HTTP é a base da comunicação de dados para a Internet.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
 
-Most relevant specifications:
+Especificações mais relevantes:
 
-* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
-* [HTTP/2](https://http2.github.io/)
+* [Hypertext Transfer Protocol -- HTTP/1.1 (Inglês)](https://tools.ietf.org/html/rfc2616)
+* [HTTP/2 (Inglês)](https://http2.github.io/)
 
 ##### Uniform Resource Locators (aka URL)
 
-> A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications.
+> Um Uniform Resource Locator (URL) (também chamado de endereço web) é uma referência para um recurso que especifica a localização do recurso em uma rede de computadores e um mecanismo para recuperá-lo. Uma URL é um tipo específico de Uniform Resource Identifier (URI), embora muitas pessoas usem os dois termos de forma intercambiável. Uma URL implica os meios para acessar um recurso indicado, o que não é verdade para toda URI. URLs ocorrem mais comumente para referenciar à páginas web (http), mas também são usados para transferência de arquivo (ftp), email (mailto), acesso à banco de dados (JDBC), e muitas outras aplicações.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Uniform_Resource_Locator)</cite>
 
-Most relevant specifications:
+Especificações mais relevantes:
 
-* [Uniform Resource Locators (URL)](http://www.w3.org/Addressing/URL/url-spec.txt)
-* [URL Living Standard](https://url.spec.whatwg.org/)
+* [Uniform Resource Locators (URL) (Inglês)](http://www.w3.org/Addressing/URL/url-spec.txt)
+* [URL Padrão Atualizado (Inglês)](https://url.spec.whatwg.org/)
 
 ##### JavaScript Object Notation (aka JSON)
 
-> c It is the primary data format used for asynchronous browser/server communication (AJAJ), largely replacing XML (used by AJAX). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json.
+> É o formato de dados primário usado para comunicação assíncrona entre navegador/servidor (AJAJ), em grande parte subistituindo XML (usado pelo AJAX). Embora originalmente derivado da linguagem de script Javascript, JSON é um formato de dados independente de linguagem. O código para analisar e gerar dados JSON está prontamente disponível em muitas linguagens de programação. O formato JSON foi originalmente especificado por Douglas Crockford. Atualmente ele é descrito por dois padrões concorrentes, RFC 7159 e ECMA-404. O padrão ECMA é mínimo, descrevendo apenas a sintaxe gramatical permitida, enquanto que o RFC também disponibiliza algumas considerações de semântica e segurança. O tipo de mídia oficial da Internet para JSON é application/json. A extenção de nome de arquivo de JSON é .json.
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JSON)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/JSON)</cite>
 
-Most relevant specifications:
+Especificações mais relevantes:
 
-* [Introducing JSON](http://json.org/)
-* [JSON API](http://jsonapi.org/)
-* [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [Introdução ao JSON](http://json.org/json-pt.html)
+* [JSON API (Inglês)](http://jsonapi.org/)
+* [Os dados JSON Formato de comunicação (Inglês)](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
 ##### Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
-> Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e., unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).
+> Acessibilidade refere ao design dos produtos, dispositivos, serviços ou ambientes para pessoas com deficiência. O conceito de design acessível garante tanto o "acesso direto" (isto é, não assistido) e "acesso indireto", que significa compatibilidade com a tecnologia assistiva de uma pessoa (por exemplo, leitores de tela de computador).
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Accessibility)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Acessibilidade)</cite>
 
-* [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
-* [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
-* [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [Accessible Rich Internet Applications (WAI-ARIA) Status Atual (Inglês)](http://www.w3.org/standards/techs/aria#w3c_all)
+* [Web Accessibility Initiative (WAI) (Inglês)](http://www.w3.org/WAI/)
+* [Web Content Accessibility Guidelines (WCAG) Status Atual (Inglês)](http://www.w3.org/standards/techs/wcag#w3c_all)
 
 
