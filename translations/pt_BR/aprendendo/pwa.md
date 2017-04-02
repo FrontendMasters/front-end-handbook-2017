@@ -18,7 +18,7 @@
 > * Linkáveis - Facilmente compartilhadas via URL e não requerem nenhuma forma complexa de instalação.
 
 >
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)</cite>
+><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Progressive_Web_App)</cite>
 
 * [Progressive Web Apps (Aplicações Web Progressivas)](https://developers.google.com/web/progressive-web-apps/) [read]
 * [Beginner’s Guide To Progressive Web Apps (Guia para iniciantes em Progressive Web Apps)](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) [read]
