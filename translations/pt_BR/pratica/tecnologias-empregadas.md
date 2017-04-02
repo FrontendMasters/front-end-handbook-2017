@@ -13,7 +13,7 @@ As seguintes tecnologias web são as principais utilizadas pelos desenvolvedores
 6. JavaScript Programming Language (aka ECMAScript 262)
 7. JavaScript Object Notation (aka JSON)
 8. Document Object Model (aka DOM)
-9. Web APIs (aka HTML5 e amigos ou Browser APIs)
+9. Web APIs (aka HTML5 e amigos ou APIs de Navegador)
 10. Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
 Estas tecnologias são definidas abaixo com a documentação relevante e especificações. Para uma lista completa de todas as especificações relacionadas à web, dê uma olhada em [platform.html5.org](https://platform.html5.org/).
@@ -36,7 +36,7 @@ Especificações mais relevantes / documentação:
 
 ##### Cascading Style Sheets (aka CSS)
 
-> Cascading Style Sheets (CSS) é uma linguagem de folhas de estilo usada para descrever a aparência e formatação de um documento escrito em uma linguagem de marcação. Embora mais frequentemente utilizada para modificar o estilo de páginas web e interfaces de usuário escritas em HTML e XHTML, a linguagem pode ser aplicada à qualquer tipo de documento XML, inclusive XML simples, SVG e XUL. Junto com HTML e JavaScript, CSS é uma tecnologia base usada na maioria dos sites para criar páginas visualmente atraentes, interfaces de usuário para aplicações web, e interfaces de usuário para muitas aplicações móveis.
+> Cascading Style Sheets (CSS, Folhas de Estilo em Cascata) é uma linguagem de folhas de estilo usada para descrever a aparência e formatação de um documento escrito em uma linguagem de marcação. Embora mais frequentemente utilizada para modificar o estilo de páginas web e interfaces de usuário escritas em HTML e XHTML, a linguagem pode ser aplicada à qualquer tipo de documento XML, inclusive XML simples, SVG e XUL. Junto com HTML e JavaScript, CSS é uma tecnologia base usada na maioria dos sites para criar páginas visualmente atraentes, interfaces de usuário para aplicações web, e interfaces de usuário para muitas aplicações móveis.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)</cite>
 
@@ -49,7 +49,7 @@ Especificações mais relevantes / documentação:
 
 ##### Document Object Model (aka DOM)
 
-> O Document Object Model (DOM) é uma convenção multiplataforma e independente de linguagem para representar e interagir com objetos em HTML, XHTML, e documentos XML. Os nós de todo documento são organizados em uma estrutura em árvore, chamada árvore DOM. Objetos na árvore DOM podem ser endereçados e manipulados utilizando métodos nos objetos. A interface pública de um DOM é especificada em sua interface de programação de aplicativo (API).
+> O Document Object Model (DOM, Modelo de Objeto de Documento) é uma convenção multiplataforma e independente de linguagem para representar e interagir com objetos em HTML, XHTML, e documentos XML. Os nós de todo documento são organizados em uma estrutura em árvore, chamada árvore DOM. Objetos na árvore DOM podem ser endereçados e manipulados utilizando métodos nos objetos. A interface pública de um DOM é especificada em sua interface de programação de aplicativo (API).
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Modelo_de_Objeto_de_Documentos)</cite>
 
@@ -81,7 +81,7 @@ Documentação mais relevante:
 
 ##### Hypertext Transfer Protocol (aka HTTP)
 
-> O Hypertext Transfer Protocol (HTTP) é um protocolo de aplicação para sistemas de informação distribuídos, colaborativos e hipermídia. HTTP é a base da comunicação de dados para a Internet.
+> O Hypertext Transfer Protocol (HTTP, Protocolo de Transferência de Hipertexto) é um protocolo de aplicação para sistemas de informação distribuídos, colaborativos e hipermídia. HTTP é a base da comunicação de dados para a Internet.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
 
@@ -92,7 +92,7 @@ Especificações mais relevantes:
 
 ##### Uniform Resource Locators (aka URL)
 
-> Um Uniform Resource Locator (URL) (também chamado de endereço web) é uma referência para um recurso que especifica a localização do recurso em uma rede de computadores e um mecanismo para recuperá-lo. Uma URL é um tipo específico de Uniform Resource Identifier (URI), embora muitas pessoas usem os dois termos de forma intercambiável. Uma URL implica os meios para acessar um recurso indicado, o que não é verdade para toda URI. URLs ocorrem mais comumente para referenciar à páginas web (http), mas também são usados para transferência de arquivo (ftp), email (mailto), acesso à banco de dados (JDBC), e muitas outras aplicações.
+> Um Uniform Resource Locator (URL, Localizador Uniforme de Recurso) (também chamado de endereço web) é uma referência para um recurso que especifica a localização do recurso em uma rede de computadores e um mecanismo para recuperá-lo. Uma URL é um tipo específico de Uniform Resource Identifier (URI), embora muitas pessoas usem os dois termos de forma intercambiável. Uma URL implica os meios para acessar um recurso indicado, o que não é verdade para toda URI. URLs ocorrem mais comumente para referenciar à páginas web (http), mas também são usados para transferência de arquivo (ftp), email (mailto), acesso à banco de dados (JDBC), e muitas outras aplicações.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Uniform_Resource_Locator)</cite>
 
