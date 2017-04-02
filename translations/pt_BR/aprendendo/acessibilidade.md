@@ -21,7 +21,7 @@
 * [A Web for Everyone (Uma web para todos)](http://rosenfeldmedia.com/books/a-web-for-everyone/) [leia][$]
 * [Web Accessibility (Acessibildiade web)](https://frontendmasters.com/workshops/accessibility/) [assista][$]
 
-##### Standards/Specifications:
+##### Padrões/Especificações:
 
 * [Accessible Rich Internet Applications (WAI-ARIA) Current Status (Aplicações web ricas em acessibilidade)](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI) (Iniciativa de Acessibilidade à Web)](http://www.w3.org/WAI/)
