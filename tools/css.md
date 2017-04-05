@@ -40,6 +40,7 @@
 
 ##### References:
 
+* [CSS Cursors](http://csscursor.info/)
 * [css3test.com](http://css3test.com/)
 * [css3clickchart.com](http://css3clickchart.com/)
 * [cssreference.io](http://cssreference.io/)
