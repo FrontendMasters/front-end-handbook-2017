@@ -28,16 +28,16 @@
 * Os dias de [batalhas](https://kangax.github.io/compat-table/es6/) [de API's de navegadores inconsistentes](https://html5test.com/results/desktop.html) estão quase para trás devido ao declínio do uso e desenvolvimento para [versões antigas do IE](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0).
 * Muitos percebem que vão precisar de uma [estratégia multi-dispositivos](http://www.intel.com/content/dam/www/public/us/en/images/iot/guide-to-iot-infographic.png) quando desenvolver para a Web.
 * Mais desenvolvedores, de outras linguagens, continuam atormentando a comunidade JavaScript trazendo tópicos como [tipagem](https://flowtype.org/) e uma [obsessão com classes e conceitos de POO](https://www.typescriptlang.org/).
-* Front-end devs are introduced to [Hot Module replacement techniques and time travel debugging](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i).
-* More waiting for a native [JavaScript browser module loader](https://whatwg.github.io/loader/).
-* [Enforcing CSS](https://css-tricks.com/stylelint/) and [JavaScript style conventions](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) becomes more important (considering ES3 to ES6 code and CSS pre-processors syntactical variations)
-* A small but noticeable number of developers are starting to [choose Elm over JavaScript](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/).
-* [TypeScript](https://www.typescriptlang.org/) gets some serious use and fanboys.
-* http://aurelia.io/ becomes the [smart choice for enterprise developers](https://www.youtube.com/watch?v=6I_GwgoGm1w&t=3315s) (i.e. support!).
-* [Webpack](https://webpack.js.org/configuration/) gets its act [together](https://opencollective.com/webpack) and solidifies is position over the superior [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm) solution.
-* [HTTPS, yeah, we're serious about that.](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
+* Desenvolvedores front-end são apresentados ao [técnicas de substituição de Hot Modules e Time Travel Debugging](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i).
+* Mais pessoas esperando por navegadores com [loader nativo de módulos JavaScript](https://whatwg.github.io/loader/).
+* [Enforcing CSS](https://css-tricks.com/stylelint/) e [convenções JavaScript](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) ganham importância (considerando variações entre ES3 e ES6 e variações sintáticas entre pré-processadores CSS).
+* Uma pequena mas considerável quantidade de desenvolvedores começaram a [opter pelo Elm ao invés do JavaScript](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/).
+* Cresce o uso do [TypeScript](https://www.typescriptlang.org/) e ele adquire alguns fanboys.
+* http://aurelia.io/ se torna uma [escolha inteligente para desenvolvedores corporativos](https://www.youtube.com/watch?v=6I_GwgoGm1w&t=3315s) (ex. suporte).
+* [Webpack](https://webpack.js.org/configuration/) começa a [se desenvolver](https://opencollective.com/webpack) e se solidifica com relação ao [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm).
+* [HTTPS, sim, sério.](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
 * [BASH](https://msdn.microsoft.com/en-us/commandline/wsl/about) on windows happens.
-* The [notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API) gets used and abused for chrome users, but only after you give it permission.
-* [Firebug officially dead](https://github.com/firebug/firebug).
-* CSS [20 years young](https://www.w3.org/Style/CSS20/) in 2016.
-* [Immutability](https://facebook.github.io/immutable-js/) concepts run rapid.
+* Desenvolvedores começam a usar e abusar da [API de notificação](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API) no Chrome, mas só depois da permissão do usuário.
+* [Firebug morre oficialmente](https://github.com/firebug/firebug).
+* CSS [comemora 20 anos](https://www.w3.org/Style/CSS20/) em 2016.
+* Conceito de [imutabilidade](https://facebook.github.io/immutable-js/) cresce rapidamente.
