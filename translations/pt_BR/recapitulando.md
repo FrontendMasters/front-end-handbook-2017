@@ -1,7 +1,7 @@
 # Recapitulando o desenvolvimento Front-End em 2016
 
-* O ano dos [Componentes](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/), for building complex UI's.
-* No longer mainstream development blasphemy: components being constructed from a single file, potentially contain HTML, CSS, and JS, IN ONE FILE!
+* O ano dos [Componentes](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/), para construir interfaces mais complexas.
+* Sem mais aquela blasfêmia modinha: componentes sendo construídos em um único arquivo: HTML, CSS e JavaScript em um arquivo só!
 * [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/), [Webpack](https://webpack.js.org/), ECMAScript 2015 (vulgo ES6) e [Babel](https://babeljs.io/) ganham adoção massiva. Essas soluções [estão](http://stackoverflow.com/research/developer-survey-2016#technology-trending-tech-on-stack-overflow) [com](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-bundlers) [tudo](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-framework-essential) [de](http://stateofjs.com/2016/frontend/) [acordo](http://stateofjs.com/2016/flavors/) [com](http://stateofjs.com/2016/buildtools/) enquetes.
 * Desenvolvedores percebem que, na maioria dos casos, aplicações híbridas com WebView e HTML5 não são vantajosas se comparadas às aplicações nativas.
 * [React Native](https://facebook.github.io/react-native/) e [NativeScript](https://www.nativescript.org/) começam a substituir o desenvolvimento híbrido com HTML5.
