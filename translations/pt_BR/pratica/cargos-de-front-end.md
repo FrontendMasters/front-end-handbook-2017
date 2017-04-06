@@ -12,7 +12,7 @@ Cargo genérico que descreve um desenvolvedor com algum nível de proficiência 
 
 **Engenheiro Front-End**
 
-Cargo dado a um desenvolvedor que possui conhecimentos prévios em ciência ou engenharia da computação e está utilizando essas habilidades para trabalhar com tecnologias front-end. Geralmente esse papel requer um título em ciência da computação e anos de experiência desenvolvendo software. Quando o termo "Aplicação JavaScript" é incluido no cargo, indica-se que o desenvolvedor deve ser um desenvolvedor JavaScript avançado que possua habilidades avançadas em programação, desenvolvimento de software e desenvolvimento de aplicações, ou seja, tenha anos de experiência construindo aplicações front-end.
+Cargo dado a um desenvolvedor que possui conhecimentos prévios em ciência ou engenharia da computação e está utilizando essas habilidades para trabalhar com tecnologias front-end. Geralmente esse papel requer um título em ciência da computação e anos de experiência desenvolvendo software. Quando o termo "Aplicação JavaScript" é incluído no cargo, indica-se que o desenvolvedor deve ter conhecimento avançado de JavaScript e que possui habilidades avançadas em programação, desenvolvimento de software e desenvolvimento de aplicações, ou seja, tenha anos de experiência construindo aplicações front-end.
 
 ***
 
@@ -46,7 +46,7 @@ Quando o termo "acessibilidade" ou "SEO" é incluido no cargo, indica-se que est
 
 ***
 
-**Dev. Ops Front-End**
+**DevOps Front-End**
 
 Quando o termo "DevOps" é incluido no cargo, indica-se que este desenvolvedor possui experiência extensiva com práticas de desenvolvimento de software que dizem respeito a colaboração, integração, implantação, automação e métricas.
 
