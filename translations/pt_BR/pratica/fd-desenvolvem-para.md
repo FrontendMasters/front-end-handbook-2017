@@ -18,13 +18,13 @@ Esses sistemas operacionais normalmente são executados em um ou mais dos seguin
 * Tablet
 * TV
 * Relógio
-* Coisas (qualquer coisa que possa iamginar, carros, geladeiras, lâmpadas, termostatos, etc.)
+* Coisas (qualquer coisa que possa imaginar: carros, geladeiras, lâmpadas, termostatos, etc.)
 
 ![](../images/growth-iot.jpg "https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/")
 
 <cite>Fonte da imagem: <a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
 
-Geralmente falando, tecnologias front-end podem ser executadas nos sistemas operacionais e aparelhos mencionados acima utilizando o seguinte cenário em tempo de execução na plataforma web:
+Em geral, tecnologias front-end podem ser executadas nos sistemas operacionais e aparelhos mencionados acima utilizando o seguinte cenário em tempo de execução na plataforma web:
 
 * Um navegador web (exemplos: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/pt-br)).
 * Um [navegador headless](https://en.wikipedia.org/wiki/Headless_browser) (exemplos: [phantomJS](http://phantomjs.org/)).
