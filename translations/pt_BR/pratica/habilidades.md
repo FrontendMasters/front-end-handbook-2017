@@ -29,13 +29,13 @@ Além de HTML, CSS, DOM, JavaScript, HTTP/URL e conhecimentos sobre  ferramentas
 * Testes de performance
 * Progressive enhancement / graceful degradation
 * Controle de versão (por exemplo, GIT)
-* MVC / MVVM / MV* 
+* MVC / MVVM / MV*
 * Programação funcional
 * Formatos de dados (por exemplo, JSON, XML)
 * APIs de dados (por exemplo, Restful API)
 * Inclusão de Web Fonts
 * Scalable Vector Graphics (SVG)
-* Expressões reguares
+* Expressões regulares
 * Estratégia de conteúdo
 * Microdados / microformatos
 * Task runners, ferramentas de build, processo de automação de tarefas
@@ -53,7 +53,7 @@ Além de HTML, CSS, DOM, JavaScript, HTTP/URL e conhecimentos sobre  ferramentas
 * Testes de cobertura de código
 * Análise de complexidade de código
 * Testes de integração
-* Linha de comando (CLI) 
+* Linha de comando (CLI)
 * Estratégias de Templating
 * Templating Engines
 * Single Page Applications (SPAs)
@@ -61,4 +61,3 @@ Além de HTML, CSS, DOM, JavaScript, HTTP/URL e conhecimentos sobre  ferramentas
 * Segurança Web/Browser
 * Semântica HTML
 * Ferramentas de desenvolvimento do navegador
-
