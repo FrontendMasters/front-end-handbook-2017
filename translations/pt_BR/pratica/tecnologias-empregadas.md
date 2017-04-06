@@ -71,7 +71,7 @@ Especificações mais relevantes / documentação:
 
 ##### APIs Web (aka HTML5 e amigos)
 
-> Ao escrever código para a Web usando Javascript, há um grande número de APIs disponíveis. Abaixo está uma lista de todas as interfaces (isto é, tipos de objetos) que você pode ser capaz usar ao desenvolver sua aplicação Web ou site.
+> Ao escrever código para a Web usando Javascript, há um grande número de APIs disponíveis. Abaixo está uma lista de todas as interfaces (isto é, tipos de objetos) que você pode ser capaz de usar ao desenvolver sua aplicação Web ou site.
 
 ><cite>&#8212; [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/API)</cite>
 
@@ -103,7 +103,7 @@ Especificações mais relevantes:
 
 ##### JavaScript Object Notation (aka JSON)
 
-> É o formato de dados primário usado para comunicação assíncrona entre navegador/servidor (AJAJ), em grande parte subistituindo XML (usado pelo AJAX). Embora originalmente derivado da linguagem de script Javascript, JSON é um formato de dados independente de linguagem. O código para analisar e gerar dados JSON está prontamente disponível em muitas linguagens de programação. O formato JSON foi originalmente especificado por Douglas Crockford. Atualmente ele é descrito por dois padrões concorrentes, RFC 7159 e ECMA-404. O padrão ECMA é mínimo, descrevendo apenas a sintaxe gramatical permitida, enquanto que o RFC também disponibiliza algumas considerações de semântica e segurança. O tipo de mídia oficial da Internet para JSON é application/json. A extenção de nome de arquivo de JSON é .json.
+> É o formato de dados primário usado para comunicação assíncrona entre navegador/servidor (AJAX), em grande parte subistituindo XML (usado pelo AJAX). Embora originalmente derivado da linguagem de script Javascript, JSON é um formato de dados independente de linguagem. O código para analisar e gerar dados JSON está prontamente disponível em muitas linguagens de programação. O formato JSON foi originalmente especificado por Douglas Crockford. Atualmente ele é descrito por dois padrões concorrentes, RFC 7159 e ECMA-404. O padrão ECMA é mínimo, descrevendo apenas a sintaxe gramatical permitida, enquanto que o RFC também disponibiliza algumas considerações de semântica e segurança. O tipo de mídia oficial da Internet para JSON é application/json. A extensão de nome de arquivo de JSON é .json.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/JSON)</cite>
 
@@ -122,5 +122,3 @@ Especificações mais relevantes:
 * [Accessible Rich Internet Applications (WAI-ARIA) Status Atual (Inglês)](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI) (Inglês)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Status Atual (Inglês)](http://www.w3.org/standards/techs/wcag#w3c_all)
-
-
