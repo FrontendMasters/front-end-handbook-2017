@@ -1,47 +1,41 @@
-# Front-End Developer Handbook 2017
+# 2017 前端开发手册
 
-Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
+作者： [Cody Lindley](http://codylindley.com/) 赞助：[Frontend Masters](https://frontendmasters.com/)
 
-This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2017.
+这是一份前端开发实践指南，任何人都可以使用学习它. 本文大体上对于前端开发工程实践进行探讨和概括: 在2017年该使用哪些工具以及怎么学习.
 
-It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
+撰写本文的意图旨在做为一份专业资源，为正在从事或即将从事前端开发工作的人员提供开发工具和学习资源以武装自己。此外，也可以作为经理、CTO、讲师 以及 猎头们获取前端开发实践的一个窗口.
 
-The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem. 
+本文内容偏向于Web相关技术 (HTML, CSS, DOM, and JavaScript) 以及建立在这些基础上的解决方案. 本文涉及和探讨的要么是当下最好的，要么是对目前问题的一种尝试解决方案.
 
-The book should not be considered a comprehensive outline of all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular subject matter.
+对于前端开发者而言，本文不是前端资源的全面总结. 它的价值在于本文简洁、聚焦，及时地分享了足够多明确的信息， 使你不至于在一个特定的主题上被淹没.
 
-The intention is to release an update to the content yearly.
+本文会每年更新一次内容.
 
-The handbook is divided into three parts. 
+开发手册分为三部分.
 
-Part I: The Front-End Practice
+Part I: 前端实践
 ---
-Part one broadly describes the practice of front-end engineering.
+Part I 大体上描述了前端开发工程实践.
 
-Part II: Learning Front-End Development
+Part II: 学习前端开发
 ---
-Part two identifies self-directed and direct resources for learning to become a front-end developer.
+Part II 提供了一些自学 和 教学 资源供大家成为一名前端开发者.
 
-Part III: Front-End Development Tools
+Part III: 前端开发工具
 ---
-Part three briefly explains and identifies tools of the trade.
+Part III 简要的介绍了前端圈的种类工具.
 
 ***
- 
-**Download a .pdf, .epub, or .mobi File From**: 
+
+**下载 .pdf, .epub, or .mobi 格式的电子书**:
 
 * [https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-**Contribute Content, Suggestions, and Fixes on GitHub**: 
+**贡献内容， 提建议 或者修复Github上的bugs**:
 
-* [https://github.com/FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [https://github.com/ikcamp/front-end-handbook-2017-cn](https://github.com/ikcamp/front-end-handbook-2017-cn)
 
 ***
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
-
-
-
-
-
-
