@@ -34,7 +34,7 @@ Part III 简要的介绍了前端圈的种类工具.
 
 **贡献内容， 提建议 或者修复Github上的bugs**:
 
-* [https://github.com/FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [https://github.com/ikcamp/front-end-handbook-2017-cn](https://github.com/ikcamp/front-end-handbook-2017-cn)
 
 ***
 
