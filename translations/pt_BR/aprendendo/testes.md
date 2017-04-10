@@ -1,6 +1,6 @@
 # Aprendendo Testes
 
-> **Teste Unitário** - Em progamação de computador, teste unitário é um método de teste de software em que cada unidade individual de código fonte, conjuntos de um ou mais módulos de programa de computador juntamente com dados de controle associados, procedimentos de utilização e procedimentos operacionais, são testados para determinar se eles estão aptos para uso. Intuitivamente, pode-se ver uma unidade como a menor parte testável de uma aplicação.
+> **Teste Unitário** - Em programação de computador, teste unitário é um método de teste de software em que cada unidade individual de código fonte, conjuntos de um ou mais módulos de programa de computador juntamente com dados de controle associados, procedimentos de utilização e procedimentos operacionais, são testados para determinar se eles estão aptos para uso. Intuitivamente, pode-se ver uma unidade como a menor parte testável de uma aplicação.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Teste_de_unidade)</cite>
 >
@@ -8,7 +8,7 @@
 
 ><cite>&#8212; [Wikipedia (Inglês)](https://en.wikipedia.org/wiki/Functional_testing)</cite>
 >
-> **Teste de Integração** - O teste de integração (às vezes chamado de integração e teste, abreviado I&T) é uma fase no teste de software em que módulos de software individuais são combinados e testados como um grupo. Ocorre depois do teste unitário e antes do teste de validação. Os testes de integração usam como entrada os módulos testados em unidade, agrupa-os em agregados maiores, aplica os testes definidos em um plano de teste de integração a esses agregados, e entrega como saída o sistema integrado pronto para testes de sistema.
+> **Teste de Integração** - O teste de integração (às vezes chamado de integração e teste, abreviado I&T) é uma fase no teste de software em que módulos de software individuais são combinados e testados como um grupo. Ocorre depois do teste unitário e antes do teste de validação. Os testes de integração usam como entrada os módulos testados em unidade, agrupa-os em conjuntos maiores, aplica os testes definidos em um plano de teste de integração a esses conjuntos, e entrega como saída o sistema integrado pronto para testes de sistema.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Teste_de_integra%C3%A7%C3%A3o)</cite>
 
