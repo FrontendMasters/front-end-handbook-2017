@@ -1,7 +1,5 @@
 # O Mito do Full-Stack
 
-# Generalist/Full-Stack Myth
-
 ![](../images/full-stack.jpg "http://andyshora.com/full-stack-developers.html")
 
 <cite>Fonte: <a href="http://andyshora.com/full-stack-developers.html">http://andyshora.com/full-stack-developers.html</a></cite>
