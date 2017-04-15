@@ -1,6 +1,6 @@
 # Aprendizado Direcionado Autodidata
 
-Esta seção é focada em fontes gratuitas ou pagas (treinamentos em vídeo, livros, etc.) nas quais um indivíduo pode utilizar para direcionar seu próprio processo de aprendizagem e carreira como um desenvolvedor front-end.
+Esta seção é focada em fontes gratuitas ou pagas (treinamentos em vídeo, livros, etc.) que um indivíduo pode utilizar para direcionar seu próprio processo de aprendizagem e carreira como um desenvolvedor front-end.
 
 As fontes de aprendizagem mencionadas irão incluir tanto materiais gratuitos quanto materiais pagos. Os materiais pagos serão indicados por [$].
 
@@ -22,5 +22,3 @@ Geralmente recomendo extrair conteúdo das lojas de aprendizagem (focadas em tec
 * [Treehouse (Inglês)](https://teamtreehouse.com/)
 * [tutsplus.com (Inglês)](https://tutsplus.com/courses)
 * [Udacity (Português)](https://br.udacity.com/courses/all/) [cuidado, qualidade varia]
-
-
