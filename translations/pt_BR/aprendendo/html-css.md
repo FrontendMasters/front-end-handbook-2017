@@ -1,6 +1,6 @@
 # Aprenda HTML e CSS
 
-> **HTML** - HTML (abreviação para a expressão inglesa HyperText Markup Language, que significa Linguagem de Marcação de Hipertexto) é uma linguagem de marcação utilizada na construção de páginas na Web. Navegadores podem ler arquivos HTML e renderizá-los em páginas web visíveis ou audíveis. O HTML descreve a estrutura de um site semanticamente juntamente com pistas de apresentação, fazendo do HTML uma linguagem de marcação ao invés de uma linguagem de programação.
+> **HTML** - HTML (abreviação para a expressão em inglês HyperText Markup Language, que significa Linguagem de Marcação de Hipertexto) é uma linguagem de marcação utilizada na construção de páginas na Web. Navegadores podem ler arquivos HTML e renderizá-los em páginas web visíveis ou audíveis. O HTML descreve a estrutura de um site semanticamente sugerindo apresentação, fazendo do HTML uma linguagem de marcação ao invés de uma linguagem de programação.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/HTML)</cite>
 
@@ -92,26 +92,3 @@ Semelhante a construção de uma casa, pode-se considerar HTML como a base estru
 
 * [CSS Weekly (Inglês)](http://css-weekly.com/archives/)
 * [Frontend Focus (Inglês)](http://frontendfocus.co/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
