@@ -1,10 +1,10 @@
 # Aprenda sobre UI/UX
 
-> **Design de Interface de Usuário** - Design de interface de usuário (UI) ou engenharia de interface de usuário é o desenvolvimento de computadores, aplicações, máquinas, dispositivos de comunicação móveis, softwares e sítios web com o foco na experiência do usuário e interação. O objetivo do design de interface de usuário é tornar a interação do usuário o mais simples e eficiente possível, em termos de realização dos objetivos do usuário - o que normalmente é chamado de design centrado no usuário.
+> **Design de Interface de Usuário** - Design de interface de usuário (UI) ou engenharia de interface de usuário é o desenvolvimento de computadores, aplicações, eletrodomésticos, dispositivos de comunicação móveis, softwares e sites web com o foco na experiência do usuário e interação. O objetivo do UI é tornar a interação do usuário o mais simples e eficiente possível, em termos de realização dos objetivos - o que normalmente é chamado de design centrado no usuário.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Design_de_interface_de_usu%C3%A1rio)</cite>
-> 
-> **Padrão de Design de Interação** - Um padrão de design é um modo formal de se documentar uma solução para um problema comum. A ideia foi introduzida pelo arquiteto Christopher Alexander para ser utilizada em planejamento urbano e construção de prédios, e tem sido adaptada para várias outras disciolinas, incluindo ensino e pedagogia, organização e processo de desenvolvimento, e arquitetura e design de software.
+>
+> **Padrão de Design de Interação** - Um padrão de design é um modo formal de se documentar uma solução para um problema comum. A ideia foi introduzida pelo arquiteto Christopher Alexander para ser utilizada em planejamento urbano e construção de prédios, e tem sido adaptada para várias outras disciplinas, incluindo ensino e pedagogia, organização e processo de desenvolvimento, e arquitetura e design de software.
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)</cite>
 >  
@@ -12,7 +12,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)</cite>
 >  
-> **Interação Humano–Computador** - Interação humano-computador (IHC) pesquisa o design e o uso de tecnologia informática, focando especialmente nas interfaces entre pessoas (usuários) e computadores. Pesquisadores da área de IHC observam o modo no qual humanos interagem com computadores e as tecnologias de design que que permitem humanos interagirem de novas formas com computadores.
+> **Interação Humano–Computador** - Interação humano-computador (IHC) pesquisa o design e o uso de tecnologia informática, focando especialmente nas interfaces entre pessoas (usuários) e computadores. Pesquisadores da área de IHC observam a forma como humanos interagem com computadores e as tecnologias de design que permitem que essa interação ocorra de outras maneiras.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Intera%C3%A7%C3%A3o_humano-computador)</cite>
 
@@ -24,4 +24,3 @@ Sugiro a leitura dos textos listados abaixo sobre o assunto, que estão de acord
 * [Designing Interfaces - 2e (Inglês)](https://www.amazon.com.br/Designing-Interfaces-2e-Jenifer-Tidwell/dp/1449379702/ref=sr_1_1?s=books&ie=UTF8&qid=1492197805&sr=1-1&keywords=Jenifer+Tidwell) :book: :moneybag:
 * [Designing Web Interfaces: Principles and Patterns for Rich Interactions (Inglês)](https://www.amazon.com.br/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/ref=sr_1_3?s=books&ie=UTF8&qid=1492197858&sr=1-3&keywords=Theresa+Neil) :book: :moneybag:
 * [Não Me Faça Pensar - Atualizado](https://www.amazon.com.br/N%C3%A3o-Me-Fa%C3%A7a-Pensar-Atualizado/dp/8576088509/ref=sr_1_1?s=books&ie=UTF8&qid=1492197903&sr=1-1&keywords=Steve+Krug) :book: :moneybag:
-
