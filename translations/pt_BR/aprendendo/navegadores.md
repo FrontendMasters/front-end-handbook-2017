@@ -1,6 +1,6 @@
 # Aprenda sobre Navegadores Web
 
-> Um navegador web (normalmente chamado de navegador) é uma aplicação de software para recuperar, apresentar e percorrer recursos de informação na Internet. Um recurso de informação é identificado por um Identificador Uniforme de Recursos (URI/URL) e pode ser uma página web, imagem, vídeo ou outro conteúdo. Hyperlinks presentes em recursos permitem que os usuários naveguem facilmente seus navegadores para recursos relacionados. Embora os navegaroes tenham principalmente a intenção de usar a Internet, eles também pode ser utilizados para acessar informações fornecidas por servidores web em redes de computador privadas ou arquivos em sistemas de arquivos.
+> Um navegador web (normalmente chamado de navegador) é uma aplicação de software para recuperar, apresentar e percorrer recursos de informação na Internet. Um recurso de informação é identificado por um Identificador Uniforme de Recursos (URI/URL) e pode ser uma página web, imagem, vídeo ou outro conteúdo. Hyperlinks presentes em recursos permitem que os usuários naveguem facilmente em seus navegadores para recursos relacionados. Embora os navegaroes tenham principalmente a intenção de usar a Internet, eles também pode ser utilizados para acessar informações fornecidas por servidores web em redes de computador privadas ou arquivos em sistemas de arquivos.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Navegador_web)</cite>
 
@@ -21,13 +21,13 @@
 * [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [Ler]
 * [Timeline of web browsers (Linha do Tempo dos Navegadores)](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [Ler]
 
-##### Os Navegadores Sem-Cabeçalho Mais Utilizados São:
+##### Os Navegadores Sem-Cabeçalho (Headless Browsers) Mais Utilizados São:
 
 * [PhantomJS](http://phantomjs.org/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
 * [SlimerJS](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
 * [TrifleJS](http://triflejs.org/) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 
-##### Como os Navegadores Funcional
+##### Como os Navegadores Funcionam
 
 * [20 Lições que Aprendi Sobre Navegadore e a Web](http://www.20thingsilearned.com/pt-BR/foreword/1) [Ler]
 * [Fast CSS: How Browsers Lay Out Web Pages (CSS Rápido: Como os Navegadores Arranjam Páginas Web)](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [Ler]
@@ -55,9 +55,9 @@
 
 ##### Desenvolvimento para Navegadores
 
-No passado, desenvolvedores front-end gastaram muito tempo fazendo o código funcionar em vários navegadores diferentes. Isso já foi um problema maior do que é hoje. Hoje, abstrações (por exemplo, jQuery, React, Post-CSS, Babel, etc...) combinadas com navegadores modernos fazem o desenvolvimento para navegadores bastante fácil. O novo desavio não é em qual navegador o usuário irá usar, mas em qual dispositivo eles usarão o navegador.
+No passado, desenvolvedores front-end gastaram muito tempo fazendo o código funcionar em vários navegadores diferentes. Isso já foi um problema maior do que é atualmente. Hoje, abstrações (por exemplo, jQuery, React, Post-CSS, Babel, etc...) combinadas com navegadores modernos fazem o desenvolvimento para navegadores bastante fácil. O novo desafio não é em qual navegador o usuário irá usar, mas em qual dispositivo ele usará o navegador.
 
-##### Navegadores Sempre-Verdes
+##### Navegadores Sempre-Verdes (Evergreen)
 
 As versões mais recentes da maioria dos navegadores modernos são consideradas navegadores sempre-verdes. Ou seja, em teoria, eles devem atualizar-se automaticamente em silêncio sem solicitar ao usuário. Este movimento em direção a auto-atualização de navegadores tem sido em reação ao lento processo de eliminação de navegadores antigos que não se auto-atualizam.
 
