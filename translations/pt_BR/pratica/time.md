@@ -1,6 +1,6 @@
 # Front-End em um time
 
-Um desenvolvedor front-end é, em geral, apenas um jogador de um time que projeta e desenvolve sites, aplicações web ou aplicações nativas feitas com tecnologias web.
+Um desenvolvedor front-end é, em geral, apenas um integrante de um time que projeta e desenvolve sites, aplicações web ou aplicações nativas feitas com tecnologias web.
 
 Um time de desenvolvimento básico para desenvolver sites ou aplicações de software para a web ***profissionais*** normalmente, possui pelo menos os seguintes papéis:
 
