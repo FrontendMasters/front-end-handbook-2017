@@ -17,7 +17,7 @@
 * [Frontend Guidelines (Linhas de Base de Frontend)](https://github.com/bendc/frontend-guidelines) [Ler]
 * [Introduction to Web Development (Introdução ao Desenvolvimento Web)](https://frontendmasters.com/courses/web-development/) [Assistir][$]
 * [Isobar Front-End Code Standards (Padrões de Código Front-End da Isobar)](http://isobar-idev.github.io/code-standards/) [Ler]
-* [Lean Front-End Engineering (###Traduzir###)](https://frontendmasters.com/courses/lean-front-end-engineering/) [Assistir][$]
+* [Lean Front-End Engineering (Engenharia de Front-End Enxulta)](https://frontendmasters.com/courses/lean-front-end-engineering/) [Assistir][$]
 * [Learn Front End Web Development (Aprenda Sobre Desenvolvimento Web Front End)](https://teamtreehouse.com/tracks/front-end-web-development) [Assistir][$]
 * [Planning a Front-End JS Application (Planejando o Front-End de uma Aplicação JS)](https://www.youtube.com/watch?v=q4zEGkjTBFA) [Assistir]
 * [So, You Want to Be a Front-End Engineer (Então, Você Quer Ser um Engenheiro Front-End)](https://www.youtube.com/watch?v=Lsg84NtJbmI) [Assistir]
@@ -32,7 +32,7 @@
 * [FrontEnd Focus (Foco FrontEnd)](http://frontendfocus.co/)
 * [Front End Newsletter (Boletim Informativo de Front End)](http://frontendnewsletter.com/)
 * [Mobile Web Weekly (Web Móvel Semanal)](http://mobilewebweekly.co/)
-* [Open Web Platform Daily Digest (Diário da Plataforma Web Aberta)](http://webplatformdaily.org/)
+* [Open Web Platform Daily Digest (Diário de Plataforma Web Aberta)](http://webplatformdaily.org/)
 * [Pony Foo Weekly (Pequeno Foo Semanal)](https://ponyfoo.com/weekly)
 * [shoptalkshow.com](http://shoptalkshow.com/)
 * [The Web Ahead (A Web Adiante)](http://thewebahead.net/)
