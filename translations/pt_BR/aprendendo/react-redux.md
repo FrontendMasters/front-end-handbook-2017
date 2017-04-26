@@ -24,7 +24,7 @@
   * https://github.com/dwyl/learn-redux/blob/master/egghead.io_video_tutorial_notes.md
 * [Learn Redux (Aprenda Redux)](https://learnredux.com/) [Assistir]
 * [10 Tips for Better Redux Architecture (10 Dicas para uma Melhor Aquitetura de Redux)](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.9s67j3efq) [Assistir]
-* [Building React Applications with Idiomatic Redux (Construindo Aplicações em Recat com Redux Idiomático)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [Assistir][$]
+* [Building React Applications with Idiomatic Redux (Construindo Aplicações em React com Redux Idiomático)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [Assistir][$]
 
 ***
 
