@@ -48,7 +48,7 @@
 		* [Aprenda sobre Gerenciadores de Pacotes](aprendendo/gerenciador-pacotes.md)
 		* [Aprenda sobre Controle de Versão](aprendendo/controle-versao.md)
 		* [Aprenda sobre Build & Automação de Tarefas](aprendendo/build.md)
-		* [Aprenda sobre Otimização de Performance em Aplicações](aprendendo/performance.md)
+		* [Aprenda sobre Otimização de Performance de Site](aprendendo/performance.md)
 		* [Aprenda sobre Testes](aprendendo/testes.md)
 		* [Aprenda sobre Navegadores Headless](aprendendo/navegadores-headless.md)
 		* [Aprenda sobre Desenvolvimento Offline](aprendendo/offline.md)
