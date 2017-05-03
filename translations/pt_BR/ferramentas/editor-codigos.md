@@ -5,11 +5,11 @@
 
 ><cite>&#8212; [Wikipedia (Inglês)](https://en.wikipedia.org/wiki/Source_code_editor)</cite>
 
-Código Front-end pode no mínimo ser editado com uma aplicação de edição de texto simples como Notepad ou TextEdit. Mas, a maioria dos profissionais de front-end usam editores de código projetados especificamente para editar uma linguagem de programação.
+Código Front-end pode ser minimamente editado com uma aplicação de edição de texto simples como Notepad ou TextEdit. Mas, a maioria dos profissionais de front-end usam editores de código projetados especificamente para editar uma linguagem de programação.
 
 Existem editores de código de todos os tipos e tamanhos, por assim dizer. Selecionar um é um compromisso bastante subjetivo. Escolher um, aprender por dentro e por fora, então aprender HTML, CSS, DOM e JavaScript.
 
-Entretanto, eu acredito fortemente, no mínimo, um editor de código deve ter as seguintes qualidades (por padrão ou por meio de plugins):
+Entretanto, eu acredito fortemente, minimamente, um editor de código deve ter as seguintes qualidades (por padrão ou por meio de plugins):
 
 1. Boa documentação em como utilizar o editor
 2. Relatório (isto é, sugestão/análise/erros) da qualidade do código de HTML, CSS e JavaScript.
