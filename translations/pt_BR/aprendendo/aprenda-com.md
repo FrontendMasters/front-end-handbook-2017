@@ -1,0 +1,3 @@
+# Desenvolvedores Front-End Com Quem Aprender
+
+A noção de que você deve seguir um indivíduo para aprender sobre desenvolvimento front-end está lentamente se tornando sem sentido. Os profissionais avançados de desenvolvimento front-end geram conteúdo o suficiente que você pode simplesmente seguir a comunidade/líderes, prestando atenção às "notícias" de front-end (via [Newsletters, News, & Podcasts (Boletins Informativos, Notícias e Podcasts)](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning/news-podcasts.html)).
