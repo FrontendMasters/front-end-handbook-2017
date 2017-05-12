@@ -16,6 +16,10 @@
 * [JSON Mask](https://github.com/nemtsov/json-mask)
 * [ObjectPath](http://objectpath.org/) 
 
+##### CLI:
+
+* [jq](https://stedolan.github.io/jq/)
+
 ##### Generating Mock JSON Tools:
 
 * [JSON Generator](http://www.json-generator.com/)
