@@ -25,7 +25,7 @@
 * [Elements (Elementos)](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 * [HTML Arrows (Setas HTML)](http://htmlarrows.com/)
 * [HTML Entity Lookup (Pesquisa de Entidade HTML)](http://entity-lookup.leftlogic.com/)
-* [HTML Interfaces Browser Support (Suporte de Iterfaces HTML de Navegadores)](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [HTML Interfaces Browser Support (Suporte de Interfaces HTML de Navegadores)](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [htmlreference.io](http://htmlreference.io/)
 
 ##### Análise/Sugestão:
