@@ -38,7 +38,7 @@
 * [Sass/SCSS (Inglês)](http://sass-lang.com/)
 * [Stylus (Inglês)](https://github.com/stylus/stylus)
 
-##### Refrências:
+##### Referências:
 
 * [css3test.com (Inglês)](http://css3test.com/)
 * [css3clickchart.com (Inglês)](http://css3clickchart.com/)
@@ -99,6 +99,6 @@
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS (Inglês)](http://mdo.github.io/code-guide/) :book:
 * [Airbnb CSS / Sass Styleguide (Inglês)](https://github.com/airbnb/css) :book:
 
-##### Repositories de CSS Tendência no GitHub Esse Mês:
+##### Repositórios de CSS Tendência no GitHub Esse Mês:
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
