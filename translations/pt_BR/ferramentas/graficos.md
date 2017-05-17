@@ -1,24 +1,24 @@
 # Ferramentas Gráficas (ex. SVG, Canvas e etc.)
 
-##### General:
+##### Geral:
 
-* [Fabric.js](http://fabricjs.com/)
-* [Two.js](http://jonobr1.github.io/two.js/#introduction)
+* [Fabric.js (Inglês)](http://fabricjs.com/)
+* [Two.js (Inglês)](http://jonobr1.github.io/two.js/#introduction)
 
 ##### Canvas:
 
-* [EaselJS](https://github.com/CreateJS/EaselJS)
-* [Paper.js](http://paperjs.org/)
+* [EaselJS (Inglês)](https://github.com/CreateJS/EaselJS)
+* [Paper.js (Inglês)](http://paperjs.org/)
 
 ##### SVG:
 
-* [d3](http://d3js.org/)
-* [GraphicsJS](http://www.graphicsjs.org/)
-* [Raphaël](http://raphaeljs.com/)
-* [Snap.svg](http://snapsvg.io/)
-* [svg.js](http://svgjs.com/)
+* [d3 (Inglês)](http://d3js.org/)
+* [GraphicsJS (Inglês)](http://www.graphicsjs.org/)
+* [Raphaël (Inglês)](http://raphaeljs.com/)
+* [Snap.svg (Inglês)](http://snapsvg.io/)
+* [svg.js (Inglês)](http://svgjs.com/)
 
 ##### WebGL:
 
-* [pixi.js](https://github.com/pixijs/pixi.js)
-* [three.js](http://threejs.org/)
+* [pixi.js (Inglês)](https://github.com/pixijs/pixi.js)
+* [three.js (Inglês)](http://threejs.org/)
