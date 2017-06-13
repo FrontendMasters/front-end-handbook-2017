@@ -25,14 +25,14 @@
 ##### Dominando:
 
 * [Setting up ES6](https://leanpub.com/setting-up-es6) :book:
-* [ES6 FOR EVERYONE!](https://es6.io/) :tv :moneybag:
+* [ES6 FOR EVERYONE!](https://es6.io/) :tv: :moneybag:
 * [Exploring ES6](http://exploringjs.com/es6.html) :book:
 * [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) :book:
 * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) :book:
-* [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) :tv :moneybag:
+* [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) :tv: :moneybag:
 * [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) :book:
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) :book:
-* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) :tv :moneybag:
+* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) :tv: :moneybag:
 * [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) :book:
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) :book: :moneybag:
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) :book: :moneybag:
@@ -41,13 +41,13 @@
 ##### JavaScript Funcional:
 
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
-* [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :tv
+* [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :tv:
 * [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) :book:
 * [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) :book:
 * [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) :book:
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) :book: :moneybag:
-* [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) :tv :moneybag:
-* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) :tv :moneybag:
+* [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) :tv: :moneybag:
+* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) :tv: :moneybag:
 
 ##### Referências e documentos:
 
@@ -88,16 +88,16 @@
 
 ##### Fontes de Aprendizado de JS Depreciado:
 
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) :tv
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) :tv
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) :tv
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) :tv
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) :tv
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) :tv
+* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) :tv:
+* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) :tv:
+* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) :tv:
+* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) :tv:
+* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) :tv:
+* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) :tv:
 * [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) :book: :moneybag:
 * [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) :book: :moneybag:
 * [JavaScript Modules](http://jsmodules.io/cjs.html) :book:
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) :book: :moneybag:
-* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) :tv :moneybag:
+* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) :tv: :moneybag:
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) :book: :moneybag:
-* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) :tv :moneybag:
+* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) :tv: :moneybag:
