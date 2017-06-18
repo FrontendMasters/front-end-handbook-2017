@@ -3,7 +3,7 @@
 ##### Frameworks Front-End Para Aplicações: [^1]
 
 * [AngularJS](https://github.com/angular/angular.js) (Angular 1.x.x) + [Batarang](https://github.com/angular/angularjs-batarang)
-* [Angular](https://github.com/angular/angular) (Angular 2.0.0 +) + [angular-cli](https://github.com/angular/angular-cli) 
+* [Angular](https://github.com/angular/angular) (Angular 2.0.0 +) + [angular-cli](https://github.com/angular/angular-cli)
 * [Aurelia](http://aurelia.io/) + [Aurelia CLI](https://github.com/aurelia/cli)
 * [Ember](http://emberjs.com/) + [embercli](https://ember-cli.com/) + [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Polymer](https://www.polymer-project.org/1.0/)
@@ -20,7 +20,7 @@ Estas soluções normalmente utilizam [Cordova](https://cordova.apache.org/), [c
 
 ##### Ambientes/Plataformas/Ferramentas Para Frameworks Nativos/Híbridos Mobile e WebView (Orientado a Motor de Navegador):
 
-Estas soluções normalmente utilizam [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), u uma WebView customizada como ponte entre APIs nativas.
+Estas soluções normalmente utilizam [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), ou uma WebView customizada como ponte entre APIs nativas.
 
 * [Adobe PhoneGap](http://phonegap.com/) :moneybag:
 * [AppBuilder](http://www.telerik.com/appbuilder) :moneybag:
@@ -83,7 +83,7 @@ Não consegue se decidir entre React ou Angular 2? Leia ["Angular 2 vs React: Th
 
 ###### RESULTADOS DE PESQUISAS:
 
-As imagens abaix o são da [Pesquisa Sobre Frontend Tooling 2016 (Inglês)](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 desenvolvedores) e [Pesquisa Sobre o Estado do JS 2016 (Inglês)](http://stateofjs.com/) (9307 desenvolvedores)
+As imagens abaixo são da [Pesquisa Sobre Frontend Tooling 2016 (Inglês)](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 desenvolvedores) e [Pesquisa Sobre o Estado do JS 2016 (Inglês)](http://stateofjs.com/) (9307 desenvolvedores)
 
 ![](../images/q13.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
 
