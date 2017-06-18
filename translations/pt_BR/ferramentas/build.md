@@ -15,7 +15,7 @@
 
 ###### AVISO:
 
-[^1] Antes de utilizar Gulp, certifique-se de que [npm scripts](https://docs.npmjs.com/misc/scripts) ou [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) não são uma opção melhor. Leia, ["Porque troquei Gulp e Grunt por npm Scripts" (inglês)](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
+[^1] Antes de utilizar Gulp, certifique-se de que [npm scripts](https://docs.npmjs.com/misc/scripts) ou [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) não sejam uma opção melhor. Leia, ["Porque troquei Gulp e Grunt por npm Scripts" (inglês)](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
 
 ***
 
