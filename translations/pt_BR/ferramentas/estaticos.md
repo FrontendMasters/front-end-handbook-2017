@@ -10,4 +10,4 @@
 
 ###### AVISO:
 
-[^1] Antes de usar um gerador d esite estático, considere usar o [Gulp](http://gulpjs.com/) para orquestrar uma solução personalizada ou uar uma ferramenta que faz uso do Gulp para a geração de site estático. Por exemplo, [Gulp Starter](https://github.com/vigetlabs/gulp-starter)
+[^1] Antes de usar um gerador de site estático, considere usar o [Gulp](http://gulpjs.com/) para orquestrar uma solução personalizada ou utilizar uma ferramenta que faz uso do Gulp para a geração de site estático. Por exemplo, [Gulp Starter](https://github.com/vigetlabs/gulp-starter)
