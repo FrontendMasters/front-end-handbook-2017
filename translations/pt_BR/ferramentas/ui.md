@@ -2,7 +2,7 @@
 
 ##### Na Plataforma Web: [^1]
 
-* [Bootstrap 3 (Inglês)](http://getbootstrap.com/components/) or [Bootstrap 4 (Inglês)](https://v4-alpha.getbootstrap.com/)
+* [Bootstrap 3 (Inglês)](http://getbootstrap.com/components/) ou [Bootstrap 4 (Inglês)](https://v4-alpha.getbootstrap.com/)
 * [Kendo UI (Inglês)](http://www.telerik.com/kendo-ui) para jQuery :free: a :moneybag:
 * [Materialize](http://materializecss.com/)
 * [Office UI Fabric (Inglês)](http://dev.office.com/fabric)
