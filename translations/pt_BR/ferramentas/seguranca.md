@@ -5,7 +5,7 @@
 * [DOMPurify](https://github.com/cure53/DOMPurify)
 * [XSS](http://jsxss.com/en/index.html)
 
-##### Scanners/Avaliadores/Testers de Segurança:
+##### Scanners, Avaliadores e Testadores de Segurança:
 
 * [Netsparker](https://www.netsparker.com)
 * [Websecurify](http://www.websecurify.com/)
