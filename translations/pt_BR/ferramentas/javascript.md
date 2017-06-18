@@ -47,7 +47,7 @@
 * [Mocha (Inglês)](http://mochajs.org/)
 * [Tape (Inglês)](https://github.com/substack/tape)
 
-##### Testando Asserções pra Testes Unitários:
+##### Testando Asserções para Testes Unitários:
 
 * [Chai (Inglês)](http://chaijs.com/)
 * [expect.js (Inglês)](https://github.com/Automattic/expect.js)
