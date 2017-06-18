@@ -1,4 +1,4 @@
-# Ferramentas para Desenvolvimento de Acessibilidade 
+# Ferramentas para Desenvolvimento de Acessibilidade
 
 ## Guias
 * [Accessibility Guidelines Checklist (Checklist de Diretrizes de Acessibilidade)](http://accessibility.voxmedia.com)
@@ -7,7 +7,7 @@
 
 ## Escaneadores de Site
 * [aXe Browser Extension (Extensão de Navegador aXe)](http://www.deque.com/products/axe/)
-* [Chrome Accessibility Developer Tools (Ferramentas de Desenvolvedord de Acessibilidade do Chrome)](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+* [Chrome Accessibility Developer Tools (Ferramentas de Desenvolvimento para Acessibilidade do Chrome)](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 * [Tenon Accessibility Tool (Ferramenta de Acessibilidade Tenon)](https://tenon.io)
 * [WAVE Accessibility Tool (Ferramenta de Acessibilidade WAVE)](http://wave.webaim.org)
 
@@ -17,7 +17,7 @@
 * [Color Safe](http://colorsafe.co)
 * [Color Ratio](http://leaverou.github.io/contrast-ratio/)
 
-## Simuladores de Visão Baixa 
+## Simuladores de Visão Baixa
 * [SEE](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn) (Chrome)
 * [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb) (Chrome)
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) (Chrome)
