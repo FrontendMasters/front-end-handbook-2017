@@ -2,23 +2,23 @@
 
 ##### Utilitários JS de Codificação para Navegadores
 
-* [History.js (Inglês)](https://github.com/browserstate/history.js)
-* [html2canvas (Inglês)](https://github.com/niklasvh/html2canvas)
-* [Platform.js (Inglês)](https://github.com/bestiejs/platform.js)
-* [URI.js (Inglês)](http://medialize.github.io/URI.js/)
+* [History.js](https://github.com/browserstate/history.js) :us:
+* [html2canvas](https://github.com/niklasvh/html2canvas) :us:
+* [Platform.js](https://github.com/bestiejs/platform.js) :us:
+* [URI.js](http://medialize.github.io/URI.js/) :us:
 
-##### Ferramentes de Referência Geral para Determinar Se o Navegador X Suporta X:
+##### Ferramentas de Referência Geral para determinar se o Navegador X Suporta X:
 
 * [Browser support for broken/missing images (Suporte de navegador para imagens quebradas/faltantes)](http://codepen.io/bartveneman/full/qzCte/)
-* [Browserscope (Inglês)](http://www.browserscope.org/)
-* [caniuse.com (Inglês)](http://caniuse.com/)
+* [Browserscope](http://www.browserscope.org/) :us:
+* [caniuse.com](http://caniuse.com/) :us:
 * [Firefox Platform Status - Implementation & standardization roadmap for web platform features (Status da Plataforma Firefox - Mapa de implementação e padronização para características da plataforma web)](https://platform-status.mozilla.org/)
-* [HTML5 Please (Inglês)](http://html5please.com/)
-* [HTML5 Test (Inglês)](https://html5test.com/)
-* [iwanttouse.com (Inglês)](http://www.iwanttouse.com/)
-* [jscc.info (Inglês)](http://jscc.info/)
-* [Platform Status (Inglês)](https://dev.modern.ie/platform/status/)
-* [whatwebcando.today (Inglês)](https://whatwebcando.today/)
+* [HTML5 Please](http://html5please.com/) :us:
+* [HTML5 Test](https://html5test.com/) :us:
+* [iwanttouse.com](http://www.iwanttouse.com/) :us:
+* [jscc.info](http://jscc.info/) :us:
+* [Platform Status](https://dev.modern.ie/platform/status/) :us:
+* [whatwebcando.today](https://whatwebcando.today/) :us:
 
 ##### Ferramentas de Desenvolvimento/Debug para Navegador:
 
@@ -30,47 +30,47 @@
 * [Ferramentas do Firefox para Desenvolvedores](https://developer.mozilla.org/pt-BR/docs/Tools)
 * [IE Developer tools (aka F12 tools) (Ferramentas do IE para Desenvolvedores (aka ferramentas do F12))](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
 * [Safari Web Inspector (Inspetor Web do Safari)](https://developer.apple.com/safari/tools/)
-* [Vorlon.js (Inglês)](http://vorlonjs.com/)
+* [Vorlon.js](http://vorlonjs.com/) :us:
 
 ##### Ferramentas de Codificação para Navegadores para Determinar Se o Navegador X Suporta X:
 
-* [Feature.js (Inglês)](http://featurejs.com/)
-* [Modernizr (Inglês)](https://modernizr.com/)
+* [Feature.js](http://featurejs.com/) :us:
+* [Modernizr](https://modernizr.com/) :us:
 
 ##### Principais Polyfills/Shims para Navegadores:
 
-* [console-polyfill (Inglês)](https://github.com/paulmillr/console-polyfill)
-* [HTML5 Cross Browser Polyfills (Inglês)](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
-* [fetch (Inglês)](https://github.com/github/fetch)
-* [socket.io (Inglês)](http://socket.io/)
-* [SockJS (Inglês)](https://github.com/sockjs/sockjs-client)
-* [webcomponents.js (Inglês)](https://github.com/WebComponents/webcomponentsjs)
-* [webshim (Inglês)](https://afarkas.github.io/webshim/demos/)
+* [console-polyfill](https://github.com/paulmillr/console-polyfill) :us:
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) :us:
+* [fetch](https://github.com/github/fetch) :us:
+* [socket.io](http://socket.io/) :us:
+* [SockJS](https://github.com/sockjs/sockjs-client) :us:
+* [webcomponents.js](https://github.com/WebComponents/webcomponentsjs) :us:
+* [webshim](https://afarkas.github.io/webshim/demos/) :us:
 
 ##### Teste/Automação Hospedada para Navegadores:
 
-* [Browserling (Inglês)](https://www.browserling.com/) [free to $]
-* [BrowserStack (Inglês)](https://www.browserstack.com) [$]
-* [CrossBrowserTesting.com (Inglês)](http://crossbrowsertesting.com/) [$]
-* [Nightcloud.io (Inglês)](http://nightcloud.io/)
-* [Sauce Labs (Inglês)](https://saucelabs.com/) [$]
+* [Browserling](https://www.browserling.com/) :us: :moneybag:
+* [BrowserStack](https://www.browserstack.com) :us: :moneybag:
+* [CrossBrowserTesting.com](http://crossbrowsertesting.com/) :us: :moneybag:
+* [Nightcloud.io](http://nightcloud.io/) :us:
+* [Sauce Labs](https://saucelabs.com/) :us: :moneybag:
 
 ##### Navegadores Headless:
 
-* [PhantomJS (Inglês)](http://phantomjs.org/)
-  * [PhantomCSS (Inglês)](https://github.com/Huddle/PhantomCSS)
-* [slimerjs (Inglês)](http://slimerjs.org/)
-* [TrifleJS (Inglês)](http://triflejs.org/)
-* [Zombie.js (Inglês)](http://zombie.js.org/)
+* [PhantomJS](http://phantomjs.org/) :us:
+  * [PhantomCSS](https://github.com/Huddle/PhantomCSS) :us:
+* [slimerjs](http://slimerjs.org/) :us:
+* [TrifleJS](http://triflejs.org/) :us:
+* [Zombie.js](http://zombie.js.org/) :us:
 
 ##### Automação para Navegadores:
 
 Utilizado para testes funcionais e teste de macaco.
 
-* [CasperJS (Inglês)](http://casperjs.org/)
-* [Nightmare (Inglês)](https://github.com/segmentio/nightmare)
-* [TestCafe (Inglês)](https://github.com/DevExpress/testcafe)
+* [CasperJS](http://casperjs.org/) :us:
+* [Nightmare](https://github.com/segmentio/nightmare) :us:
+* [TestCafe](https://github.com/DevExpress/testcafe) :us:
 
 ##### Hacks para Navegadores:
 
-* [browserhacks.com (Inglês)](http://browserhacks.com/)
+* [browserhacks.com](http://browserhacks.com/) :us:
