@@ -31,7 +31,7 @@
 * Desenvolvedores front-end são apresentados ao [técnicas de substituição de Hot Modules e Time Travel Debugging](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.ezlpqez1i).
 * Mais pessoas esperando por navegadores com [loader nativo de módulos JavaScript](https://whatwg.github.io/loader/).
 * [Enforcing CSS](https://css-tricks.com/stylelint/) e [convenções JavaScript](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) ganham importância (considerando variações entre ES3 e ES6 e variações sintáticas entre pré-processadores CSS).
-* Uma pequena mas considerável quantidade de desenvolvedores começaram a [opter pelo Elm ao invés do JavaScript](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/).
+* Uma pequena mas considerável quantidade de desenvolvedores começaram a [optar pelo Elm ao invés do JavaScript](https://www.brianthicks.com/post/2016/04/22/state-of-elm-2016-results/).
 * Cresce o uso do [TypeScript](https://www.typescriptlang.org/) e ele adquire alguns fanboys.
 * http://aurelia.io/ se torna uma [escolha inteligente para desenvolvedores corporativos](https://www.youtube.com/watch?v=6I_GwgoGm1w&t=3315s) (ex. suporte).
 * [Webpack](https://webpack.js.org/configuration/) começa a [se desenvolver](https://opencollective.com/webpack) e se solidifica com relação ao [JSPM](https://www.pluralsight.com/courses/javascript-systemjs-jspm).

@@ -4,7 +4,7 @@
 
 ><cite>&#8212; [Wikipédia](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o_para_motores_de_busca)</cite>
 
-##### General Learning:
+##### Aprendizagem geral:
 
 * [Guia Inicial de SEO do Google (Google Search Engine Optimization Starter Guide)](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) [leia](em inglês)
 * [Fundamentos de SEO (SEO Fundamentals) de David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) [assista][$](em inglês)
