@@ -8,7 +8,7 @@ As seguintes tecnologias web são as principais utilizadas pelos desenvolvedores
 
 1. Uniform Resource Locators (aka URLs)
 2. Hypertext Transfer Protocol (aka HTTP)
-3. Hyper Text Markup Language (aka HTML)
+3. HyperText Markup Language (aka HTML)
 4. Cascading Style Sheets (aka CSS)
 6. JavaScript Programming Language (aka ECMAScript 262)
 7. JavaScript Object Notation (aka JSON)
@@ -18,7 +18,7 @@ As seguintes tecnologias web são as principais utilizadas pelos desenvolvedores
 
 Estas tecnologias são definidas abaixo com a documentação relevante e especificações. Para uma lista completa de todas as especificações relacionadas à web, dê uma olhada em [platform.html5.org](https://platform.html5.org/).
 
-##### Hyper Text Markup Language (aka HTML)
+##### HyperText Markup Language (aka HTML)
 
 > HyperText Markup Language (Linguagem de Marcação de Hipertexto), geralmente chamada de HTML, é a linguagem de marcação padrão utilizada para criar páginas web. Navegadores web podem ler arquivos HTML e renderizá-los em páginas web visíveis ou audíveis. HTML descreve a estrutura de um site semanticamente, juntamente com dicas para apresentação, fazendo dela uma linguagem de marcação, em vez de uma linguagem de programação.
 
@@ -61,7 +61,7 @@ Especificações mais relevantes / documentação:
 
 ##### Linguagem de Programação JavaScript (aka ECMAScript 262)
 
-> JavaScript é uma linguagem de programação de alto-nível, dinâmica, não tipada e interpretada. Ela foi padronizada na especificação de linguagem ECMAScript. Ao lado de HTML e CSS, é uma das três tecnologias essencials para a produção de conteúdo na Internet; A maioria dos sites utiliza-a e é suportada por todos os navegadores web modernos sem plug-ins. Javascript é baseada em protótipos com funções de primeira classe, tornando-se uma linguagem multi-paradigma, suportando estilo de programação orientado a objeto, imperativo e funcional. Ela possui uma API para trabalhar com texto, matrizes, datas e expressões regulares, mas não inclui qualquer E/S, como recurso de rede, armazenamento e gráficos, dependendo para estes do ambiente do host no qual ela está incorporada.
+> JavaScript é uma linguagem de programação de alto nível, dinâmica, não tipada e interpretada. Ela foi padronizada na especificação de linguagem ECMAScript. Ao lado de HTML e CSS, é uma das três tecnologias essencials para a produção de conteúdo na Internet; A maioria dos sites utiliza-a e é suportada por todos os navegadores web modernos sem plugins. Javascript é baseada em protótipos com funções de primeira classe, tornando-se uma linguagem multi-paradigma, suportando estilo de programação orientado a objeto, imperativo e funcional. Ela possui uma API para trabalhar com texto, matrizes, datas e expressões regulares, mas não inclui qualquer E/S, como recurso de rede, armazenamento e gráficos, dependendo para estes do ambiente do host no qual ela está incorporada.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/JavaScript)</cite>
 
@@ -103,7 +103,7 @@ Especificações mais relevantes:
 
 ##### JavaScript Object Notation (aka JSON)
 
-> É o formato de dados primário usado para comunicação assíncrona entre navegador/servidor (AJAX), em grande parte subistituindo XML (usado pelo AJAX). Embora originalmente derivado da linguagem de script Javascript, JSON é um formato de dados independente de linguagem. O código para analisar e gerar dados JSON está prontamente disponível em muitas linguagens de programação. O formato JSON foi originalmente especificado por Douglas Crockford. Atualmente ele é descrito por dois padrões concorrentes, RFC 7159 e ECMA-404. O padrão ECMA é mínimo, descrevendo apenas a sintaxe gramatical permitida, enquanto que o RFC também disponibiliza algumas considerações de semântica e segurança. O tipo de mídia oficial da Internet para JSON é application/json. A extensão de nome de arquivo de JSON é .json.
+> É o formato de dados primário usado para comunicação assíncrona entre navegador/servidor (AJAX), em grande parte substituindo XML (usado pelo AJAX). Embora originalmente derivado da linguagem de script Javascript, JSON é um formato de dados independente de linguagem. O código para analisar e gerar dados JSON está prontamente disponível em muitas linguagens de programação. O formato JSON foi originalmente especificado por Douglas Crockford. Atualmente ele é descrito por dois padrões concorrentes, RFC 7159 e ECMA-404. O padrão ECMA é mínimo, descrevendo apenas a sintaxe gramatical permitida, enquanto que o RFC também disponibiliza algumas considerações de semântica e segurança. O tipo de mídia oficial da Internet para JSON é application/json. A extensão de nome de arquivo de JSON é .json.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/JSON)</cite>
 
