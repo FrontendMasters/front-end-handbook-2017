@@ -6,7 +6,7 @@
 >
 >De acordo com Google Developers, essas características são:
 >
-> * Progressiva - Funciona para todos os usuários, indepedente do navegador escolhido, elas operam de forma progressiva como príncipio básico.
+> * Progressiva - Funciona para todos os usuários, independente do navegador escolhido, elas operam de forma progressiva como príncipio básico.
 > * Responsiva - Se adapta a qualquer dispositivo: desktop, mobile, tablet ou outros dispositivos que podem surgir.
 > * Independente de conexão - Permite você trabalhar offline ou com internets de baixa qualidade.
 > * São como aplicativos - Devem possuir a sensação, o estilo e a nevegação de um aplicativo, para o usuário sentir que está utilizando um aplicativo nativo.
