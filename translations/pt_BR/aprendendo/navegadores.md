@@ -1,6 +1,6 @@
 # Aprenda sobre Navegadores Web
 
-> Um navegador web (normalmente chamado de navegador) é uma aplicação de software para recuperar, apresentar e percorrer recursos de informação na Internet. Um recurso de informação é identificado por um Identificador Uniforme de Recursos (URI/URL) e pode ser uma página web, imagem, vídeo ou outro conteúdo. Hyperlinks presentes em recursos permitem que os usuários naveguem facilmente em seus navegadores para recursos relacionados. Embora os navegaroes tenham principalmente a intenção de usar a Internet, eles também pode ser utilizados para acessar informações fornecidas por servidores web em redes de computador privadas ou arquivos em sistemas de arquivos.
+> Um navegador web (normalmente chamado de navegador) é uma aplicação de software para recuperar, apresentar e percorrer recursos de informação na Internet. Um recurso de informação é identificado por um Identificador Uniforme de Recursos (URI/URL) e pode ser uma página web, imagem, vídeo ou outro conteúdo. Hyperlinks presentes em recursos permitem que os usuários naveguem facilmente em seus navegadores para recursos relacionados. Embora os navegadores tenham principalmente a intenção de usar a Internet, eles também pode ser utilizados para acessar informações fornecidas por servidores web em redes de computador privadas ou arquivos em sistemas de arquivos.
 
 ><cite>&#8212; [Wikipedia](https://pt.wikipedia.org/wiki/Navegador_web)</cite>
 
