@@ -46,4 +46,4 @@
 
 * [Conecte a Web com WebSockets (Inglês)](https://code.tutsplus.com/courses/connect-the-web-with-websockets) :tv:
 * [WebSocket: Lightweight Client-Server Communications (Inglês)](https://www.amazon.com.br/WebSocket-Client-Server-Communications-Andrew-Lombardi-ebook/dp/B015D78JVQ/ref=sr_1_1?ie=UTF8&qid=1492019088&sr=8-1&keywords=andrew+lombardi) :book:
-* [O Protocolo WebSocket (Inlgês)](https://tools.ietf.org/html/rfc6455) :book:
+* [O Protocolo WebSocket (Inglês)](https://tools.ietf.org/html/rfc6455) :book:
