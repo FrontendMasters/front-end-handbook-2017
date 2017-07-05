@@ -67,6 +67,7 @@
 * [slimerjs](http://slimerjs.org/)
 * [TrifleJS](http://triflejs.org/)
 * [Zombie.js](http://zombie.js.org/)
+* [Chrome 59+ Headless](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
 ##### Browser Automation:
 
