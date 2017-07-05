@@ -55,6 +55,11 @@
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 
+##### On-Premise Testing/Automation for Browsers:
+
+* [MultiBrowser](https://www.multibrowser.com)[$]
+* [BrowseEmAll](https://www.browseemall.com)[$]
+
 ##### Headless Browsers:
 
 * [PhantomJS](http://phantomjs.org/)
