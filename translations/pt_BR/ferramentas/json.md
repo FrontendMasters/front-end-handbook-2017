@@ -15,7 +15,6 @@
 * [DefiantJS (Inglês)](http://www.defiantjs.com/)
 * [JSON Mask (Inglês)](https://github.com/nemtsov/json-mask)
 * [ObjectPath (Inglês)](http://objectpath.org/)
-* 
 
 ##### Ferramentas para Gerar Mock de JSON:
 
