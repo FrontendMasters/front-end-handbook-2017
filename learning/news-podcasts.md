@@ -21,6 +21,7 @@
 * [Web Development Reading List](https://wdrl.info/)
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [Web Tools Weekly](http://webtoolsweekly.com/)
+* [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 
 
 ##### HTML/CSS Newsletters:
