@@ -10,7 +10,6 @@
 * [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) [watch]
 * [Building Modern Single-Page Web Applications](https://frontendmasters.com/courses/modern-web-apps/) [watch][$]
 * [Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html) [read]
-* [A Field Guide to Static Apps](http://www.staticapps.org/) [read]
 * [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) [read]
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) [read]
 * [Human JavaScript](http://read.humanjavascript.com/) [read]
