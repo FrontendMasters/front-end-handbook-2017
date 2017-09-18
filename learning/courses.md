@@ -18,7 +18,14 @@ If you can't afford a directed education, a self directed education using screen
         <tr>
             <td>Betamore</td>
             <td><a target="_blank" href="http://betamore.com/academy/front-end-web-development/">Front-end Web Development</a></td>
-            <td>8,500</td>
+            <td>3,000</td>
+            <td>Baltimore, MD</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Betamore</td>
+            <td><a target="_blank" href="https://betamore.com/academy/full-stack-web-development/">Introduction to Full Stack Web Development</a></td>
+            <td>3,400</td>
             <td>Baltimore, MD</td>
             <td></td>
         </tr>
