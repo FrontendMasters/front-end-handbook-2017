@@ -20,6 +20,8 @@
 * [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) [read][$]
 * [Web Accessibility](https://frontendmasters.com/workshops/accessibility/) [watch][$]
+* [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) [watch]
+* [Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) - Udacity course [watch] 
 
 ##### Standards/Specifications:
 
