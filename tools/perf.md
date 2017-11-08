@@ -20,6 +20,7 @@
 
 * [Jank Free](http://jankfree.org/)
 * [Performance of ES6 features relative to the ES5](https://kpdecker.github.io/six-speed/)
+* [Front-End Cheatsheets](http://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 ##### Checklist:
 
