@@ -2,7 +2,7 @@
 
 ##### React:
 
-* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) [read]
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/) [read]
 * [React.js Fundamentals](https://online.reacttraining.com/courses/enrolled/reactjsfundamentals) [watch]
 * [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/) [read]
 * [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html) [read]
