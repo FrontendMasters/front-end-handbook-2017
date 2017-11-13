@@ -62,6 +62,7 @@
 * [slimerjs](http://slimerjs.org/)
 * [TrifleJS](http://triflejs.org/)
 * [Zombie.js](http://zombie.js.org/)
+* [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
 ##### Browser Automation:
 
