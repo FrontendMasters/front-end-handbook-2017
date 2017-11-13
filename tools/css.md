@@ -29,6 +29,7 @@
 
 * [Eric Meyer's “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)
+* [sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
 ##### Transpiling:
 
