@@ -4,16 +4,13 @@
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Dev Tips](https://umaar.com/dev-tips/)
-* [Front-End Dev Weekly](http://frontenddevweekly.com/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
-* [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [Front-End Front](http://frontendfront.com/)
 * [FrontEnd Focus](http://frontendfocus.co/)
-* [Front End Newsletter](http://frontendnewsletter.com/)
 * [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/)
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Non Breaking Space Show](http://nonbreakingspace.tv)
-* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Web Platform News Weekly](https://webplatform.news/)
 * [ShopTalk Show](http://shoptalkshow.com/)
 * [UX Design Newsletter](http://uxdesignnewsletter.com/)
 * [The Versioning Show by SitePoint](https://www.sitepoint.com/versioning-show/)
@@ -22,7 +19,6 @@
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [Web Tools Weekly](http://webtoolsweekly.com/)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
-
 
 ##### HTML/CSS Newsletters:
 
