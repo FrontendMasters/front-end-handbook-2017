@@ -29,6 +29,7 @@
 
 * [Eric Meyer's “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)
+* [sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
 ##### Transpiling:
 
@@ -40,6 +41,7 @@
 
 ##### References:
 
+* [CSS Cursors](http://csscursor.info/)
 * [css3test.com](http://css3test.com/)
 * [css3clickchart.com](http://css3clickchart.com/)
 * [cssreference.io](http://cssreference.io/)

@@ -9,7 +9,7 @@
 * [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) [watch]
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4fe6a82bbf727209ba337ecaa0e516bc&camp=1789&creative=9325) [read][$]
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) [read][$]
-* [JavaScript Performance Rocks](http://javascriptrocks.com/) [read]
+* [JavaScript Performance Rocks](http://javascriptrocks.com/) [read][$]
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) [read]
 * [perf-tooling.today](http://www.perf-tooling.today/) [read]
 * [Performance Calendar](http://calendar.perfplanet.com) [read]

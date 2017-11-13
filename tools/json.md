@@ -14,8 +14,7 @@
 
 * [DefiantJS](http://www.defiantjs.com/)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
-* [ObjectPath](http://objectpath.org/)
-* 
+* [ObjectPath](http://objectpath.org/) 
 
 ##### Generating Mock JSON Tools:
 
