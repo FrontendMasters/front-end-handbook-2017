@@ -4,6 +4,7 @@
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Dev Tips](https://umaar.com/dev-tips/)
+* [Friday Front-End](https://zendev.com/friday-frontend.html)
 * [Front-End Dev Weekly](http://frontenddevweekly.com/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
