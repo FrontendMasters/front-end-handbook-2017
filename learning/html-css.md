@@ -29,6 +29,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Solid HTML Form Structure](https://webdesign.tutsplus.com/courses/solid-html-form-structure) [watch]
 * [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) [watch]
 * [Resilient Web Design](https://resilientwebdesign.com/) [read]
+* [HTML Best Practices](https://github.com/hail2u/html-best-practices)
 
 ##### Mastering CSS:
 
@@ -39,6 +40,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) [read]
 * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [What the Flexbox?! A Simple, Free 20 Video Course That Will Help You Master CSS Flexbox](http://flexbox.io/) [watch]
+* [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 
 ##### References/Docs:
 
@@ -50,11 +52,15 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [CSS Guidelines](https://github.com/chris-pearce/css-guidelines)
+* [CSS: The Good Parts](https://github.com/bevacqua/css)
+* [CSS Refresher](https://github.com/vasanthk/css-refresher-notes)
 
 ##### Glossary:
 
 * [CSS Glossary - Programming Reference for CSS Covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
 * [HTML Glossary Programming Reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
+* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 
 ##### Standards/Specifications:
 
