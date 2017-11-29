@@ -5,7 +5,7 @@
 * [doT.js](http://olado.github.io/doT/)
 * [Handlebars](http://handlebarsjs.com/)
   * [htmlbars](https://github.com/tildeio/htmlbars)
-* [Nunjuncks](http://mozilla.github.io/nunjucks/)
+* [Nunjucks](http://mozilla.github.io/nunjucks/)
 
 ##### Templating and Reactive Data Binding:
 
@@ -21,46 +21,3 @@
 
 * [JSX](https://facebook.github.io/jsx/)
 * [t7](http://t7js.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
