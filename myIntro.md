@@ -1,4 +1,4 @@
-# AVAILABLE NOW: [Front-End Developer Handbook 2018](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/)
+# AVAILABLE NOW: [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 ***
 
