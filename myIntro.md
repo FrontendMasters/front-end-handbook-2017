@@ -1,4 +1,8 @@
-# Front-End Developer Handbook 2017
+# AVAILABLE NOW: [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
+***
+
+### Front-End Developer Handbook 2017
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
