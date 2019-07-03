@@ -57,6 +57,8 @@
 
 * [CSS Lint](http://csslint.net/)
 * [stylelint](http://stylelint.io/)
+* [scsslint](https://github.com/brigade/scss-lint)
+* [sasslint](https://github.com/sasstools/sass-lint)
 
 ##### Code Formatter/Beautifier:
 
@@ -91,6 +93,14 @@
 * [SUIT CSS](http://suitcss.github.io)
 * [rscss](http://rscss.io/)
 
+##### CSS Design Systems:
+
+* [Pattern Lab](http://patternlab.io/)
+* [Rizzo](https://github.com/lonelyplanet/rizzo)
+* [KSS](http://warpspire.com/kss/)
+* [Hologram](https://github.com/trulia/hologram)
+* [SourceJS](https://sourcejs.com/)
+
 ##### Authoring/Architecting Conventions:
 
 * [CSS code guide](http://codeguide.co/#css) [read]
@@ -104,45 +114,3 @@
 ##### Trending CSS Repositories on GitHub This Month:
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
