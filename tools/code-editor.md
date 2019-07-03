@@ -30,6 +30,7 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 * [Cloud9](https://c9.io) [free to $]
 * [Codeanywhere](https://codeanywhere.com) [free to $]
+* [Mozilla Thimble](https://thimble.mozilla.org/en-US/) [free]
 
 ##### Shareable & Runnable Code Editors:
 

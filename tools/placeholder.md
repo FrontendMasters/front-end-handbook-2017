@@ -9,6 +9,7 @@
 * [LibreStock](http://librestock.com)
 * [Unsplash](https://unsplash.it)
 * [Place Beyoncé](http://placebeyonce.com)
+* [Mocka](https://chalarangelo.github.io/mocka/)
 
 ## Device Mockups:
 * [placeit.net](https://placeit.net)

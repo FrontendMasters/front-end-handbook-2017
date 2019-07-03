@@ -5,6 +5,7 @@
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
 * [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) [watch][$]
 * [Being a web developer](http://www.yellowshoe.com.au/standards) [read]
+* [Front-end Discourse](https://github.com/laras126/front-end-discourse)
 * [Foundations of Front-End Web Development](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
 * [freeCodeCamp](http://freecodecamp.com/) [interact]
 * [Front-End Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
@@ -21,6 +22,11 @@
 * [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
 * [Planning a Front-End JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA) [watch]
 * [So, You Want to Be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [A career guide to Front End Developers](https://github.com/woliveiras/front-end-career)
+* [Grab Front End Guide](https://github.com/grab/front-end-guide)
+* [YouTube (mostly, but not only) channels for frontend developers](https://github.com/andrew--r/channels)
+* [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
+* [The most essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 
 ##### General Front-End Newsletters, News Outlets, &amp; Podcasts:
 
