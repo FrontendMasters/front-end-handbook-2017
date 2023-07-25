@@ -5,7 +5,7 @@
     },
     "plugins": [
         "scripts",
-        "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link"
+        "canonical-link"
     ],
     "pluginsConfig": {
         "scripts": {
