@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "honkit serve"
+    "start": "honkit serve",
+    "build": "honkit build"
   },
   "devDependencies": {
     "canonical-link": "github:FrontendMasters/gitbook-plugin-canonical-link",
