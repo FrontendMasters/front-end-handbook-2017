@@ -4,7 +4,6 @@
         "readme": "myIntro.md"
     },
     "plugins": [
-        "scripts",
         "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link"
     ],
     "pluginsConfig": {

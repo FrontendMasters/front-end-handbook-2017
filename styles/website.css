@@ -1,3 +1,8 @@
+body {
+	display: flex;
+	flex-direction: column;
+}
+
 cite{
 	margin-top: -30px;
 	font-size:10px;
@@ -11,4 +16,55 @@ cite{
 
 small{
 	font-size:10px;
+}
+
+.FmCta {
+	align-items: flex-start;
+	background: #000;
+	color: #fff;
+	display: flex;
+	gap: 15px;
+	line-height: 2;
+	padding: 10px 15px;
+}
+
+.FmCtaLogo svg {
+	fill: #c02d28;
+	vertical-align: middle;
+	width: 25px;
+}
+
+.FmCtaLogo:hover svg {
+	fill: #dd625e;
+}
+
+.FmCtaText {
+	display: flex;
+	flex: 1;
+	gap: 15px;
+}
+
+.FmCtaText a {
+	color: #ccc;
+	font-weight: bold;
+}
+
+.FmCtaText a:hover {
+	color: #fff;
+}
+
+.FmCtaClose {
+	background: none;
+	border: none;
+	color: #888;
+	font-size: 25px;
+	height: 30px;
+	line-height: 1;
+	outline: none;
+	padding-bottom: 5px;
+	width: 30px;
+}
+
+.FmCtaClose:hover {
+	color: #fff;
 }
