@@ -1,0 +1,12 @@
+# Ferramentas para Armazenamento Front-End (Solução de Armazenamento de Dados no Cliente)
+
+* [AlaSQL (Inglês)](http://alasql.org/)
+* [Dexie.js (Inglês)](http://www.dexie.org/)
+* [ForerunnerDB (Inglês)](http://forerunnerdb.com/)
+* [LocalForage (Inglês)](https://localforage.github.io/localForage/)
+* [LokiJS (Inglês)](http://lokijs.org/#/)
+* [Lovefield (Inglês)](https://google.github.io/lovefield)
+* [lowdb (Inglês)](https://github.com/typicode/lowdb)
+* [Pouchdb (Inglês)](http://pouchdb.com/)
+* [NeDB (Inglês)](https://github.com/louischatriot/nedb)
+* [YDN-DB (Inglês)](http://dev.yathit.com/ydn-db/index.html)
